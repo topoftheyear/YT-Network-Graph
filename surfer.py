@@ -1,4 +1,6 @@
 import os
+import json
+import time
 
 import googleapiclient.discovery
 import googleapiclient.errors
@@ -14,10 +16,17 @@ def main():
     
     # All channels
     all_channels = dict()
+    if os.path.isfile('all_channels.json'):
+        all_channels = get_channels()
     
     # Create queue of channels
-    queue = ["UC_x5XG1OV2P6uZZ5FSM9Ttw"]
+    queue = list()
     explored_channels = list()
+    if os.path.isfile('existing_queue.txt'):
+        queue = get_queue()
+        explored_channels = get_explored_channels()
+    else:
+        queue = ["UC_x5XG1OV2P6uZZ5FSM9Ttw"]
     
     # Go through everything 
     try:
@@ -48,6 +57,7 @@ def main():
             print(result['snippet']['title'])
             all_channels[current_channel] = {'name': result['snippet']['title'], 'connected_channels': result['brandingSettings']['channel']['featuredChannelsUrls']}
         
+            # Add all those channels to the queue
             for c in all_channels[current_channel]['connected_channels']:
                 # Verify we haven't already explored the channel
                 if c in explored_channels:
@@ -58,15 +68,59 @@ def main():
                     continue
                     
                 queue.append(c)
+                
+            # Artificial waiting time
+            time.sleep(0.7)
 
     except KeyboardInterrupt:
         print('Stopping')
+    except googleapiclient.errors.HttpError:
+        print('Quota exceeded')
     except Exception:
         print('Broke')
 
     for key,item in all_channels.items():
         print(key)
         print(item)
+        
+    # Save everything
+    with open('all_channels.json', 'w+') as f:
+        json.dump(all_channels, f)
+        
+    with open('existing_queue.txt', 'w+') as f:
+        for thing in queue:
+            f.write(thing + '\n')
+            
+    with open('existing_explored.txt', 'w+') as f:
+        for thing in explored_channels:
+            f.write(thing + '\n')
+        
+def get_channels():
+    d = dict()
+    with open('all_channels.json', 'r') as f:
+        d = json.load(f)
+        
+    return d
+
+def get_queue():
+    q = list()
+    with open('existing_queue.txt', 'r') as f:
+        line = f.read()
+        while line:
+            q.append(line)
+            line = f.read()
+            
+    return q
+    
+def get_explored_channels():
+    q = list()
+    with open('existing_explored.txt', 'r') as f:
+        line = f.read()
+        while line:
+            q.append(line)
+            line = f.read()
+            
+    return q
 
 if __name__ == "__main__":
     main()
