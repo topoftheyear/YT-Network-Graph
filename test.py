@@ -18,9 +18,9 @@ def main():
     youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=api_key)
 
     request = youtube.channels().list(
-        part="brandingSettings",
+        part="id,brandingSettings",
         #id="UC_x5XG1OV2P6uZZ5FSM9Ttw"
-        forUsername="GoogleDevelopers"
+        forUsername="JonTronShow"
     )
     response = request.execute()
 
