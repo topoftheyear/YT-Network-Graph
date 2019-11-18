@@ -21,10 +21,8 @@ def main():
     
     # Create queue of channels
     queue = list()
-    explored_channels = list()
     if os.path.isfile('existing_queue.txt'):
         queue = get_queue()
-        explored_channels = get_explored_channels()
     else:
         queue = ["UC_x5XG1OV2P6uZZ5FSM9Ttw"]
     
@@ -33,8 +31,6 @@ def main():
         while len(queue) > 0:
             # Get next channel
             current_channel = queue.pop(0)
-            # Add it to the list of traversed channels
-            explored_channels.append(current_channel)
             
             # Form and make request
             request = youtube.channels().list(
@@ -60,7 +56,7 @@ def main():
             # Add all those channels to the queue
             for c in all_channels[current_channel]['connected_channels']:
                 # Verify we haven't already explored the channel
-                if c in explored_channels:
+                if c in all_channels.keys():
                     continue
                     
                 # Verify the channel isn't already in the queue
@@ -78,22 +74,14 @@ def main():
         print('Quota exceeded')
     except Exception:
         print('Broke')
-
-    for key,item in all_channels.items():
-        print(key)
-        print(item)
         
     # Save everything
-    with open('all_channels.json', 'w+') as f:
+    with open('all_channels.json', 'w') as f:
         json.dump(all_channels, f)
-        
-    with open('existing_queue.txt', 'w+') as f:
+    
+    with open('existing_queue.txt', 'w') as f:
         for thing in queue:
-            f.write(thing + '\n')
-            
-    with open('existing_explored.txt', 'w+') as f:
-        for thing in explored_channels:
-            f.write(thing + '\n')
+            f.write(f'{thing}\n')
         
 def get_channels():
     d = dict()
@@ -105,21 +93,12 @@ def get_channels():
 def get_queue():
     q = list()
     with open('existing_queue.txt', 'r') as f:
-        line = f.read()
+        line = f.readline().strip('\n')
         while line:
             q.append(line)
-            line = f.read()
-            
-    return q
+            line = f.readline().strip('\n')
+    print(f'loaded_queue \n{q}')
     
-def get_explored_channels():
-    q = list()
-    with open('existing_explored.txt', 'r') as f:
-        line = f.read()
-        while line:
-            q.append(line)
-            line = f.read()
-            
     return q
 
 if __name__ == "__main__":
