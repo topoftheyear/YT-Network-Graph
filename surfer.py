@@ -97,7 +97,6 @@ def get_queue():
         while line:
             q.append(line)
             line = f.readline().strip('\n')
-    print(f'loaded_queue \n{q}')
     
     return q
 
