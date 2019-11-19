@@ -18,7 +18,7 @@ UCBmwzQnSoj9b6HzNmFrg_yw	G Suite	6
 UCTMRxtyHoE3LPcrl-kT4AQQ	Google Cloud	1
 UCL8ZULXASCc1I_oaOT0NaOQ	Google Chrome	9
 UC9M7-jzdU8CVrQo1JwmIdWA	Android	3
-UCBR8-60-B28hp2BmDPdntcQ	YouTube	11
+UCBR8-60-B28hp2BmDPdntcQ	YouTube	12
 UCUjlPym2cxucUVPdE8kYOOg	Google Nexus	1
 UCrRK02_CbvPEPrDYMQ1l49w	Google Play	5
 UCt84aUC9OG6di8kSdKzEHTQ	Google for Education	6
@@ -27,7 +27,7 @@ UC3x6qC4h-NyuvQBSZYaPKrQ	Google Help	1
 UCf4AIjSwE-E2TggCPdm-z-A	Nat and Friends	2
 UCGn7dlcAmH44GqycKa_3ssA	Google Arts & Culture	3
 UCpd0xtuhhWwUug1bk84usiA	Grow with Google	1
-UCEmCXnbNYz-MOtXi3lZ7W1Q	The Key of Awesome	12
+UCEmCXnbNYz-MOtXi3lZ7W1Q	The Key of Awesome	13
 UCxqyBoACUss6OxFdmFvxcXQ	Google Glass	1
 UCSmyV6P8_ir9EV4Z4tYA2QA	Google for Nonprofits	2
 UC0_ALFRaovsmae1Y8bILisQ	Google Cultural Institute	2
@@ -47,84 +47,84 @@ UCIG1k8umaCIIrujZPzZPIMA	Made by Google	1
 UC70QckdMkEtr9QHDhRn8-kw	Google ATAP	2
 UCCLyNDhxwpqNe3UeEmGHl8g	Google self-driving car project	2
 UC7LeBTDzQhjcsEG9VjueUTg	MarkDouglas	3
-UC6nSFpj9HTCZ5t-N3Rm3-HA	Vsauce	31
-UCwmFOfFuvRPI112vR5DNnrA	Vsauce3	16
+UC6nSFpj9HTCZ5t-N3Rm3-HA	Vsauce	41
+UCwmFOfFuvRPI112vR5DNnrA	Vsauce3	17
 UCqmugCqELzhIMNYnsjScXXw	Vsauce2	14
-UCBMxQPhfM6nkhQ8vPfQhkCg	ThreadBanger	4
+UCBMxQPhfM6nkhQ8vPfQhkCg	ThreadBanger	8
 UCRPktNf5vnBR1J4e7t1RUVg	Field Day	1
 UCGnX8ABNZYuZrhzT-sJVaeg	Earth Outreach	2
 UCgl9rHdm9KojNRWs56QI_hg	Google Ads	3
 UC6ZEIvlahVCA8k5tYTr_a2A	Salesforce.org	6
-UCGg-UqjRgzhYDPJMr-9HXCg	Creator Insider	3
+UCGg-UqjRgzhYDPJMr-9HXCg	Creator Insider	4
 UCqVDpXKLmKeBU_yyt_QkItQ	YouTube Originals	2
 UCwzySbzUWiKqG84jOnbeB1w	YouTube For Business	1
 UCh5Yo6HN5b2Hco70HosIzZA	Waymo	2
-UCP-Ng5SXUEt0VE-TXqRdL6g	LEGO	8
+UCP-Ng5SXUEt0VE-TXqRdL6g	LEGO	11
 UCpVm7bg6pXKo1Pr6k5kxG9A	National Geographic	38
-UC_xYMXx_-mAzheKyEtwtCAQ	Scientific American	6
+UC_xYMXx_-mAzheKyEtwtCAQ	Scientific American	7
 UCrHXK2A9JtiexqwHuWGeSMg	CERN	1
 UC08FMoIyKIiXzzw26J_6fdw	TJCMN	3
 UCJadKNYMahhqtdAhDZSy4cg	Google Spotlight Stories	1
-UCivtfTLPQ52Gmr4vdwVoZXQ	barelydigital	2
+UCivtfTLPQ52Gmr4vdwVoZXQ	barelydigital	3
 UCboO-orWDjoSrZ2yqJRQpBQ	How 2 Travelers	3
 UClq42foiSgl7sSpLupnugGA	D!NG	5
-UCoxcjq-8xIDTYp3uz647V5A	Numberphile	21
-UC6107grRI4m0o2-emgoDnAA	SmarterEveryDay	14
-UCUHW94eEFW7hkUMVaZz4eDg	minutephysics	20
-UC2C_jShtL725hvbm1arSV9w	CGP Grey	17
-UCvBqzzvUBLCs8Y7Axb-jZew	Sixty Symbols	19
-UCHnyfMqiRRG1u-2MsSQLbXA	Veritasium	24
-UCOGeU-1Fig3rrDjhm9Zs_wg	Vihart	9
+UCoxcjq-8xIDTYp3uz647V5A	Numberphile	26
+UC6107grRI4m0o2-emgoDnAA	SmarterEveryDay	22
+UCUHW94eEFW7hkUMVaZz4eDg	minutephysics	24
+UC2C_jShtL725hvbm1arSV9w	CGP Grey	25
+UCvBqzzvUBLCs8Y7Axb-jZew	Sixty Symbols	20
+UCHnyfMqiRRG1u-2MsSQLbXA	Veritasium	31
+UCOGeU-1Fig3rrDjhm9Zs_wg	Vihart	11
 UCeQEKFH31vvD-InkTGSvCrA	brusspup	9
 UCk6cjmZB_r3AVPMyAeJYBng	Jake Roper	3
-UCtinbF-Q-fVthA0qrFQTgXQ	CaseyNeistat	7
-UCC552Sd-3nyi_tk2BudLUzA	AsapSCIENCE	12
-UCjwmbv6NE4mOh8Z8VhPUx1Q	Rosanna Pansino	10
+UCtinbF-Q-fVthA0qrFQTgXQ	CaseyNeistat	16
+UCC552Sd-3nyi_tk2BudLUzA	AsapSCIENCE	14
+UCjwmbv6NE4mOh8Z8VhPUx1Q	Rosanna Pansino	11
 UC4Abl9Z_dKFxA7fRFnGPLiA	The Create Unknown	3
 UC1UIj7Y9SphX5GuoG2e94XQ	Jake Chudnow	2
-UCohfGoL208cZbSSlXgMNUiA	BlameSociety	7
+UCohfGoL208cZbSSlXgMNUiA	BlameSociety	8
 UCyi06SeKkiwoAzFVmQtDtfg	Aspect Science	2
 UCJfrQ757VURxgJTO2Z2MLrQ	Rob Czar	2
 UCS4mCuv_CP6xgMgGjLKLvoA	Corinne Leigh	2
-UCo_IB5145EVNcf8hw1Kku7w	The Game Theorists	14
+UCo_IB5145EVNcf8hw1Kku7w	The Game Theorists	18
 UCbaGn5VkOVlcRgIWAHcrJKA	Cut	7
 UCX0Li3JxkKVPIHAamYe-YmQ	Mike Relm	3
 UC2hAbftpVjHtFrDOpEM90aA	Action Movie Kids	6
 UCTrtA2LyW7gie0o8hY4efXw	Improv Everywhere	9
-UCsXVk37bltHxD1rDPwtNM8Q	Kurzgesagt \xe2\x80\x93 In a Nutshell	13
-UCp68_FLety0O-n9QU6phsgw	colinfurze	4
+UCsXVk37bltHxD1rDPwtNM8Q	Kurzgesagt \xe2\x80\x93 In a Nutshell	20
+UCp68_FLety0O-n9QU6phsgw	colinfurze	6
 UC2zHjOF9Womes-SEjdzTleA	Google Earth	1
 UCUpquzY878NEaZm5bc7m2sQ	Salesforce	16
 UCMSfoJzq24tEKNfdB4GaIqg	Salesforce Events & Dreamforce	14
-UCcB3bcWy0_QK7uPQvTD0LwQ	Video Creators	7
+UCcB3bcWy0_QK7uPQvTD0LwQ	Video Creators	11
 UCfM3zsQsOnfWNUppiycmBuw	EminemMusic	1
 UCe9DTWmhhxeKyYHL4mldGcA	Cobra Kai	1
 UCkM3cLfmWBSFoEU-xVnQ-dw	Step Up: High Water	2
-UCGCPAOQDZa_TTTXDr5byjww	Joey Graceffa	10
+UCGCPAOQDZa_TTTXDr5byjww	Joey Graceffa	11
 UC4PooiX37Pld1T8J5SYT-SQ	Good Mythical Morning	5
-UCfm4y4rHF5HGrSr-qbvOwOg	IISuperwomanII	11
+UCfm4y4rHF5HGrSr-qbvOwOg	IISuperwomanII	13
 UCGjylN-4QCpn8XJ1uY-UOgA	Daniel Howell	6
 UCHUE4ypXKp7ZkmdWbGJNgJg	AmazingPhil	6
 UCutXfzLC5wrV3SInT_tdY0w	Wong Fu Productions	9
-UCzH3iADRIq1IJlIXjfNgTpA	Rooster Teeth	11
-UCpko_-a4wgz2u_DgDgd9fqA	BuzzFeedVideo	14
-UCWljxewHlJE3M7U_6_zFNyA	AwesomenessTV	6
+UCzH3iADRIq1IJlIXjfNgTpA	Rooster Teeth	15
+UCpko_-a4wgz2u_DgDgd9fqA	BuzzFeedVideo	15
+UCWljxewHlJE3M7U_6_zFNyA	AwesomenessTV	9
 UCbwMZHCMpBiOWfYLBOH-9Qw	TheOfficialLoganPaul	2
-UCPDXXXJj9nax0fr0Wfc048g	CollegeHumor	14
-UCYoKN0FOSrHo1qf4ZqlM2CA	BlackBoxTV	6
+UCPDXXXJj9nax0fr0Wfc048g	CollegeHumor	16
+UCYoKN0FOSrHo1qf4ZqlM2CA	BlackBoxTV	7
 UCgefQJC5UgbWJHDxBqB4qVg	Jesse	12
 UCNPCx6BWK0ID6UKO1QicOmQ	Mr Sark	17
-UCq54nlcoX-0pLcN5RhxHyug	SeaNanners Gaming Channel	10
-UC0v-tlzsn0QZwJnkiaUSJVQ	FBE	11
+UCq54nlcoX-0pLcN5RhxHyug	SeaNanners Gaming Channel	11
+UC0v-tlzsn0QZwJnkiaUSJVQ	FBE	12
 UCKqH_9mk1waLgBiL2vT5b9g	VanossGaming	17
 UCOWAOUxf3XILuywxw60g5vA	LEGO FanTube	7
 UC5EywsvPhdLUqTG80JxVUOQ	LEGO Discover	2
 UC-P2nvnAm3kUQH43M_6GpDQ	LEGO Access	7
-UCzVnXCLWqY5dtOBn9UZoFTw	LEGO Gaming	7
+UCzVnXCLWqY5dtOBn9UZoFTw	LEGO Gaming	8
 UCpeX7ds2tTpiRMwga0jUq8g	The LEGO Group	5
 UCwEFuOAC8vDbILoL0hLk-8A	LEGO Family	1
 UCQ4igMzWw0NDcFnbX037byA	LEGO Little Ones	7
-UCDPk9MG2RexnOMGTD-YnSnA	Nat Geo WILD	37
+UCDPk9MG2RexnOMGTD-YnSnA	Nat Geo WILD	38
 UCXVCgDuD_QCkI7gTKU7-tpg	National Geographic Kids	36
 UC0ED5C9OaHHlbpk55kNU5DQ	Genius	35
 UCfDXsZ2-Wkd88QB8QloHDbw	Origins: The Journey of Humankind	34
@@ -178,31 +178,31 @@ UCJdKr0Bgd_5saZYqLCa9mng	The Rubin Report	7
 UCIjuLiLHdFxYtFmWlbTGQRQ	Peter Schiff	3
 UCaeO5vkdj5xOQHp4UmIN6dw	The Daily Wire	2
 UCxeY-wRrb65Jt37QHa5xMog	Matt Christiansen	2
-UC1yBKRuGpC1tSM73A0ZjYjQ	The Young Turks	31
+UC1yBKRuGpC1tSM73A0ZjYjQ	The Young Turks	32
 UC-yewGHQbNFpDrGM0diZOLA	Sargon of Akkad	6
 UCgHa4owKisgdFHSpfzJ3l6A	TechTubeCentral	3
 UC9aUuHpT8l_1o_so5mf1v7A	Todd Womack	2
 UCaAFjpMtI4_c6DetJdlidQQ	2girls2minutes	3
 UC7NV6LXCnEcDFx9QH-xPd1g	popspot	3
-UCUrJTuFfXKKjVYLKHYQpCOA	iwantmylauren	9
+UCUrJTuFfXKKjVYLKHYQpCOA	iwantmylauren	10
 UCK5OlUee3GVXV5QifSOfGzw	DerekD	3
 UCtwKon9qMt5YLVgQt1tvJKg	Objectivity	2
-UCtESv1e7ntJaLJYKIO1FoYw	Periodic Videos	17
-UC9-y-6csu5WGm29I7JiwpnA	Computerphile	5
-UCo-3ThNQmPmQSQL_L6Lx1_w	DeepSkyVideos	8
+UCtESv1e7ntJaLJYKIO1FoYw	Periodic Videos	21
+UC9-y-6csu5WGm29I7JiwpnA	Computerphile	7
+UCo-3ThNQmPmQSQL_L6Lx1_w	DeepSkyVideos	9
 UCCAgrIbwcJ67zIow1pNF30A	nottinghamscience	12
 UCyp1gCHZJU_fGWFf2rtMkCg	Numberphile2	1
 UCnQtJro3IurKlxp7XSPqpaA	bibledex	7
-UCUK0HBIBWgM2c4vsPhkYY4w	The Slow Mo Guys	7
-UCivA7_KLKWo43tFcCkFvydw	Applied Science	9
+UCUK0HBIBWgM2c4vsPhkYY4w	The Slow Mo Guys	10
+UCivA7_KLKWo43tFcCkFvydw	Applied Science	12
 UCmmPgObSUPw1HL2lq6H4ffA	Geography Now	1
-UCeiYXex_fwgYDonaTcSIk6w	MinuteEarth	12
-UCMnPZh6PyA5PSYoNt0cjuxg	MinutoDeFisica	5
-UCUFOXx9UF0sqwtRrGxfy5ZA	MinutoDeLaTierra	4
+UCeiYXex_fwgYDonaTcSIk6w	MinuteEarth	14
+UCMnPZh6PyA5PSYoNt0cjuxg	MinutoDeFisica	7
+UCUFOXx9UF0sqwtRrGxfy5ZA	MinutoDeLaTierra	5
 UCspCdzaOYa7hW70w9rR-gzA	minutemandolin	1
-UCkyfHZ6bY2TjqbJhiH8Y2QQ	thebrainscoop	18
-UCG8q-OixC0dwcNSUboVAYqg	UnPuntoCircular	3
-UCX6b17PVsYBQ0ip5gyeme-Q	CrashCourse	26
+UCkyfHZ6bY2TjqbJhiH8Y2QQ	thebrainscoop	21
+UCG8q-OixC0dwcNSUboVAYqg	UnPuntoCircular	5
+UCX6b17PVsYBQ0ip5gyeme-Q	CrashCourse	34
 UCwez9XDNV_wS0WNDZteXjgw	Hello Internet	3
 UCqoy014xOu7ICwgLWHd9BzQ	Cortex Podcast	4
 UC127Qy2ulgASLYvW4AuHJZQ	CGPGrey2	2
@@ -214,45 +214,45 @@ UCRwr1kxjL-8m1L6mQXB2zSQ	BradyStuff	1
 UCXtxgWwk55kVJo9lCCZRdmg	Veritasium en espa\xc3\xb1ol	2
 UC2LZO6swZ9SLUEOks3WnsfA	2veritasium	3
 UCGRB1ZjIqAiaGwt-XLq9CnA	Sciencium	3
-UCGaVdbSav8xWuFWTadK6loA	vlogbrothers	18
-UCZYTClx2T1of7BRZ86-8fow	SciShow	21
-UC4a-Gbdw7vOaccHmFo40b9g	Khan Academy	4
+UCGaVdbSav8xWuFWTadK6loA	vlogbrothers	28
+UCZYTClx2T1of7BRZ86-8fow	SciShow	26
+UC4a-Gbdw7vOaccHmFo40b9g	Khan Academy	8
 UCZdaZ6i5RRLvRo6s5q9SCUw	BlinkPopShift	1
-UCt_t6FwNsqr3WWoL6dFqG9w	BrainCraft	15
+UCt_t6FwNsqr3WWoL6dFqG9w	BrainCraft	20
 UCtyqy6OSBEo7TcmtCOYD-gg	DxDutch	5
-UCzNAswnSN0rZy79clU-DRPg	kipkay	5
-UCeWgfJXzXpnNBNi9NI6GMfA	greeenpro	3
-UCljCD9VDAO7TWUCyb69SL-Q	Dane Boe	7
-UC1zZE_kJ8rQHgLTVfobLi_g	The King of Random	12
+UCzNAswnSN0rZy79clU-DRPg	kipkay	7
+UCeWgfJXzXpnNBNi9NI6GMfA	greeenpro	4
+UCljCD9VDAO7TWUCyb69SL-Q	Dane Boe	8
+UC1zZE_kJ8rQHgLTVfobLi_g	The King of Random	20
 UCZ2ZEk_E9EEj1k8kxZxUZug	istealcandycane	1
 UCueYUJlpa5DsBlgT1S-4z_Q	Julius Fhan	4
 UCjQ0DhfvetzJxgxtTpUlQZg	faireset	3
-UCYraBfUqw2O6qeNYRowX4UA	Ericsurf6	8
+UCYraBfUqw2O6qeNYRowX4UA	Ericsurf6	13
 UCsVcVkaoIeJilVSKVB7Vnxw	J Dawg	3
 UCte83i8I4jBVfgSIuHR2drQ	MickiConsiglio	5
 UC3IFRa2lwtyfdeeIrRp1McA	filmester	4
 UCrczLm9_Ww6_D4cK-4aghaw	thebdonski	1
-UCXGgrKt94gR6lmN4aN3mYTg	Austin Evans	6
-UCfgkjyiRVziU8a0YJXyMJ_g	Olga Kay	8
-UCDWIvJwLJsE4LG1Atne2blQ	h3h3Productions	5
+UCXGgrKt94gR6lmN4aN3mYTg	Austin Evans	8
+UCfgkjyiRVziU8a0YJXyMJ_g	Olga Kay	10
+UCDWIvJwLJsE4LG1Atne2blQ	h3h3Productions	7
 UCb8FPM22JlU-FriBrwyqoxg	Casey Neistat's Snap Stories	2
 UCGq0hRjayYChtQ0cWE1WiWA	Casey Neistat Classics	2
 UCznHh6gk3ewFhaTZtdQFWWw	Greg and Mitch	2
 UCLHuGls4sZrWUnF8YPffgng	Mitchell Moffit	2
-UCQJx7Ga6wHg_clu5rFnzu6Q	Ask Kimberly	2
-UC3LqW4ijMoENQ2Wv17ZrFJA	PBS Idea Channel	12
-UCH4BNI0-FOK2dMXoFtViWHw	It's Okay To Be Smart	19
-UCU5n2CB2w4-D5AIaT0UOz4w	Husky	2
+UCQJx7Ga6wHg_clu5rFnzu6Q	Ask Kimberly	3
+UC3LqW4ijMoENQ2Wv17ZrFJA	PBS Idea Channel	19
+UCH4BNI0-FOK2dMXoFtViWHw	It's Okay To Be Smart	24
+UCU5n2CB2w4-D5AIaT0UOz4w	Husky	3
 UCey_c7U86mJGz1VJWH5CYPA	iJustine	10
-UCfw8x3VR-ElcaWW2Tg_jgSA	Rebecca Zamolo	6
-UCIJwWYOfsCfz6PjxbONYXSg	blogilates	6
-UCyC_4jvPzLiSkJkLIkA7B8g	Lindsey Stirling	11
-UC7_YxT-KID8kRbqZo7MyscQ	Markiplier	6
-UCR-QYzXrZF8yFarK8wZbHog	Colleen Ballinger	2
-UC9TreTE-iXwfwQl72DzDurA	Kandee Johnson	9
+UCfw8x3VR-ElcaWW2Tg_jgSA	Rebecca Zamolo	8
+UCIJwWYOfsCfz6PjxbONYXSg	blogilates	7
+UCyC_4jvPzLiSkJkLIkA7B8g	Lindsey Stirling	12
+UC7_YxT-KID8kRbqZo7MyscQ	Markiplier	9
+UCR-QYzXrZF8yFarK8wZbHog	Colleen Ballinger	7
+UC9TreTE-iXwfwQl72DzDurA	Kandee Johnson	15
 UCUo7T81zvCqpPhfsPb_kajA	Juanpa Zurita	1
-UCwtnkRZcvL4bfopzJ-Von8Q	merrelltwins	3
-UCWrtsravWX0ANhHiJXNlyXw	TheSamTsui	2
+UCwtnkRZcvL4bfopzJ-Von8Q	merrelltwins	4
+UCWrtsravWX0ANhHiJXNlyXw	TheSamTsui	4
 UCxSz6JVYmzVhtkraHWZC7HQ	Liza Koshy	2
 UCshoKvlZGZ20rVgazZp5vnQ	CaptainSparklez	10
 UCSiBSzeyA4vlNzhOO6K7XSg	Dawin	1
@@ -260,45 +260,45 @@ UCSXeJsIZ-kde_u2HrM0l5yQ	TCU Highlights	1
 UC8YrFWDu1zeOEMx_k_GIH4A	Triangle Content	2
 UC1VNpqYmTBSqhBRAfpdAMkA	ChudzMcKenzie	1
 UCxu3mVAacTdrLPfwTsAEUzg	The Good Stuff	2
-UCdhMqFFPqKd54ZMcxzRq5Qg	Game Society Pimps	4
-UCCpl-ac2Lj-dlA8EKPGHrYA	blamesociety2	6
+UCdhMqFFPqKd54ZMcxzRq5Qg	Game Society Pimps	5
+UCCpl-ac2Lj-dlA8EKPGHrYA	blamesociety2	7
 UCuGocPxRXM48tbEgc5dhmfQ	GameSociety2	2
 UCUQYeJ6D3qDlQkMboh-8-xw	MediocreFilms	8
 UCtDDEvAb1gB3Kt-nJVlzSkw	Tona Williams	1
 UCbxQcz9k0NRRuy0ukgQTDQQ	AustinMcConnell	1
 UCvK4bOhULCpmLabd2pDMtnA	Yes Theory	2
-UCLSh2s2hsYnyhgn_al4B2bw	Levi Hildebrand	3
+UCLSh2s2hsYnyhgn_al4B2bw	Levi Hildebrand	4
 UCAaegDUlb7doIKo0Rc1F08g	GTLive	2
 UC3sznuotAs2ohg_U__Jzj_Q	The Film Theorists	7
 UCuuwzVijgW6Z3sQ49pkisfw	Carf Darko	5
-UCyS4xQE6DK4_p3qXQwJQAyA	DidYouKnowGaming?	21
+UCyS4xQE6DK4_p3qXQwJQAyA	DidYouKnowGaming?	29
 UCs02eesk_kskNFkQv07Y3cw	Trailer Drake	3
-UCxNcCtPqqGIMEDwDACPVoHg	Gaijin Goombah Media	5
+UCxNcCtPqqGIMEDwDACPVoHg	Gaijin Goombah Media	12
 UCMkhi-z4ytE2HSNBzQJnERg	DigressingNSQ	2
-UC7gnV9U47_yawcpfOUnipSw	TheNationalDex	5
-UC6-ymYjG0SU0jUWnWh9ZzEQ	Wisecrack	10
-UCPYJR2EIu0_MJaDeSGwkIVw	The Completionist	17
-UCN_wvdNEDPK_wHuhu8Ey_5A	Yuriofwind	4
-UCB9_VH_CNbbH4GfKu8qh63w	DEATH BATTLE!	10
-UC1wdop56K-ORxh37G6-fs7A	Pat the NES Punk	7
+UC7gnV9U47_yawcpfOUnipSw	TheNationalDex	8
+UC6-ymYjG0SU0jUWnWh9ZzEQ	Wisecrack	11
+UCPYJR2EIu0_MJaDeSGwkIVw	The Completionist	33
+UCN_wvdNEDPK_wHuhu8Ey_5A	Yuriofwind	5
+UCB9_VH_CNbbH4GfKu8qh63w	DEATH BATTLE!	13
+UC1wdop56K-ORxh37G6-fs7A	Pat the NES Punk	14
 UC04ojh5l7fLL-_bzk3iMXcQ	Fear Pong	4
 UCGSNrGWA-JF8giG6vdIicYw	Lineup	4
 UCf_43RBfci8ZOAod1xcUCUA	Truth or Drink	4
 UC3S42ZoH6A0UrZVZFajMpaw	Keep It 100	4
 UCqa2MPu8bLY1PwVFUpSyVhQ	HiHo Kids	1
 UCUKi4zY5ETSqrKAjTBgjM-g	sWooZie	4
-UCY30JRSgfhYXA6i6xX1erWg	Smosh	12
+UCY30JRSgfhYXA6i6xX1erWg	Smosh	16
 UCZJZcjLDpBvlm_oq7a9PYMA	Mike Relm	2
 UCvmil-2FYPtN3NGRZAubQ0w	Action Movie Dad	1
 UCLd8MXvNErpFOuP1jjRMzgg	Imagine Dad	1
 UCFFs_8ZAds27LsLfJyX7S4g	Eric Miller Animation	2
-UC59ejpMDHCZESZid3Q4UGvg	Little Heroes	9
-UCNYrK4tc5i1-eL8TXesH2pg	schmoyoho	8
-UC33mB2wpioTCG4_nICJ3upQ	UCB Comedy	9
-UCfAOh2t5DpxVrgS9NQKjC7A	The Onion	11
-UCzS3-65Y91JhOxFiM7j6grg	Funny Or Die	15
-UCNVBYBxWj9dMHqKEl_V8HBQ	Comedy Central Originals	12
-UCwRH985XgMYXQ6NxXDo8npw	Dinge Erkl\xc3\xa4rt \xe2\x80\x93 Kurzgesagt	3
+UC59ejpMDHCZESZid3Q4UGvg	Little Heroes	10
+UCNYrK4tc5i1-eL8TXesH2pg	schmoyoho	9
+UC33mB2wpioTCG4_nICJ3upQ	UCB Comedy	12
+UCfAOh2t5DpxVrgS9NQKjC7A	The Onion	13
+UCzS3-65Y91JhOxFiM7j6grg	Funny Or Die	19
+UCNVBYBxWj9dMHqKEl_V8HBQ	Comedy Central Originals	15
+UCwRH985XgMYXQ6NxXDo8npw	Dinge Erkl\xc3\xa4rt \xe2\x80\x93 Kurzgesagt	5
 UCFiE5hu-b9jshyg1zMdZjfA	rick simpson	1
 UCY2MmWeQEf_F7FWT5-MH0Jw	Epic Fireworks	1
 UCmHlRvokjFiREW2Z5i02JcQ	Tom Lamb	1
@@ -315,56 +315,56 @@ UCQbCuBc6i2WYf_wbk-XbWjg	Salesforce Essentials	2
 UCv1hsDiYalwjR7aW2xgkwEg	Success Cloud	2
 UCuTP1Q4mrEZWxeIUTFXsXrQ	Futureforce	3
 UCbrOrrE0lOR2LcfycryZwHw	Salesforce Support	2
-UC9Gfy8SldXUR-sbZCNISs-Q	Reclaiming Motherhood	6
-UC3pV6eELigzhTjzBUPmT6_A	Derral Eves	6
-UCovtFObhY9NypXcyHxAS7-Q	Roberto Blake	9
-UCVOfW9GXHgj8YCnXNHKRnPA	Video Influencers	6
-UCGxjDWAN1KwrkXYVi8CXtjQ	Think Media	6
-UCl6vWwMCjufI8OPtOInHf0g	Social Blade	2
-UCGgf_k1y-_d-4Eh922iCCJg	Interscope Records	1
+UC9Gfy8SldXUR-sbZCNISs-Q	Reclaiming Motherhood	8
+UC3pV6eELigzhTjzBUPmT6_A	Derral Eves	9
+UCovtFObhY9NypXcyHxAS7-Q	Roberto Blake	15
+UCVOfW9GXHgj8YCnXNHKRnPA	Video Influencers	10
+UCGxjDWAN1KwrkXYVi8CXtjQ	Think Media	9
+UCl6vWwMCjufI8OPtOInHf0g	Social Blade	6
+UCGgf_k1y-_d-4Eh922iCCJg	Interscope Records	2
 UC20vb-R_px4CguHzzBPhoyQ	EminemVEVO	6
 UC8g5kYW2ZLJPta700XDCt-g	YelawolfVEVO	3
-UCeWSsy6hPAxThTS6QSAVwAA	YelaWolf	4
-UC3gNmTGu-TTbFPpfSs5kNkg	Movieclips	16
-UCUsN5ZwHx2kILm84-jPDeXw	Comedy Central	15
-UCkRMqL3hLrIYhxNCac4vR3w	Art of Manliness	4
-UCKy1dAqELo0zrOtPkf0eTMw	IGN	10
-UCCxIjIp19PmZVBr7RdpBHTQ	FXX	7
-UCM7Srv4mxJejt2NLmumkRRQ	WhatCulture	7
-UCOpcACMWblDls9Z6GERVi1A	Screen Junkies	7
-UCgPClNr5VSYC3syrDUIlzLw	Adult Swim	6
+UCeWSsy6hPAxThTS6QSAVwAA	YelaWolf	6
+UC3gNmTGu-TTbFPpfSs5kNkg	Movieclips	17
+UCUsN5ZwHx2kILm84-jPDeXw	Comedy Central	24
+UCkRMqL3hLrIYhxNCac4vR3w	Art of Manliness	5
+UCKy1dAqELo0zrOtPkf0eTMw	IGN	19
+UCCxIjIp19PmZVBr7RdpBHTQ	FXX	15
+UCM7Srv4mxJejt2NLmumkRRQ	WhatCulture	8
+UCOpcACMWblDls9Z6GERVi1A	Screen Junkies	8
+UCgPClNr5VSYC3syrDUIlzLw	Adult Swim	8
 UCWvMmm_sSdgALpo1Ci4WvtQ	Collider Videos	7
-UCe6_HAIg7aiCP3BQ6vFJV4Q	Step Up Movie	4
+UCe6_HAIg7aiCP3BQ6vFJV4Q	Step Up Movie	5
 UCFEvqpi9mIsaCoXJijYWV3Q	Channing Tatum	1
 UCa5R55NSXiWAZWi9997XYvg	NeYoVEVO	1
 UCNaViWaQdOZVCPewLM19iIQ	Jenna Dewan	1
-UCS_BD8cjFA8juZogPH5hEjg	Joey Graceffa	7
+UCS_BD8cjFA8juZogPH5hEjg	Joey Graceffa	9
 UCE4hoGDQruxi8_hUqB6tLVw	Joey Graceffa Vlogs	1
 UCzpCc5n9hqiVC7HhPwcIKEg	Good Mythical MORE	4
 UC8nhd-qEBMmFs-DkhBaQwww	Ear Biscuits	3
 UCXGR70CkW_pXb8n52LzCCRw	Mythical	3
 UCbochVIwBCzJb9I2lLGXGjQ	Rhett & Link	6
-UC2gzy_aI-luPtEpL-GzQP6w	A Little Late With Lilly Singh	6
+UC2gzy_aI-luPtEpL-GzQP6w	A Little Late With Lilly Singh	18
 UCsl2vIAHvfb8r7ocg325GfQ	Lilly Singh Vlogs	3
 UC5cdO1UKWYO_k0evsXohIIA	MOM BOSS OF 3	2
-UC-vSh8UCm0tFaLYAIXqqKLA	Kingsley	3
-UCap97Ue8K_BpKlrvQRYd6JA	LaurDIY	3
+UC-vSh8UCm0tFaLYAIXqqKLA	Kingsley	4
+UCap97Ue8K_BpKlrvQRYd6JA	LaurDIY	4
 UC73Km9IHhumn8S6zJtG5RQA	Alex Wassabi	2
 UCKcGZgLvLdgD1o3dh7JadkA	theDOMINICshow	5
 UCXgXW0kqxnJM66dlh6V5Pxw	danisnotinteresting	1
 UCuhwvTYFvVZjyBVXc9T7CrA	DanAndPhilGAMES	3
 UCQBnesNOJeax0RKuCn6rbJw	LessAmazingPhil	1
-UCavTVjugW1OejDAq0aDzdMw	KickThePj	7
+UCavTVjugW1OejDAq0aDzdMw	KickThePj	9
 UCveMpvDshyXvo-LWUs3dUmA	catrific	2
-UCfAEEhKikW1676DCa_0OWLA	Louise Pentland	4
+UCfAEEhKikW1676DCa_0OWLA	Louise Pentland	7
 UCMX5i-zBz32M7vSfSh231oQ	Just Duncan	5
 UCFIPBP94wEfZemSaonc9-0g	More Wong Fu	1
 UCsB0LwkHPWyjfZ-JwvtwEXw	Achievement Hunter	8
 UCII0hP2Ycmhh5j8lS4cexBQ	Rooster Teeth Animation	5
 UCyoFGdNz4k7i8R0gtSoTZrA	Rooster Teeth Trailers	2
-UCkxctb0jr8vwa4Do6c6su0Q	LetsPlay	12
+UCkxctb0jr8vwa4Do6c6su0Q	LetsPlay	14
 UC4w_tMnHl6sw5VD93tVymGw	Inside Gaming	8
-UCboMX_UNgaPBsUOIgasn3-Q	Funhaus	14
+UCboMX_UNgaPBsUOIgasn3-Q	Funhaus	15
 UCVyr0QjyHKZQP4ej0YI1Apg	GameFails	4
 UCwm59NePcctHtfYanzfyQEQ	LetsPlay Community	5
 UCWDIL65Y3kHmLjfp_0ZrpfQ	Game Attack	4
@@ -382,9 +382,9 @@ UCJFp8uSYCjXOMnkUyb3CQ3Q	Tasty	8
 UCulgOR1MzuirjSWu7AnHvsg	AwesomenessTV Cheerleaders	1
 UCjjhAz9SxqCC0EYRuWlX_Hg	AwesomenessTV Daily Report	1
 UCuVHOs0H5hvAHGr8O4yIBNQ	Niki and Gabi	3
-UCAoMPWcQKA_9Af5YhWdrZgw	MyLifeAsEva	2
+UCAoMPWcQKA_9Af5YhWdrZgw	MyLifeAsEva	3
 UC56D-IHcUvLVFTX_8NpQMXg	Brent Rivera	1
-UCTTJMptGhfJA67e40DlqbNw	Karina Garcia	3
+UCTTJMptGhfJA67e40DlqbNw	Karina Garcia	4
 UCJi_befq0YDYJ9fCeyHxJbg	MayBaby	3
 UCXUrDDdmQHni2UTSNyIh4ag	jennxpenn	3
 UCe2ba_7LwQdNK5BKFSLm41Q	Tessa Brooks	1
@@ -395,30 +395,30 @@ UCHdos0HAIEhIMqUc9L3vh1w	Dorkly	7
 UCoal_hpPIPAnWlG-kWHLheA	The Drawfee Channel	3
 UCC8zWIx8aBQme-x1nX9iZ0A	Dimension 20	1
 UCHi0PjvDEqIHNt_5Hytj4tw	Nikki Limo	7
-UCN9wHzrHRdKVzCSeV-5RuzA	Shane Dawson TV	12
+UCN9wHzrHRdKVzCSeV-5RuzA	Shane Dawson TV	13
 UC5R_gQd9t0iXzGM1505RsNQ	BREEessrig	8
-UC6Je0KLSDuKLfKs1lEBzKrQ	Mike Diva	6
-UCFari28bQmSVIbmzDjbiS7Q	Strawburry17	4
+UC6Je0KLSDuKLfKs1lEBzKrQ	Mike Diva	9
+UCFari28bQmSVIbmzDjbiS7Q	Strawburry17	5
 UCoEHWT2t52F0CcAxtqSmjcg	Joe Nation	4
-UCvphW8g3rf4m8LnOarxpU1A	Charles and Allie	9
-UCWN9W2OXPWFMVpB8HClLD-w	SteveGreeneComedy	9
+UCvphW8g3rf4m8LnOarxpU1A	Charles and Allie	11
+UCWN9W2OXPWFMVpB8HClLD-w	SteveGreeneComedy	10
 UCdoLeDxfcGwvj_PRl7TLTzQ	Onision	5
 UCB_3W3v9fV_3Y_g5dmcOlAw	Jess Lizama	4
 UCSUyajSl8NgS-6l0Wv8JaaQ	Brittani Louise Taylor	7
-UCzDIsPJjO0K5P00jG8JjlRg	BuckHollywood	5
+UCzDIsPJjO0K5P00jG8JjlRg	BuckHollywood	6
 UC6mf3GrX8PL2pyiFK43LWWg	Shanna Malcolm	5
-UCXH3RLvIK4bYsq949EHQhpA	Alphacat	2
+UCXH3RLvIK4bYsq949EHQhpA	Alphacat	3
 UCK5YnMYmiU_i6cF8plPlTBQ	Taryn Southern	4
-UCHNS1XG_AIH8tUsIQKREBGw	TotallySketch	8
+UCHNS1XG_AIH8tUsIQKREBGw	TotallySketch	9
 UC4Hu5C7A8m6iMU0czEuzklA	jasonhorton	10
-UCJMemx7yz_1QwXjHG_rXRhg	MrCreepyPasta	13
+UCJMemx7yz_1QwXjHG_rXRhg	MrCreepyPasta	14
 UCVJK2AT3ea5RTXNRjX_kz8A	Tobuscus	4
 UC3UECavcpHnR7U_wUOtHd3A	Jimmy Wong	3
 UCw1UfxJnp1HVvh_QzSbGkog	Meghan Tonjes	5
-UC1QLW3I7Y6XJJ7wGm3dCyLQ	IamCyr	2
+UC1QLW3I7Y6XJJ7wGm3dCyLQ	IamCyr	3
 UCTUOC1C0hZtFzrhXWUrkqIg	Scarlett Rose Turner	2
 UCIr316Ywijebn_Nz0You8JQ	360BlackBoxTV	1
-UCCTOffhuz1tyJuyAVUaxZJA	wendymccolm	3
+UCCTOffhuz1tyJuyAVUaxZJA	wendymccolm	4
 UCJ7LKwgheOe8OHD5YWnlPUg	What's Trending	2
 UCvirS-T7QzXJcO3F61oUogA	MAZ	2
 UC8r7C0SjzQA6ROalZQxaIyQ	New Form	2
@@ -429,12 +429,12 @@ UCOSMYm1yZ7LIHwERXphGAYw	DashieXP	8
 UCMgQwzHQrefJYo5GTIvhV0w	howtoPRANKitup	5
 UCt54Hzhj7RpCWOYpoFJLKAQ	steveo	5
 UCnOVVuoLJ_1YY8A0V802wHA	RomanAtwood	7
-UCYjk_zY-iYR8YNfJmuzd70A	Epic Meal Time	9
+UCYjk_zY-iYR8YNfJmuzd70A	Epic Meal Time	10
 UCQohNQqdNBYuDRTwKHhTkKQ	peterchao	6
 UCxOGHW-aqciBe5Wjq8ltzOg	Ownage Pranks	6
 UCZaY_saV156PW3g4bmD8i7g	aplfisher	4
 UCzRrheyUCB_qUrrfQ_sEG-Q	Hutch	4
-UCqg2eLFNUu3QN3dttNeOWkw	iHasCupquake	12
+UCqg2eLFNUu3QN3dttNeOWkw	iHasCupquake	15
 UCv9isdvu5C5Pl1ee19WI4pw	GassyMexican	13
 UC0KKGJKOJl8N0m-ymVbzmrw	Diction	10
 UCvPW1W4WlpTgNezZzwIstLA	Daithi De Nogla	19
@@ -445,13 +445,13 @@ UCClNRixXlagwAd--5MwJKCw	H2ODelirious	15
 UCN474WQPkqqhUbxhkXKieQw	Robbaz	13
 UCJQcOj0yUAef9Wq6wE7OWVA	Moo	14
 UCQiojTHkAvFvdCSajklqUXA	Terroriser	10
-UCO5KTtyzcJK2R4VUhsCVYUQ	ChilledChaos	11
+UCO5KTtyzcJK2R4VUhsCVYUQ	ChilledChaos	12
 UCHroTZTdUNXeZOWypt4Akvw	Tomato Gaming	13
 UCURh19hEVawK-H0Wl7KnR5Q	Ohmwrecker / Maskedgamer	6
 UCQCnMFr8uHBaMTaNBhych_A	Mini Ladd	18
 UCpFcHE36IoySjYj1Rytxyog	TheWarOwl	4
 UCL7DDQWP6x7wy0O6L5ZIgxg	2ndJerma	3
-UCnsEhLNp2-rjWo6CHgBFoMQ	Criken2	8
+UCnsEhLNp2-rjWo6CHgBFoMQ	Criken2	9
 UCyZVCV9xhrCyz4hPehvb4Wg	Internet Today	1
 UC9sB2csE8cmQGMZtRqUf10w	Cathy Diep	1
 UCBuUcCOdP9yG2y-s3Gfz_MA	Cathy Diep	2
@@ -478,13 +478,13 @@ UCYHPDII9XuPNBpTUxLpRK_g	Nature Newsteam	1
 UCUtBRzsDvTeIPyyJrhXM07Q	Nature Arabic	3
 UCIbD6EDPsFkZFQXVfikRdlQ	Springer Nature	2
 UCZFVVbHijTJZGBf9DwiuRUQ	hzbKanal	1
-UCE2hJ9CYR57BYhk3TjGVG6w	Breaking Lab	4
-UCHiZFOa_ZrLwYmxbTaUaKEA	Gross Science	8
+UCE2hJ9CYR57BYhk3TjGVG6w	Breaking Lab	5
+UCHiZFOa_ZrLwYmxbTaUaKEA	Gross Science	10
 UCj1gfrsi8H8zTrmR0ft1Kjw	What The Physics?!	1
 UCyKaaVFqQEqdEu0OheOUwJA	WGBH Music	3
 UC5zrlRzhT_cFI9zT6uQSijg	AmericanExperiencePBS	3
 UCdnJJ2_mzqHwKIX_SmCVHTA	Antiques Roadshow PBS	4
-UCgyeJxD05YnoDquRMNBfBqw	PBS	11
+UCgyeJxD05YnoDquRMNBfBqw	PBS	15
 UCgzD7Qo3ea6fer_QdtBVJng	World Science U	1
 UCo8Qc9-Zl9IJEUB2CpxLNzA	CharlieMillesManson	2
 UCi5XkLSmBXYCc-rJulaXEgg	FatHawaiianMan	2
@@ -496,8 +496,8 @@ UCuMo0RRtnNDuMB8DV5stEag	Rebel HQ	3
 UCbjBOso0vpWgDht9dPIVwhQ	Thom Hartmann Program	5
 UC-3jIAlnQmbbVMV6gR7K8aQ	The Majority Report w/ Sam Seder	17
 UCYWIEbibRcZav6xMLo9qWWw	The Ring of Fire	4
-UCn8zNIfYAQNdrFRrr8oibKw	VICE	20
-UCZaT_X_mc0BI-djXOlfhqWQ	VICE News	17
+UCn8zNIfYAQNdrFRrr8oibKw	VICE	22
+UCZaT_X_mc0BI-djXOlfhqWQ	VICE News	19
 UCo9oQdIk1MfcnzypG3UnURA	The Rational National	3
 UCVOpH1nJioh1d7UgTnZ98kg	The Progressive Voice	2
 UC554eY5jNUfDq3yDOJYirOQ	Destiny	1
@@ -541,222 +541,222 @@ UCF3q1J1nf4dxdc8A1JMMnPg	drcoolsex	6
 UCTvYbgKOFs7UiIFCy46AoDA	Amber Ettinger	1
 UCsZ2Q0eO6SNnvHwdmEOiHaw	GadgetGirlShow	4
 UC5K187INgDEcVdMxI1TSAFw	Lana Gautier	1
-UCUYRMtLP2eo1UMoNgcBIP-w	ThreadBangerStyle	1
-UChHcEXOe3miWp3x50xtIwFw	HungryNation	2
+UCUYRMtLP2eo1UMoNgcBIP-w	ThreadBangerStyle	2
+UChHcEXOe3miWp3x50xtIwFw	HungryNation	7
 UCLBd1Xax2XZLjS-VbmBuSJQ	overkranked	1
-UC4W7m1U5PZGsbX_YVBLKUZQ	My Damn Channel	4
-UC93DEJOBeet3XXZlJy2uJuA	Young Hollywood	1
+UC4W7m1U5PZGsbX_YVBLKUZQ	My Damn Channel	8
+UC93DEJOBeet3XXZlJy2uJuA	Young Hollywood	10
 UCYRNrmbc_V92bLAGMt28RuA	Lauren & Dennis	2
 UC7AB80x51RwhxZpJmIUQiZQ	SecretLifeofLauren	2
 UC1pree_tURLw1vW7BOQi28w	Lauren	2
-UC7fUUfXxq8i-lwX_ED1Ajcg	Def Churras	3
+UC7fUUfXxq8i-lwX_ED1Ajcg	Def Churras	11
 UC1jm99nowPK_Lzcd4PKK7Kw	Walter Masterson	2
-UCqkEG4uT1kn6B3zcMimqcXw	AlThompsonInc	1
-UC-I8kH9lJp03wJe7k-0Lbgw	Aaron Michael King	1
-UCxeEIoq3B-Yz18PcOYeQzuQ	Super Oleg Videos	1
-UCguNAJf9XDShvf8RDRt7gjw	ExtremeCostumes	1
-UCvfjriBh19Ddej0thncagUA	FastLaneDaily	1
-UCfnuJv9BtpcuXULNAfyEVTw	Hillside Media	2
-UCE_Ii7Nv91y9huA3w37sPxQ	waxandherbalt	1
-UCTpIgwqnsxRcAPKzCvPcjbQ	DaveReinholdTV	2
+UCqkEG4uT1kn6B3zcMimqcXw	AlThompsonInc	4
+UC-I8kH9lJp03wJe7k-0Lbgw	Aaron Michael King	3
+UCxeEIoq3B-Yz18PcOYeQzuQ	Super Oleg Videos	4
+UCguNAJf9XDShvf8RDRt7gjw	ExtremeCostumes	2
+UCvfjriBh19Ddej0thncagUA	FastLaneDaily	3
+UCfnuJv9BtpcuXULNAfyEVTw	Hillside Media	8
+UCE_Ii7Nv91y9huA3w37sPxQ	waxandherbalt	2
+UCTpIgwqnsxRcAPKzCvPcjbQ	DaveReinholdTV	5
 UCNGSLqZab4TkgY8cnJQxgtA	psyfile	3
 UCIThl1QA8ICaoYT630pn4IA	PhilosophyFile	3
 UC-YO7JkqlrBsgMGiAlqQ7Tg	wordsoftheworld	6
 UCgC4Nn0rqqdeqACnzaIMo_Q	The Slow Mo Guys 2	1
-UC2DjFE7Xf11URZqWBigcVOQ	EEVblog	4
+UC2DjFE7Xf11URZqWBigcVOQ	EEVblog	13
 UC966ccV08PVAmZRhcC0SU8Q	bionerd23	2
-UCKLIIdKEpjAnn8E76KP7sQg	mrpete222	1
-UClTpDNIOtgfRkyT-AFGNWVw	Jeri Ellsworth	4
-UCckETVOT59aYw80B36aP9vw	Matthias Wandel	2
+UCKLIIdKEpjAnn8E76KP7sQg	mrpete222	5
+UClTpDNIOtgfRkyT-AFGNWVw	Jeri Ellsworth	7
+UCckETVOT59aYw80B36aP9vw	Matthias Wandel	7
 UCM09oeJcaGmqzRWd8Pw4CVw	Jeri Ellsworth	2
-UCSY6p1ZwMs0lW2XP7Zc7k9g	RimstarOrg	5
-UCabaQPYxxKepWUsEVQMT4Kw	Healthcare Triage	8
-UCosnWgi3eorc1klEQ8pIgJQ	Afrotechmods	2
-UCiikqsFCXlqh4lPxHvoDEJw	RODALCO2007	1
-UCMdOWi6nBZJ3Q0tHNQIOUVA	tesla500	3
-UCtVVH0b-Xl5O_JeE9LM7HMQ	Makerj101	1
+UCSY6p1ZwMs0lW2XP7Zc7k9g	RimstarOrg	16
+UCabaQPYxxKepWUsEVQMT4Kw	Healthcare Triage	9
+UCosnWgi3eorc1klEQ8pIgJQ	Afrotechmods	6
+UCiikqsFCXlqh4lPxHvoDEJw	RODALCO2007	12
+UCMdOWi6nBZJ3Q0tHNQIOUVA	tesla500	4
+UCtVVH0b-Xl5O_JeE9LM7HMQ	Makerj101	5
 UC6GeDu1HXL3hMwPndpAhhWg	BenNBuilds	1
 UCEZx2rPrLs1a00Vb_anuicw	Paul Barbato	1
-UCbdSYaPD-lr1kW27UJuk8Pw	QuantumFracture	5
+UCbdSYaPD-lr1kW27UJuk8Pw	QuantumFracture	10
 UCDbdpVSfdIPvCcrnwUBCtQA	Tippe Top Physics	2
-UC52hytXteCKmuOzMViTK8_w	CdeCiencia	2
+UC52hytXteCKmuOzMViTK8_w	CdeCiencia	7
 UCzdbnf-pIJh-Qp6fdSb5ezw	collectivecadenza	1
-UCrqBVoZ9NyC7-eMwtf35rWg	Michael Aranda	1
-UCwTZ-JLF5FQ3EmQ2nPaS-lg	Thought Caf\xc3\xa9	1
-UCrMePiHCWG4Vwqv3t7W9EFg	SciShow Space	6
-UCmQThz1OLYt8mb2PU540LOA	The Art Assignment	10
-UCkxMlA7rt-mnIc1AjbyAsPw	sexplanations	7
-UCFqaprvZ2K5JOULCvr18NTQ	How to Adult	1
-UC1Nj4gkoi_n5eCcrKCVOXKA	AnimalWonders Montana	4
+UCrqBVoZ9NyC7-eMwtf35rWg	Michael Aranda	3
+UCwTZ-JLF5FQ3EmQ2nPaS-lg	Thought Caf\xc3\xa9	2
+UCrMePiHCWG4Vwqv3t7W9EFg	SciShow Space	7
+UCmQThz1OLYt8mb2PU540LOA	The Art Assignment	11
+UCkxMlA7rt-mnIc1AjbyAsPw	sexplanations	8
+UCFqaprvZ2K5JOULCvr18NTQ	How to Adult	4
+UC1Nj4gkoi_n5eCcrKCVOXKA	AnimalWonders Montana	5
 UCLBvNztuX67n_hU3M4twdFw	Myke Hurley	1
 UC3EWaB0SusKlnTouzSyZyWw	Sciencium ES	1
-UCEozHN2uoprBmM2LSDDS7ew	hankgames	1
-UC1RVRAdiSH4qxjBgxm_plng	100days	1
-UCUdettijNYvLAm4AixZv4RA	SciShow Psych	6
-UCRFIPG2u1DxKLNuE3y2SjHA	SciShow Kids	3
-UCjkUQ-_fGADyBYrIWviibmg	Nature League	1
-UCzR-rom72PHN9Zg7RML9EbA	PBS Eons	4
+UCEozHN2uoprBmM2LSDDS7ew	hankgames	3
+UC1RVRAdiSH4qxjBgxm_plng	100days	2
+UCUdettijNYvLAm4AixZv4RA	SciShow Psych	7
+UCRFIPG2u1DxKLNuE3y2SjHA	SciShow Kids	4
+UCjkUQ-_fGADyBYrIWviibmg	Nature League	2
+UCzR-rom72PHN9Zg7RML9EbA	PBS Eons	5
 UCOiYCGQWffmosWFxwAm7ABw	Careers and Personal Finance by Khan Academy	1
 UCN3W411iNFHkVXUun4vp10w	Khan Academy LSAT	1
 UCb6Pzsn8oIFv1N8eGem570A	Khan Academy SAT	1
 UCU0kWLAbhVGxXarmE3b8rHg	Khan Academy India	1
-UCXj2oSzwg6G0iBjKg33joMQ	Khan Academy Brasil	1
-UCGQO3uUEXBLwDjNSlWFVMVQ	KhanAcademyEspa\xc3\xb1ol	1
-UC7DdEm33SyaTDtWYGO2CwdA	Physics Girl	13
-UClIZqOLqUCro7bKztUjYCNA	The Psych Show	2
-UCerL4WZxy37tdPyDt2x3zMA	Trace Dominguez	1
-UC3KEoMzNz8eYnwBC34RaKCQ	Simone Giertz	8
+UCXj2oSzwg6G0iBjKg33joMQ	Khan Academy Brasil	3
+UCGQO3uUEXBLwDjNSlWFVMVQ	KhanAcademyEspa\xc3\xb1ol	2
+UC7DdEm33SyaTDtWYGO2CwdA	Physics Girl	17
+UClIZqOLqUCro7bKztUjYCNA	The Psych Show	3
+UCerL4WZxy37tdPyDt2x3zMA	Trace Dominguez	2
+UC3KEoMzNz8eYnwBC34RaKCQ	Simone Giertz	12
 UC1H1NWNTG2Xi3pt85ykVSHA	everydAI	1
-UC52kszkc08-acFOuogFl5jw	Tibees	2
-UC7_gcs09iThXybpVgjHZ_7g	PBS Space Time	11
+UC52kszkc08-acFOuogFl5jw	Tibees	4
+UC7_gcs09iThXybpVgjHZ_7g	PBS Space Time	13
 UCBl_krGIHcq__AZC0y7tjCQ	Vanessa Hill	1
-UC9nw1ojNmCsW9McgUYuk93w	Science Magic Show	1
-UC-3SbfTPJsL8fJAPKiVqBLg	Deep Look	11
-UCpJmBQ8iNHXeQ7jQWDyGe3A	Life Noggin	2
-UCsooa4yRKGN_zEE8iknghZA	TED-Ed	1
-UCzBYOHyEEzlkRdDOSobbpvw	Kati Morton	3
+UC9nw1ojNmCsW9McgUYuk93w	Science Magic Show	3
+UC-3SbfTPJsL8fJAPKiVqBLg	Deep Look	15
+UCpJmBQ8iNHXeQ7jQWDyGe3A	Life Noggin	6
+UCsooa4yRKGN_zEE8iknghZA	TED-Ed	9
+UCzBYOHyEEzlkRdDOSobbpvw	Kati Morton	6
 UCANa7EO3GwG7fzEMO-fVRWQ	MeisjeDjamila	1
-UCLi8qtd3QLvXCZLyobiodiw	Micaela \xe3\x83\x9f\xe3\x82\xab\xe3\x82\xa8\xe3\x83\xa9	1
-UCbAu-YXm8tGHJGuASiF_Yig	Gabriel Harmsen	2
+UCLi8qtd3QLvXCZLyobiodiw	Micaela \xe3\x83\x9f\xe3\x82\xab\xe3\x82\xa8\xe3\x83\xa9	5
+UCbAu-YXm8tGHJGuASiF_Yig	Gabriel Harmsen	4
 UCtviQCw5W7mtTnoaj1SWz9w	daniquelovesmusic	2
 UCyWISj7uno1iz9TvuH-2fHg	Destination Creation	1
-UCxCfamzzu7zD4yNkCxag_RQ	Kipkay en Espa\xc3\xb1ol	1
-UCI4I6ldZ0jWe7vXpUVeVcpg	Household Hacker	7
-UC0J6JrZZkSWgGclGlDIv_Mw	SAMIMY	2
-UCeKQtcyicjg7UPz2emB0K5A	matttchapman	3
-UCBANOZH2Q0doN89S24VfVqQ	3BricksHigher	2
-UCQ42pIYanZh5rlAM8JQqVaw	TomboysTv	2
-UCi-5OZ2tYuwMLIcEyOsbdRA	Annoying Orange	8
-UC7tHXQXWImq_0I3PCQ8Udaw	Annoying Orange Gaming	3
-UCV_nOXaNjfVViN-NI1nb1Ig	MrFixItDIY	2
-UCZ18GNLRBNeq6Lh33Jk3e1g	bobjenz	3
-UCh5XSbwOuVMVKA9QdXwdNJQ	kevinbrueck	3
-UCDsO-0Yo5zpJk575nKXgMVA	RocketJump	6
-UCEL5p5IYp4WmVrL49EMfGEw	Marshmallow	3
-UCRd9JHiQvqwT8O4d0QGI9jQ	Scam Nation	3
-UCFtc3XdXgLFwhlDajMGK69w	NightHawkInLight	6
-UC4hSMRoJQit1eu8nhlM-7rQ	SonicDadDotCom	2
-UCDom90xOqP4avehFjSJO6NA	Sick Science!	1
-UCIgKGGJkt1MrNmhq3vRibYA	NurdRage	3
-UCZM2vsQp6xH1qmDCp8Ucwzg	romanursuhack	1
-UCu6mSoMNzHQiBIOCkHUa2Aw	Cody'sLab	3
-UC-AAk4vhWHPzR-cV4o5tLRg	Mass Effect	1
-UCVXIl8kDnBLlpbpukSZyluw	TGN	1
-UCbFGOWie3TRISnvTqLlvFHQ	MassEffectIGN	1
-UCFiHjGyrJux8Rt4e6mUPU-w	CVG	1
-UCSVv3TMby4KxNOVT1lYy9oA	TetraNinja	1
-UCKgv4r1MTAR18ImSrX-qI2g	Gyu	1
-UCqtE0LPHozCquWv0ciRuK5w	slancinema	1
-UC7P7xHvI1izHn8kcbHMcTpA	DarioMocciaChannel	1
-UCuLRo7dNRTkYomCh2DT3XUg	gumitien	2
-UClcyjM5HDLZKgBYICIKWjSw	Fabrizio Oggiano (zizzomagic)	1
+UCxCfamzzu7zD4yNkCxag_RQ	Kipkay en Espa\xc3\xb1ol	3
+UCI4I6ldZ0jWe7vXpUVeVcpg	Household Hacker	13
+UC0J6JrZZkSWgGclGlDIv_Mw	SAMIMY	3
+UCeKQtcyicjg7UPz2emB0K5A	matttchapman	7
+UCBANOZH2Q0doN89S24VfVqQ	3BricksHigher	3
+UCQ42pIYanZh5rlAM8JQqVaw	TomboysTv	3
+UCi-5OZ2tYuwMLIcEyOsbdRA	Annoying Orange	14
+UC7tHXQXWImq_0I3PCQ8Udaw	Annoying Orange Gaming	7
+UCV_nOXaNjfVViN-NI1nb1Ig	MrFixItDIY	4
+UCZ18GNLRBNeq6Lh33Jk3e1g	bobjenz	7
+UCh5XSbwOuVMVKA9QdXwdNJQ	kevinbrueck	5
+UCDsO-0Yo5zpJk575nKXgMVA	RocketJump	11
+UCEL5p5IYp4WmVrL49EMfGEw	Marshmallow	6
+UCRd9JHiQvqwT8O4d0QGI9jQ	Scam Nation	8
+UCFtc3XdXgLFwhlDajMGK69w	NightHawkInLight	16
+UC4hSMRoJQit1eu8nhlM-7rQ	SonicDadDotCom	6
+UCDom90xOqP4avehFjSJO6NA	Sick Science!	3
+UCIgKGGJkt1MrNmhq3vRibYA	NurdRage	10
+UCZM2vsQp6xH1qmDCp8Ucwzg	romanursuhack	3
+UCu6mSoMNzHQiBIOCkHUa2Aw	Cody'sLab	9
+UC-AAk4vhWHPzR-cV4o5tLRg	Mass Effect	7
+UCVXIl8kDnBLlpbpukSZyluw	TGN	5
+UCbFGOWie3TRISnvTqLlvFHQ	MassEffectIGN	2
+UCFiHjGyrJux8Rt4e6mUPU-w	CVG	10
+UCSVv3TMby4KxNOVT1lYy9oA	TetraNinja	3
+UCKgv4r1MTAR18ImSrX-qI2g	Gyu	2
+UCqtE0LPHozCquWv0ciRuK5w	slancinema	2
+UC7P7xHvI1izHn8kcbHMcTpA	DarioMocciaChannel	5
+UCuLRo7dNRTkYomCh2DT3XUg	gumitien	5
+UClcyjM5HDLZKgBYICIKWjSw	Fabrizio Oggiano (zizzomagic)	5
 UCnrhy622SNPt04Avj5idFIg	Parole de chat	2
 UCkM749XptnTzVTqK-gV2Dyg	Les parodies artificielles	2
-UCpprBWvibvmOlI8yJOEAAjA	Cooking with Dog	2
-UClLV6D8S4CrVJL64-aQvwTw	HIKAKIN	2
-UCe_vXdMrHHseZ_esYUskSBw	CrazyRussianHacker	3
-UCgFM_SE3g27lgIhds16a_oA	\xe3\x83\x8f\xe3\x82\xb2\xe3\x81\xae\xe3\x81\xb8\xe3\x81\x9f\xe3\x81\x8f\xe3\x81\x9d\xe6\x96\x99\xe7\x90\x86runnyrunny999	2
-UCB6-vB9K8EKwAEixbGhHs6g	rootberry	1
-UCMDbFO82TQOs_MeIqQbzLgQ	helpmefindparents	1
-UCPV4BsRMseQ23RKy73uplyw	Mismag822 - The Card Trick Teacher	3
-UC5Ure7omY1nU5bozq7qVAww	Gimmeabreakman	3
-UC7n73vu-1C-R_f_wfqm6xDg	MULLY	2
-UCJzijS8Zq5zD-ONflJJav-Q	Comical REINA	1
-UC6Je3-ZV_x38NqQAxKiCCyQ	TabiEats	2
-UCiiMq8hhO1ketN7ZqJ5qzdg	Riken Magic	1
-UC9KEmN8IdC2lQ-3GFVLK-7g	Cyr	2
-UC0e3ennzBrYFoeTdlgAMgIg	KEEP THE HEAT	3
-UCKPooXPEDqCYIUFpc46bNBg	Chris Thompson	1
-UCnN-9SQdnxW7jAcV-TU_gJw	jonli702	2
-UCLat8CECTXsvUTsclmDdFGw	SMPFilms	1
-UCLei0fGvnpNu5kK3Kwgn5UA	TheNewYorkBadAss	1
-UCcrPisqc5p3GtFswP_Vt40A	Ryan Narciso	1
-UChUNKCrpi51nvUb3HeMvP1w	helenamariamusic	1
+UCpprBWvibvmOlI8yJOEAAjA	Cooking with Dog	7
+UClLV6D8S4CrVJL64-aQvwTw	HIKAKIN	12
+UCe_vXdMrHHseZ_esYUskSBw	CrazyRussianHacker	9
+UCgFM_SE3g27lgIhds16a_oA	\xe3\x83\x8f\xe3\x82\xb2\xe3\x81\xae\xe3\x81\xb8\xe3\x81\x9f\xe3\x81\x8f\xe3\x81\x9d\xe6\x96\x99\xe7\x90\x86runnyrunny999	5
+UCB6-vB9K8EKwAEixbGhHs6g	rootberry	4
+UCMDbFO82TQOs_MeIqQbzLgQ	helpmefindparents	3
+UCPV4BsRMseQ23RKy73uplyw	Mismag822 - The Card Trick Teacher	8
+UC5Ure7omY1nU5bozq7qVAww	Gimmeabreakman	13
+UC7n73vu-1C-R_f_wfqm6xDg	MULLY	7
+UCJzijS8Zq5zD-ONflJJav-Q	Comical REINA	6
+UC6Je3-ZV_x38NqQAxKiCCyQ	TabiEats	9
+UCiiMq8hhO1ketN7ZqJ5qzdg	Riken Magic	2
+UC9KEmN8IdC2lQ-3GFVLK-7g	Cyr	4
+UC0e3ennzBrYFoeTdlgAMgIg	KEEP THE HEAT	6
+UCKPooXPEDqCYIUFpc46bNBg	Chris Thompson	3
+UCnN-9SQdnxW7jAcV-TU_gJw	jonli702	8
+UCLat8CECTXsvUTsclmDdFGw	SMPFilms	2
+UCLei0fGvnpNu5kK3Kwgn5UA	TheNewYorkBadAss	2
+UCcrPisqc5p3GtFswP_Vt40A	Ryan Narciso	3
+UChUNKCrpi51nvUb3HeMvP1w	helenamariamusic	3
 UCVuiOwQNfnuV9ozs-53gWoQ	Reuben Morley	1
-UCZH4EVUqljV-zkZEd0Ot7EQ	Madilyn Bailey	2
-UCqo5ypBQ6S1vpDgtf9ePKjQ	Tracie Mattox Music	1
-UCs8LjV9ZOnhuI89R7jGz6jQ	Juliet Weybret	1
+UCZH4EVUqljV-zkZEd0Ot7EQ	Madilyn Bailey	4
+UCqo5ypBQ6S1vpDgtf9ePKjQ	Tracie Mattox Music	3
+UCs8LjV9ZOnhuI89R7jGz6jQ	Juliet Weybret	3
 UCQA4YGJSN_eeTQCuzz0GHAA	Brym Productions	1
-UCSNHUtMubcbzI-wAt5a3_FQ	LisaMurray	1
-UCA_3HNWAMqmbKqq0QSwg2Og	Jill Hanner	1
-UCnguxJH-5DJO_YJ13DqRDlQ	Bridget O'Neill	1
-UCmhPUWvs_C-zJCnTVXrn5fA	LisaNova	2
-UCSBqoJfG3s8GIpujvVTalyA	The STATION by MAKER	1
-UCUMyZ3GFwAPkEuai3zR3rxg	AndreasChoice	5
-UCiaL_7OwXp47jrv4uACO_3w	hiimrawn	2
-UCA-o8QDK3AxR2H9U3bcyZwg	MIYA	1
-UCzOEJREOXANNXcFf2OP8hZg	Kassem G	8
-UC77WzpPRrYr0W5oeFjVIqwQ	shaycarl	4
-UC2_ZUXs5oDv9Crj3f72j9Yw	Nice Peter	5
+UCSNHUtMubcbzI-wAt5a3_FQ	LisaMurray	3
+UCA_3HNWAMqmbKqq0QSwg2Og	Jill Hanner	3
+UCnguxJH-5DJO_YJ13DqRDlQ	Bridget O'Neill	4
+UCmhPUWvs_C-zJCnTVXrn5fA	LisaNova	4
+UCSBqoJfG3s8GIpujvVTalyA	The STATION by MAKER	3
+UCUMyZ3GFwAPkEuai3zR3rxg	AndreasChoice	12
+UCiaL_7OwXp47jrv4uACO_3w	hiimrawn	7
+UCA-o8QDK3AxR2H9U3bcyZwg	MIYA	4
+UCzOEJREOXANNXcFf2OP8hZg	Kassem G	14
+UC77WzpPRrYr0W5oeFjVIqwQ	shaycarl	16
+UC2_ZUXs5oDv9Crj3f72j9Yw	Nice Peter	12
 UC1IQIspOkCeV3WnYm32SBFQ	This Is	1
-UCBJycsmduvYEL83R_U4JriQ	Marques Brownlee	4
-UCDlQwv99CovKafGvxyaiNDA	Jonathan Morrison	5
-UCsTcErHg8oDvUnTzoqsYeNw	Unbox Therapy	5
-UCXuqSBlHAE6Xw-yeJA0Tunw	Linus Tech Tips	2
-UC9fSZHEh6XsRpX-xJc6lT3A	UrAvgConsumer	4
-UC6CqqNDwqiA99yJM1rgWKBw	OlgaKay2	3
-UCcHCRW5oHVWn0JuMQgWh8QQ	OlgaKayGames	3
-UCkK1yWDjQorMCpLXln01ZNg	MooshVille	3
+UCBJycsmduvYEL83R_U4JriQ	Marques Brownlee	8
+UCDlQwv99CovKafGvxyaiNDA	Jonathan Morrison	8
+UCsTcErHg8oDvUnTzoqsYeNw	Unbox Therapy	10
+UCXuqSBlHAE6Xw-yeJA0Tunw	Linus Tech Tips	7
+UC9fSZHEh6XsRpX-xJc6lT3A	UrAvgConsumer	5
+UC6CqqNDwqiA99yJM1rgWKBw	OlgaKay2	4
+UCcHCRW5oHVWn0JuMQgWh8QQ	OlgaKayGames	4
+UCkK1yWDjQorMCpLXln01ZNg	MooshVille	4
 UC90lcCeyjOhvMfMafn151LA	MooshWalks	3
 UCLtREJY21xRfCuEKvdki1Kw	H3 Podcast	3
 UCZZHPXsg6LopvdOKF7qM6cQ	H3 Podcast Highlights	3
 UC7pp40MU_6rLK5pvJYG3d0Q	Ethan and Hila	3
-UCXGdalibojXk9I6-462dFkA	ApprenticeEh	1
+UCXGdalibojXk9I6-462dFkA	ApprenticeEh	4
 UC6FQpHKFEStlOw7eqOUTulg	KMA Therapy Toronto: Psychotherapists	1
-UCpH3Eia7Qsncq-qmhltZ6uQ	PBSoffbook	3
+UCpH3Eia7Qsncq-qmhltZ6uQ	PBSoffbook	9
 UCr_2H8pPitVJ85bmpLwFUyQ	PBS Game/Show	2
-UCq6OAftTQOuUBRdtUDq5SUA	PBS Digital Studios	19
-UCt7fwAhXDy3oNFTAzF2o8Pw	theneedledrop	3
-UCCODtTcd5M1JavPCOr_Uydg	Extra Credits	2
-UCaKjk_zgE4v0UpWnlIC86yQ	Shanks FX	3
+UCq6OAftTQOuUBRdtUDq5SUA	PBS Digital Studios	25
+UCt7fwAhXDy3oNFTAzF2o8Pw	theneedledrop	5
+UCCODtTcd5M1JavPCOr_Uydg	Extra Credits	4
+UCaKjk_zgE4v0UpWnlIC86yQ	Shanks FX	6
 UC86BKGkw3Giit6yTAntInfQ	Sinvicta	1
-UC0gQe6RljqpKt7_7hjNTCpQ	Jenna Ezarik	3
+UC0gQe6RljqpKt7_7hjNTCpQ	Jenna Ezarik	4
 UC_emNizR6F0IYAu68pl3Y1Q	JoshSundquist	1
 UCJ7ipPF4AXSM-4tmXjCCCHQ	Lizzie Velasquez	1
-UCs3l6DsCu9ZOXkJkvskEsrQ	Nadeshot	1
-UCvo9oZCTg_UaTQbhyXkXX3w	Matt and Rebecca	3
+UCs3l6DsCu9ZOXkJkvskEsrQ	Nadeshot	4
+UCvo9oZCTg_UaTQbhyXkXX3w	Matt and Rebecca	4
 UCX-EPC5_NsFmRFkfzTFaP9Q	The Real Game Master	2
 UC0ufW3qv1DDE8ucnwK6jvTA	PawZam Dogs	2
 UCsk97458ImiY_C4Impj29rQ	Be Sheroic	1
-UCAMKnXQz5AH9iohPsXB6_CQ	BlogilatesTV	1
-UCKTgL5yfBJXIgRbhe4Qs1Mg	bubzbeauty	2
-UCgWfS_47YPVbKx5EK4FLm4A	Jenn Im	3
-UCjzof44RG883SW61XlkP-Pg	Guy Tang	1
-UCRSfmNCRk58D-aL5vZdBLow	Wendy's Lookbook	1
+UCAMKnXQz5AH9iohPsXB6_CQ	BlogilatesTV	2
+UCKTgL5yfBJXIgRbhe4Qs1Mg	bubzbeauty	5
+UCgWfS_47YPVbKx5EK4FLm4A	Jenn Im	20
+UCjzof44RG883SW61XlkP-Pg	Guy Tang	2
+UCRSfmNCRk58D-aL5vZdBLow	Wendy's Lookbook	3
 UCWTD3EHR2SWV4D8WplDWFVg	LindseyTime	1
-UCwgURKfUA7e0Z7_qE3TvBFQ	devinsupertramp	6
-UC-RcLOfoJrFN8eDGPtVlrPw	Otto Knows	2
-UCCnms8EieLvB6oNLXBgIGNQ	Eppic	2
-UCmKurapML4BF9Bjtj4RbvXw	ThePianoGuys	3
+UCwgURKfUA7e0Z7_qE3TvBFQ	devinsupertramp	14
+UC-RcLOfoJrFN8eDGPtVlrPw	Otto Knows	3
+UCCnms8EieLvB6oNLXBgIGNQ	Eppic	7
+UCmKurapML4BF9Bjtj4RbvXw	ThePianoGuys	6
 UCbgqb0ODUGP0APcPGVxh-fg	RED Digital Cinema	1
-UC2LgZ_4GzSFQS-3a87_Jc6w	Cute Girls Hairstyles	4
-UCgITW_70LNZFkNna7VsXbuQ	Peter Hollens	4
-UCCvCHN9DaKn8ON5VxDZmyhQ	Stuart Edge	1
-UC-bHiUvc7-Ru9R8CMkIUlpg	muyskerm	4
-UCOTiOsMISuYcYV7aV-4z-Rw	LordMinion777	7
-UCw-eZRxz9hHRR6BxyjMjGFA	yamimash	4
-UCAua9maY1vtNdBlYqnHRhwA	LixianTV	1
-UC9CuvdOVfMPvKCiwdGKL3cQ	GameGrumps	10
-UC0gEw6pgNkLkkzMwzX4UtHA	Egoraptor	6
-UCs7yDP7KWrh0wd_4qbDP32g	Ninja Sex Party	4
-UCsW0LA-ThH18OCrT9pa2zfQ	RubberNinja	6
-UCYzPXprvl5Y-Sf0g4vX-m6g	jacksepticeye	9
-UC9VX0KXNH20x9MCH3xGjisg	DOPE or NOPE	1
-UCepq9z9ovYGxhNrvf6VMSjg	CinnamonToastKen	4
-UCu2yrDg7wROzElRGoLQH82A	Cryaotic	7
-UCrbSjN1_5U7hqFKRA0nvFXQ	Colleen Vlogs	1
-UC1OFDlfdRb6ma1ZGZd07gWA	Miranda Sings	5
+UC2LgZ_4GzSFQS-3a87_Jc6w	Cute Girls Hairstyles	13
+UCgITW_70LNZFkNna7VsXbuQ	Peter Hollens	8
+UCCvCHN9DaKn8ON5VxDZmyhQ	Stuart Edge	4
+UC-bHiUvc7-Ru9R8CMkIUlpg	muyskerm	6
+UCOTiOsMISuYcYV7aV-4z-Rw	LordMinion777	16
+UCw-eZRxz9hHRR6BxyjMjGFA	yamimash	8
+UCAua9maY1vtNdBlYqnHRhwA	LixianTV	2
+UC9CuvdOVfMPvKCiwdGKL3cQ	GameGrumps	19
+UC0gEw6pgNkLkkzMwzX4UtHA	Egoraptor	16
+UCs7yDP7KWrh0wd_4qbDP32g	Ninja Sex Party	9
+UCsW0LA-ThH18OCrT9pa2zfQ	RubberNinja	12
+UCYzPXprvl5Y-Sf0g4vX-m6g	jacksepticeye	16
+UC9VX0KXNH20x9MCH3xGjisg	DOPE or NOPE	7
+UCepq9z9ovYGxhNrvf6VMSjg	CinnamonToastKen	5
+UCu2yrDg7wROzElRGoLQH82A	Cryaotic	13
+UCrbSjN1_5U7hqFKRA0nvFXQ	Colleen Vlogs	2
+UC1OFDlfdRb6ma1ZGZd07gWA	Miranda Sings	11
 UCZ36iGS80c_eSHCUT43-PSg	Kandeeland	1
-UCT8z80a4ESgO2Y4qajk-iXw	cutepolish	1
-UCggUd2MwKX5MzL5XFcXJLtQ	Charisma Star	1
-UCooQN8b9yPeNQgUFa9S5xew	Samantha Maria	1
-UCnmaW_YVh9iJAFVOsLR7W2w	Camila Coelho	2
-UCevNJDNNIKmG13YmTqLnZ-A	Ann Le	2
-UCiXoZHFowJUlDVMuRFAwVAw	Madeyewlook	1
-UCvthuVsurPaVz2a7_4LepGg	Family Fun Pack	6
-UCpuSRwCaWi-VqTlYviNW3hQ	Juanpa Zurita	1
+UCT8z80a4ESgO2Y4qajk-iXw	cutepolish	4
+UCggUd2MwKX5MzL5XFcXJLtQ	Charisma Star	5
+UCooQN8b9yPeNQgUFa9S5xew	Samantha Maria	7
+UCnmaW_YVh9iJAFVOsLR7W2w	Camila Coelho	5
+UCevNJDNNIKmG13YmTqLnZ-A	Ann Le	3
+UCiXoZHFowJUlDVMuRFAwVAw	Madeyewlook	4
+UCvthuVsurPaVz2a7_4LepGg	Family Fun Pack	16
+UCpuSRwCaWi-VqTlYviNW3hQ	Juanpa Zurita	10
 UCCqWrxHaMTPBsDUThxiBTJg	Merrell Twins Live	1
-UCplkk3J5wrEl0TNrthHjq4Q	Kurt Hugo Schneider	2
+UCplkk3J5wrEl0TNrthHjq4Q	Kurt Hugo Schneider	7
 UChoTvF02Cv74FF72OaJtTMA	Liza Koshy Too	1
 UCo8_GzFxkXAYtwN0QabhJ8A	Jordan Reacts	4
 UCXeEpbu7Ia6-KWZcteeeCSQ	Jordan Games	5
@@ -765,348 +765,348 @@ UCn7MpX76Bou10j6IkgAcdjg	Jordan Maron	5
 UCotZ-qisEJABEStw67UnWXw	Fortnite Cinema	4
 UCHVvQgQd4JrIS_FOFbHOK0g	Maron Music	5
 UCBdw4dLCLLHmTgAOnW4V0hQ	The Rock	2
-UCoUM-UJ7rirJYP8CQ0EIaHA	Bruno Mars	1
-UCQL5ABUvwY7YoW5lgMyAS_w	WheezyWaiter	6
-UCFTfkdN3L4aLdryeADiSsIg	Adam Koralik	2
-UCneuxGi0TQd66n1ZenHp7Yw	Kevin Lieber	1
+UCoUM-UJ7rirJYP8CQ0EIaHA	Bruno Mars	3
+UCQL5ABUvwY7YoW5lgMyAS_w	WheezyWaiter	10
+UCFTfkdN3L4aLdryeADiSsIg	Adam Koralik	8
+UCneuxGi0TQd66n1ZenHp7Yw	Kevin Lieber	3
 UCNYP_JPYClobmWs3C-kosgg	mediocrefilms2	2
 UCTj0u2mMzGiRJzsvLJZi7vg	YESHMIN!	2
-UCtmlDuXL7Hxs_fF0zXlvgPw	KaamilAF	1
+UCtmlDuXL7Hxs_fF0zXlvgPw	KaamilAF	4
 UCXN7NMwjjQpBHxzMwOPYzjQ	PES	1
-UC0BNMeyXj5EtqrkIp6VpZFQ	SBN3	1
-UC1XWplyK_jS8qlYToTYYXkw	Nikki Harris	1
+UC0BNMeyXj5EtqrkIp6VpZFQ	SBN3	7
+UC1XWplyK_jS8qlYToTYYXkw	Nikki Harris	4
 UC9PivtU3L4FK5SpvKBXxeaQ	Aria Inthavong	1
-UCTRM8LE1g6UXrVZKwgw5oEA	Kurtis Baute	1
-UCNXvxXpDJXp-mZu3pFMzYHQ	Our Changing Climate	1
-UClCQI_L-iS5UvO5BC1HDFtg	pwnageshow	1
-UCYUQQgogVeQY8cMQamhHJcg	CinemaSins	1
+UCTRM8LE1g6UXrVZKwgw5oEA	Kurtis Baute	2
+UCNXvxXpDJXp-mZu3pFMzYHQ	Our Changing Climate	3
+UClCQI_L-iS5UvO5BC1HDFtg	pwnageshow	3
+UCYUQQgogVeQY8cMQamhHJcg	CinemaSins	8
 UC1LDwjduqR-m-rZdPYNqiFA	Creactive Labs	1
-UC1hkAIJnb2CSmm7SPJaPR-A	Dan Bull	1
+UC1hkAIJnb2CSmm7SPJaPR-A	Dan Bull	7
 UCxoyydbcA1KlIdbP0YlndjQ	Blipsqueek animations	1
-UCAqp8ntmP6bBUzG-kiUZ3HQ	RadiCarl -	1
+UCAqp8ntmP6bBUzG-kiUZ3HQ	RadiCarl -	2
 UCh4q6c_OHmA7MTEWlQR-g5Q	DidYouKnowFood	1
 UCGB4yHg_Pg_CigeTxm_rygg	NormalBoots	6
 UCeCFik7Bl4JeEKHveT1cR1A	DidYouKnowGaming? 2	1
-UCOkL7q2SeGZeZuj22njMYEA	Caddicarus	6
-UCdJdEguB1F1CiYe7OEi3SBg	JonTronShow	4
-UCRBkeMoYX02w-0qVIKNkruw	PeanutButterGamer	11
-UCCumvoB0vLv7tdEhX3o3_cg	WTS Dubs	2
-UCWN49rf6HI1Zb5T-Mism74g	Continue?	9
-UCjZDoohri6w_X8fzUr8gAYQ	Jimmy Whetzel	8
-UC18ju52OET36bdewLRHzPdQ	brutalmoose	9
-UCXV_RBIFNTulEdcuKkRZhBA	SpaceHamster	8
-UCjb0MYm5NVLktN1b6GqQzOA	Balrog	6
-UCHBXe3D3JT0pGY37_0C8G2w	yungtown	6
-UC84X0epDRFdTrybxEX8ZWkA	Super Best Friends Play	1
+UCOkL7q2SeGZeZuj22njMYEA	Caddicarus	16
+UCdJdEguB1F1CiYe7OEi3SBg	JonTronShow	6
+UCRBkeMoYX02w-0qVIKNkruw	PeanutButterGamer	19
+UCCumvoB0vLv7tdEhX3o3_cg	WTS Dubs	3
+UCWN49rf6HI1Zb5T-Mism74g	Continue?	16
+UCjZDoohri6w_X8fzUr8gAYQ	Jimmy Whetzel	11
+UC18ju52OET36bdewLRHzPdQ	brutalmoose	21
+UCXV_RBIFNTulEdcuKkRZhBA	SpaceHamster	17
+UCjb0MYm5NVLktN1b6GqQzOA	Balrog	12
+UCHBXe3D3JT0pGY37_0C8G2w	yungtown	13
+UC84X0epDRFdTrybxEX8ZWkA	Super Best Friends Play	7
 UClarhNTgYk5wuztsunOx2Cw	The Pixel Kingdom	1
-UC9lNNtAARC-n0WC7tm-884Q	Comic Drake	1
-UCdhTUL88x3HKvNmALtc9fiw	TheGaijinGamersPlay	1
-UC_1HVMnw-610qx54iEiWk7A	akidearest	1
-UCDVKYPXwdYUQfgA05CkyFSg	GameChops	2
-UCsvazPPlhZlch0-Z3wPByeg	TeamFourStar	2
-UCl84oPPKuECe1PbIwDSN1Cg	Super Beard Bros	2
-UCYwIcyCwXZ--FR0iZ593uBA	Sunder	2
-UCmL4IQ5yHK9DiVW3_2Mf2MA	Belated Media	2
-UCUIJFJJLhxIrZVdAVdwL3bQ	TheJWittz	3
-UCid9DssdW6-yxUNl3_aba6A	TamashiiHiroka	1
+UC9lNNtAARC-n0WC7tm-884Q	Comic Drake	3
+UCdhTUL88x3HKvNmALtc9fiw	TheGaijinGamersPlay	4
+UC_1HVMnw-610qx54iEiWk7A	akidearest	15
+UCDVKYPXwdYUQfgA05CkyFSg	GameChops	7
+UCsvazPPlhZlch0-Z3wPByeg	TeamFourStar	6
+UCl84oPPKuECe1PbIwDSN1Cg	Super Beard Bros	9
+UCYwIcyCwXZ--FR0iZ593uBA	Sunder	8
+UCmL4IQ5yHK9DiVW3_2Mf2MA	Belated Media	3
+UCUIJFJJLhxIrZVdAVdwL3bQ	TheJWittz	7
+UCid9DssdW6-yxUNl3_aba6A	TamashiiHiroka	4
 UCu6DDGoV21YhwSb5iWbriAw	Alien's Guide	2
 UCnEYqkcIBtliTPK1bls2NBw	WISECASTS by Wisecrack	2
-UCErSSa3CaP_GJxmFpdjG9Jw	Lessons from the Screenplay	5
-UCJkMlOu7faDgqh4PfzbpLdg	Nerdwriter1	3
+UCErSSa3CaP_GJxmFpdjG9Jw	Lessons from the Screenplay	7
+UCJkMlOu7faDgqh4PfzbpLdg	Nerdwriter1	7
 UC7IcJI8PUf5Z3zKxnZvTBog	The School of Life	4
-UCuPgdqQKpq4T4zeqmTelnFg	kaptainkristian	3
-UCVjsbqKtxkLt7bal4NWRjJQ	The Take	2
-UCx0L2ZdYfiq-tsAXb8IXpQg	Just Write	2
-UCShqXc61KTV5NgGKDq7Fz6g	Satchell Drakes	7
-UCCbfB3cQtkEAiKfdRQnfQvw	Jesse Cox	6
-UCSOkex4abVl14cZ4tLyUYzw	The Warp Zone	5
-UC_ufxdQbKBrrMOiZ4LzrUyA	PressHeartToContinue	5
+UCuPgdqQKpq4T4zeqmTelnFg	kaptainkristian	6
+UCVjsbqKtxkLt7bal4NWRjJQ	The Take	7
+UCx0L2ZdYfiq-tsAXb8IXpQg	Just Write	4
+UCShqXc61KTV5NgGKDq7Fz6g	Satchell Drakes	16
+UCCbfB3cQtkEAiKfdRQnfQvw	Jesse Cox	13
+UCSOkex4abVl14cZ4tLyUYzw	The Warp Zone	12
+UC_ufxdQbKBrrMOiZ4LzrUyA	PressHeartToContinue	11
 UCksdxdKDVEZpDCktuP9DjLA	YuriofwindGameplay	1
-UC1nA6g4RdM-HJ6CV6KQ4gsg	jumblejunkie	2
-UCjt4zRCKnJpdEM3N6KDFhGg	Unseen64: an Archive for Beta & Cancelled Games	2
-UCanmNTwIegw9sjD9gzBlupQ	Liam Robertson - Game History Guy	2
-UCIJ6_pI8ZBc_xVMPYzwQz9g	chuggaaconroy	4
-UCeHGGfhRUiH5wBpjjzbRNXg	CreepsMcPasta	9
-UCmzwIHGPWtxd3SgNG9qlctg	kNIGHTWING01	2
-UCJVdNvvuvOnthuWVQjYff2w	Larry Bundy Jr	3
-UCmYBTQilY7p8EQ9IsyA3oLw	Cow Chop	8
-UC6JmDMC2x3vafwH5QRB1khA	thecreaturehub	3
-UCVcBQQ45_GYt-hqh7Th8wNA	Pixel Dan	3
+UC1nA6g4RdM-HJ6CV6KQ4gsg	jumblejunkie	7
+UCjt4zRCKnJpdEM3N6KDFhGg	Unseen64: an Archive for Beta & Cancelled Games	3
+UCanmNTwIegw9sjD9gzBlupQ	Liam Robertson - Game History Guy	5
+UCIJ6_pI8ZBc_xVMPYzwQz9g	chuggaaconroy	11
+UCeHGGfhRUiH5wBpjjzbRNXg	CreepsMcPasta	14
+UCmzwIHGPWtxd3SgNG9qlctg	kNIGHTWING01	6
+UCJVdNvvuvOnthuWVQjYff2w	Larry Bundy Jr	22
+UCmYBTQilY7p8EQ9IsyA3oLw	Cow Chop	9
+UC6JmDMC2x3vafwH5QRB1khA	thecreaturehub	5
+UCVcBQQ45_GYt-hqh7Th8wNA	Pixel Dan	13
 UCn0TDqRR4NjwWiAQR9FAd5w	brentalfloss	1
-UC0M0rxSz3IF0CsSour1iWmw	Cinemassacre	7
-UC78PzEVn5zWK4No0dPQHVQw	The Game Chasers	4
-UCixtXKyZzWLH_-dGRMuXcmA	Retroware	3
-UC13FizMlW9i9D8tmbH-wckw	Alli Flanagan	2
-UCuYx81nzzz4OFQrhbKDzTng	Michelle Phan	2
-UCYJPby9DRCteedh5tfxVbrw	Smosh Pit	8
+UC0M0rxSz3IF0CsSour1iWmw	Cinemassacre	19
+UC78PzEVn5zWK4No0dPQHVQw	The Game Chasers	18
+UCixtXKyZzWLH_-dGRMuXcmA	Retroware	14
+UC13FizMlW9i9D8tmbH-wckw	Alli Flanagan	5
+UCuYx81nzzz4OFQrhbKDzTng	Michelle Phan	5
+UCYJPby9DRCteedh5tfxVbrw	Smosh Pit	11
 UCEyodonqP_80YrDvattntmw	SmoshCast	3
-UCJ2ZDzMRgSrxmwphstrm8Ww	Smosh Games	9
-UC-T_EdQ6MTufAWnFXa7dnYw	Shut Up! Cartoons	3
-UCgESfl93BM2y85abdt8BcZw	ElSmosh	5
-UCcpUS398eio-jQcCWZ3KbVg	Smosh France	3
-UCPJHQ5_DLtxZ1gzBvZE99_g	AnthonyPadilla	4
+UCJ2ZDzMRgSrxmwphstrm8Ww	Smosh Games	12
+UC-T_EdQ6MTufAWnFXa7dnYw	Shut Up! Cartoons	5
+UCgESfl93BM2y85abdt8BcZw	ElSmosh	6
+UCcpUS398eio-jQcCWZ3KbVg	Smosh France	5
+UCPJHQ5_DLtxZ1gzBvZE99_g	AnthonyPadilla	6
 UCI5tCi_eejzo3aQaNYFDKMA	radiofriedfilms	1
-UC6P24bhhCmMPOcujA9PKPTA	Film Riot	5
-UCwfPHCZYy3CauY2rmvL9LDQ	Red Giant	2
-UCYaIdC5pbkpECxXLjf0Lzaw	D4Darious	2
+UC6P24bhhCmMPOcujA9PKPTA	Film Riot	17
+UCwfPHCZYy3CauY2rmvL9LDQ	Red Giant	3
+UCYaIdC5pbkpECxXLjf0Lzaw	D4Darious	4
 UC9vnLk5AhnEPe7ztbZPsJXQ	Eric Miller Channel	1
 UChllJFgdatIywGxXWcQyH6w	L H	1
-UC44eGZ76AJLHAxPaJ_MW2RA	TheEngineeringFamily	10
-UCPC55dCdzIjNJd421LbK3uw	TEFkids	5
-UCAaunKvsBxwUqqSrSwdIS2Q	The Assistant's Corner	4
-UCe0GzqLReaCIqpQoyc2h6hQ	TEF 123	4
-UCKjjmMqvuxNYw8c6knceexQ	Sandaroo Kids	8
-UC0Ljt5hQIYEgInaSjtFhs7Q	Pineapple Pack	2
-UCQ2WjcRRelz7iLn9s0igjww	Kaylee Bug Tv	1
-UCkUyj4v7h2lWiALZyAglPmw	KidToyTesters	4
-UCG3o_SgXSdZoJDKq1GyQoAQ	Fuzzy Puppet	2
-UC5l6twzfConuZFkGA_GYrtw	WD Toys	2
+UC44eGZ76AJLHAxPaJ_MW2RA	TheEngineeringFamily	23
+UCPC55dCdzIjNJd421LbK3uw	TEFkids	6
+UCAaunKvsBxwUqqSrSwdIS2Q	The Assistant's Corner	5
+UCe0GzqLReaCIqpQoyc2h6hQ	TEF 123	5
+UCKjjmMqvuxNYw8c6knceexQ	Sandaroo Kids	29
+UC0Ljt5hQIYEgInaSjtFhs7Q	Pineapple Pack	4
+UCQ2WjcRRelz7iLn9s0igjww	Kaylee Bug Tv	4
+UCkUyj4v7h2lWiALZyAglPmw	KidToyTesters	6
+UCG3o_SgXSdZoJDKq1GyQoAQ	Fuzzy Puppet	22
+UC5l6twzfConuZFkGA_GYrtw	WD Toys	15
 UC67f2Qf7FYhtoUIF4Sf29cA	Bad Lip Reading	2
-UCNfI8gP0OByAWRAG96CzOJQ	Maestro Ziikos	1
-UCUudDyi0JiVmSxarvU98YYQ	zeldaxlove64 Christina Grimmie	1
+UCNfI8gP0OByAWRAG96CzOJQ	Maestro Ziikos	2
+UCUudDyi0JiVmSxarvU98YYQ	zeldaxlove64 Christina Grimmie	6
 UCE-RZy7awTwDY2x0LG4fIHg	antoinedodson24	1
-UC89FxzrQW-pqCGjFT2L5jpw	Andrew Rose Gregory	1
-UCjD2KyAEm84yVH8cTilID7Q	Cracked	6
-UCTAgbu2l6_rBKdbTvEodEDw	Nerdist	5
-UCiRU6531knm05kcsjnKowyw	I Hate Being Single	2
-UCqpeqqzqqSb-280EB8oHDDA	ClickHole	3
-UCsDdQUPa4NvPvf2f00E5zfw	The A.V. Club	3
-UC7VOn09ACtvRfMPQzazOZzw	Onion Labs	2
-UCpsSadsgX_Qk9i6i_bJoUwQ	Just For Laughs Gags	2
-UCqLj_VGACwmDa0FZ4UV3j-w	Bustle	2
-UCAy4_9g22xCsEJBYkpq9jow	IFC	1
-UCi7GJNg51C3jgmYTUwqoUXA	Team Coco	2
-UCxwl-prqInq1AQeiTjfJhOg	AskMen	2
-UCgmnmXWuFYTUuv__d_NZaCg	Nice Piece	1
-UCnhRbK8BAxdz_uoWxoqORKg	Brute Squad - Original Comedy	1
+UC89FxzrQW-pqCGjFT2L5jpw	Andrew Rose Gregory	3
+UCjD2KyAEm84yVH8cTilID7Q	Cracked	10
+UCTAgbu2l6_rBKdbTvEodEDw	Nerdist	12
+UCiRU6531knm05kcsjnKowyw	I Hate Being Single	4
+UCqpeqqzqqSb-280EB8oHDDA	ClickHole	4
+UCsDdQUPa4NvPvf2f00E5zfw	The A.V. Club	4
+UC7VOn09ACtvRfMPQzazOZzw	Onion Labs	3
+UCpsSadsgX_Qk9i6i_bJoUwQ	Just For Laughs Gags	9
+UCqLj_VGACwmDa0FZ4UV3j-w	Bustle	3
+UCAy4_9g22xCsEJBYkpq9jow	IFC	2
+UCi7GJNg51C3jgmYTUwqoUXA	Team Coco	4
+UCxwl-prqInq1AQeiTjfJhOg	AskMen	5
+UCgmnmXWuFYTUuv__d_NZaCg	Nice Piece	2
+UCnhRbK8BAxdz_uoWxoqORKg	Brute Squad - Original Comedy	4
 UCTroLDYXNbo55rD3LTcDyHg	Decent Humans	1
-UCKcG7Ho1bUlBPOP8fH3r1Jg	Pantry Boy Comedy	1
-UCu6_Ypm5e8WEvBRKop6oblw	GoodCopGreatCop	1
+UCKcG7Ho1bUlBPOP8fH3r1Jg	Pantry Boy Comedy	2
+UCu6_Ypm5e8WEvBRKop6oblw	GoodCopGreatCop	3
 UCN4XcMtwaIGXqwQrj8L7IgQ	Teachers on TV Land	2
-UCtw7q4SyOeoCwM1i_3x8lDg	Comedy Central Stand-Up	6
+UCtw7q4SyOeoCwM1i_3x8lDg	Comedy Central Stand-Up	7
 UCdN4aXTrHAtfgbVG9HjBmxQ	Key & Peele	4
-UCwWhs_6x42TyRM4Wstoq8HA	The Daily Show with Trevor Noah	6
+UCwWhs_6x42TyRM4Wstoq8HA	The Daily Show with Trevor Noah	8
 UC7R27sAWc_DqOldtI1JcYhQ	South Park Studios	5
 UCEVBir9A-WQIOZq4JmAifUg	You Up with Nikki Glaser	5
-UCyHDQ5C6z1NDmJ4g6SerW8g	maiLab	3
-UChkVOG0PqkXIHHmkBGG15Ig	WALULIS	2
-UCPiI104i7lyG--fkr3LZTtA	Cinema Strikes Back	1
-UCLKPfqBGqL4gaEvegb_If0Q	Kliemannsland	3
-UCZHpIFMfoJJ_1QxNGLJTzyA	MrWissen2go	6
-UCsVWpmoRsNAWZb59b6Pt9Kg	MrWissen2go Geschichte	2
+UCyHDQ5C6z1NDmJ4g6SerW8g	maiLab	10
+UChkVOG0PqkXIHHmkBGG15Ig	WALULIS	6
+UCPiI104i7lyG--fkr3LZTtA	Cinema Strikes Back	4
+UCLKPfqBGqL4gaEvegb_If0Q	Kliemannsland	8
+UCZHpIFMfoJJ_1QxNGLJTzyA	MrWissen2go	28
+UCsVWpmoRsNAWZb59b6Pt9Kg	MrWissen2go Geschichte	8
 UCMUGZr3UJx0qZzC8E4YFgtA	marchtothegrave	1
 UC0ovCc3dICdH6Oxg1QDVgaQ	Trailhead	2
-UCqV3UNsMJFVXxcXLvBB9EEg	Dana Schmoyer	1
-UCyjhyJoPHcQRxPLnWPjOecg	J House Vlogs	4
+UCqV3UNsMJFVXxcXLvBB9EEg	Dana Schmoyer	2
+UCyjhyJoPHcQRxPLnWPjOecg	J House Vlogs	7
 UCDfk8ogO6QGeJAYCY0QDzKw	Stephen Sharer	2
 UCxzJt2_zN9_mnIWg0A0tnRA	GRACE SHARER	2
-UCJfx4F-W-GYBHaHLMnYzvjg	This Gathered Nest	1
-UC6uoNgqjoiZd27Ea0a5hXzw	The Hurst Family	2
-UCAq9s3QQVCDMvg1iWQBVtxQ	Sam and Nia	2
-UCPYnVLuSSqX4KJ9vfup2FcQ	Cullen & Katie	5
-UC_0mlge_fLewbr5P8YEL2tA	THE WEISS LIFE	1
-UCyCyTe_1bT2aIPwG_gxbyeg	Daily Bumps	6
-UCQ3FRaHOIwXLOQNeUwVpBUA	8 Passengers	3
-UCh3AYyjkj5i6qFPSswydNcw	April and Davey	2
-UCOAZOLHU-RS57ycuoJOx04Q	Sarah....AKA Mommy	1
-UCZ7kdewBqhaSOVQm7OvHqCA	while they were napping	4
-UCYv8VkKxvmfYIRbowQALwCw	Ellie and Jared	6
-UC6qABjcDkIUgYFkTKrCEXyg	That Chick Angel TV	2
-UCtEL9xuyYA695rxt-eaVhPw	Cooley and Co.	1
-UCu-x3zDk9Otg5Gr1-9UW8cg	Clintus.tv	2
-UCwMrVVdT2tS4_UjlqRFwQ9g	KittiesMama	9
-UCGo0pZlEZhM8XI-ZhrlbwPA	The Vale Family	1
-UCe8zpX12xurNtii2xYTsWhw	epoddle	2
+UCJfx4F-W-GYBHaHLMnYzvjg	This Gathered Nest	3
+UC6uoNgqjoiZd27Ea0a5hXzw	The Hurst Family	4
+UCAq9s3QQVCDMvg1iWQBVtxQ	Sam and Nia	3
+UCPYnVLuSSqX4KJ9vfup2FcQ	Cullen & Katie	12
+UC_0mlge_fLewbr5P8YEL2tA	THE WEISS LIFE	5
+UCyCyTe_1bT2aIPwG_gxbyeg	Daily Bumps	14
+UCQ3FRaHOIwXLOQNeUwVpBUA	8 Passengers	8
+UCh3AYyjkj5i6qFPSswydNcw	April and Davey	7
+UCOAZOLHU-RS57ycuoJOx04Q	Sarah....AKA Mommy	5
+UCZ7kdewBqhaSOVQm7OvHqCA	while they were napping	6
+UCYv8VkKxvmfYIRbowQALwCw	Ellie and Jared	15
+UC6qABjcDkIUgYFkTKrCEXyg	That Chick Angel TV	9
+UCtEL9xuyYA695rxt-eaVhPw	Cooley and Co.	6
+UCu-x3zDk9Otg5Gr1-9UW8cg	Clintus.tv	11
+UCwMrVVdT2tS4_UjlqRFwQ9g	KittiesMama	21
+UCGo0pZlEZhM8XI-ZhrlbwPA	The Vale Family	3
+UCe8zpX12xurNtii2xYTsWhw	epoddle	11
 UCUA8eH81InvAPd9kNoHQtWw	Creative Disruption	1
 UCFtkamONWej84T63SFU_KKA	VidSummit	2
 UCRxtPD1gGxB78vwjUEx6ccA	Creatus	1
-UC-z8sF6hRmf4QRNHRjnzZUQ	David Walsh Online	1
-UCei6wyubYC1I1FwZ54LZFiA	Nick Nimmin	3
+UC-z8sF6hRmf4QRNHRjnzZUQ	David Walsh Online	3
+UCei6wyubYC1I1FwZ54LZFiA	Nick Nimmin	9
 UC-zbcDWvru6hQ8INA8adRPA	CREATOR GEAR GUIDE	2
-UCctXZhXmG-kf3tlIXgVZUlw	GaryVee	4
-UCnBTvMFhuvbE_dhw2mo0NaQ	Sunny Lenarduzzi	1
-UCR9gMSj0UUxGvgfpNhhF3Jw	Amy Landino	2
-UC3fg6pL63upkXCc0T203wVg	Sara Dietschy	2
-UC5Alv3DDd_otfn2cdaGNTuw	Owen Video	2
-UC-b3c7kxa5vU-bnmaROgvog	The Futur	2
-UCp8mr0kjVyVAmvexLDqB60A	Chase Jarvis	1
-UCM6M9IzSlCFdb-m5s7W4fbw	Carlos Gil	1
+UCctXZhXmG-kf3tlIXgVZUlw	GaryVee	10
+UCnBTvMFhuvbE_dhw2mo0NaQ	Sunny Lenarduzzi	2
+UCR9gMSj0UUxGvgfpNhhF3Jw	Amy Landino	5
+UC3fg6pL63upkXCc0T203wVg	Sara Dietschy	4
+UC5Alv3DDd_otfn2cdaGNTuw	Owen Video	6
+UC-b3c7kxa5vU-bnmaROgvog	The Futur	7
+UCp8mr0kjVyVAmvexLDqB60A	Chase Jarvis	2
+UCM6M9IzSlCFdb-m5s7W4fbw	Carlos Gil	2
 UCJi948aFvN6pRka8ANlJFXg	CREATE SOMETHING AWESOME TODAY PODCAST	3
-UCScRSwdX0t31gjk3MYXIuYQ	CharliMarieTV	1
+UCScRSwdX0t31gjk3MYXIuYQ	CharliMarieTV	5
 UCBpHZhPYve416v1-9SHA1tw	Roberto Blake - Creative Thoughts	1
-UCLAb2wG3Kyjmmc1L6MdMW9A	Benji Travis	2
-UCWWFavn3ym0w3myTD5OX59g	Sean Cannell	3
+UCLAb2wG3Kyjmmc1L6MdMW9A	Benji Travis	5
+UCWWFavn3ym0w3myTD5OX59g	Sean Cannell	4
 UCZb0_0axBypKEaiv8CBRcLw	Sean Cannell Productions (Clearvision Media)	2
-UC0VfM1P0sUtzYQh4Ns-a75w	Jason Urgo	2
-UC0JuFXTfkyDOR-rKBfSsEmA	Our Twin Life Family	2
+UC0VfM1P0sUtzYQh4Ns-a75w	Jason Urgo	9
+UC0JuFXTfkyDOR-rKBfSsEmA	Our Twin Life Family	4
 UCjK8ORC71kwyj1DWFwril_A	SelenaGomezVEVO	1
 UCVnG4UzQzIxYc9W2pVj8CIg	B\xc3\x98RNSmusicVEVO	1
 UCzzXsnHsEmGorQ6xAKL2sZA	XAmbassadorsVEVO	1
 UCv91THkkj4WXJdzvTpvX-Rw	YearsAndYearsVEVO	1
-UCoYfzC2zMlc9M-Odgaf6OSg	KendrickLamarVEVO	2
+UCoYfzC2zMlc9M-Odgaf6OSg	KendrickLamarVEVO	4
 UCtKuVNj4wVrZvTfxPxAUHcQ	CarlyRaeJepsenVEVO	1
 UCGkSXL5saM8y3VvJD_PdMFQ	DJSnakeVEVO	1
-UCFzm6oAGFmmZfkrzQ5wATSQ	ZEDDVEVO	1
+UCFzm6oAGFmmZfkrzQ5wATSQ	ZEDDVEVO	2
 UCpx_k19S2vUutWUUM9qmXEg	ImagineDragonsVEVO	1
 UCN1hnUccO4FD5WfM7ithXaw	Maroon5VEVO	1
 UC3N5y6UWKJaKqoU2b_0MfTQ	LanaDelReyVEVO	1
 UCweazuUMMKdL2wwSyrxla9A	RaeSremmurdVEVO	1
 UCVHtfh-4ozIfF5FYA-IBtag	KCampVEVO	1
 UCQ5kHOKpF3-1_UCKaqXARRg	OneRepublicVEVO	1
-UC2a9zmrdjvLsrRgi4G4blWw	MGKVEVO	2
-UCkEAAkbmhYVnJVSxvp-AfWg	GwenStefaniVEVO	1
+UC2a9zmrdjvLsrRgi4G4blWw	MGKVEVO	3
+UCkEAAkbmhYVnJVSxvp-AfWg	GwenStefaniVEVO	2
 UCpd21W3qWyzIl8-PXvyDA2g	U2VEVO	1
 UC0nLZJd-h00SuV4V7Teu3mA	SirSlyVEVO	1
 UCUO9OUnjBNErxrWzlxlihDw	JamieNCommonsVEVO	1
-UCEGJtJpwHlpUoMlAOlCWdAA	tameimpalaVEVO	1
-UCcFKiA_8CSzamBPw3dPNRbQ	AloeBlaccVEVO	1
+UCEGJtJpwHlpUoMlAOlCWdAA	tameimpalaVEVO	2
+UCcFKiA_8CSzamBPw3dPNRbQ	AloeBlaccVEVO	2
 UC8YY0LE8bFu4aMCXGjz027A	SkylarGreyVEVO	1
 UCko2Mq_V_EQ0m-y2u36V-Ig	JackGarrattVEVO	1
-UC2pmfLm7iq6Ov1UwYrWYkZA	Vevo	29
-UC0sL86jDLgs2fGRD-XBnPQA	50CentVEVO	3
-UChpJbg7zMbi5jx9Gdjaxa9g	KanyeWestVEVO	3
+UC2pmfLm7iq6Ov1UwYrWYkZA	Vevo	52
+UC0sL86jDLgs2fGRD-XBnPQA	50CentVEVO	4
+UChpJbg7zMbi5jx9Gdjaxa9g	KanyeWestVEVO	4
 UCL7CNO0U9SjWFbu7veoLRBw	SnoopDoggVEVO	3
-UCPVhZsC2od1xjGhgEc2NEPQ	Vevo Playlists	11
-UCY9SiMHnxt-HDhlF5UMlByg	Slumerican	2
-UCktMB3gUgaHW0lZGGim5aMQ	Rittz	2
-UCivUT3bm38ig-TUGEqARG5A	ONErpm US	3
+UCPVhZsC2od1xjGhgEc2NEPQ	Vevo Playlists	19
+UCY9SiMHnxt-HDhlF5UMlByg	Slumerican	3
+UCktMB3gUgaHW0lZGGim5aMQ	Rittz	3
+UCivUT3bm38ig-TUGEqARG5A	ONErpm US	15
 UCE0Wkd9Jcn2-TNo5G8bLQrA	Rotten Tomatoes	14
 UCz1GPotHecuLngiLuY739QQ	Rotten Tomatoes TV	14
-UCi8e0iOVk1fEOogdfu4YgfA	Movieclips Trailers	14
-UCLyYEq4ODlw3OD9qhGqwimw	Movieclips Indie	14
-UCkR0GY0ue02aMyM-oxwgg9g	Movieclips Coming Soon	14
-UCTCjFFoX1un-j7ni4B6HJ3Q	Movieclips Classic Trailers	14
-UCMawOL0n6QekxpuVanT_KRA	Fandango All Access	14
-UC4l6ZhkOzxIxvCSzDr4HKqg	FandangoNOW Extras	14
-UCx554p1Bu_Mp1q0H_bEtZ1Q	Fandango Family	14
-UCMPpJM24OLE-PmwedcGibWw	Movieclips Action	13
-UC4OfKwXKN1flzBXiqnQ4hyw	Movieclips Horror	11
-UCNKteE22ue8naoxiKETsWhA	Movieclips Comedy	13
-UCnExqEQyG6WemMK9hpQcoeQ	Jurassic Park Fansite	13
-UC5kbrYM6LZHkcXm5jaRNgnA	THG Fansite	12
-UCBXuD1wUs0eaoyJcVq1ko1Q	Fandango Latam	15
+UCi8e0iOVk1fEOogdfu4YgfA	Movieclips Trailers	16
+UCLyYEq4ODlw3OD9qhGqwimw	Movieclips Indie	15
+UCkR0GY0ue02aMyM-oxwgg9g	Movieclips Coming Soon	15
+UCTCjFFoX1un-j7ni4B6HJ3Q	Movieclips Classic Trailers	15
+UCMawOL0n6QekxpuVanT_KRA	Fandango All Access	15
+UC4l6ZhkOzxIxvCSzDr4HKqg	FandangoNOW Extras	15
+UCx554p1Bu_Mp1q0H_bEtZ1Q	Fandango Family	15
+UCMPpJM24OLE-PmwedcGibWw	Movieclips Action	14
+UC4OfKwXKN1flzBXiqnQ4hyw	Movieclips Horror	12
+UCNKteE22ue8naoxiKETsWhA	Movieclips Comedy	14
+UCnExqEQyG6WemMK9hpQcoeQ	Jurassic Park Fansite	14
+UC5kbrYM6LZHkcXm5jaRNgnA	THG Fansite	13
+UCBXuD1wUs0eaoyJcVq1ko1Q	Fandango Latam	16
 UCMi38pytm6Ca2KXc7ftlu_w	Lights Out with David Spade	4
-UCxAICW_LdkfFYwTqTHHE0vg	MTV	7
-UCoBSi6AOGXWb_NBIGNHP9Qw	Paramount Network	6
-UCvn-HVrAGYEKsVx6gW3MeNQ	VH1	5
-UCAut9txFApsaY_uFiphefwQ	TV Land	4
-UCcVqCJ_9owb1zM43vqswMNQ	BETNetworks	5
-UC5M_h2S8Ldoc9M6f7B-_m6A	Nickelodeon	3
-UCmRfQHc3U4fV1-i8Ry1HmtA	Real Men Real Style	1
-UC7TbgYKGwb4hKevgYf2la_A	Jordan Crowder	1
+UCxAICW_LdkfFYwTqTHHE0vg	MTV	23
+UCoBSi6AOGXWb_NBIGNHP9Qw	Paramount Network	10
+UCvn-HVrAGYEKsVx6gW3MeNQ	VH1	11
+UCAut9txFApsaY_uFiphefwQ	TV Land	7
+UCcVqCJ_9owb1zM43vqswMNQ	BETNetworks	11
+UC5M_h2S8Ldoc9M6f7B-_m6A	Nickelodeon	10
+UCmRfQHc3U4fV1-i8Ry1HmtA	Real Men Real Style	8
+UC7TbgYKGwb4hKevgYf2la_A	Jordan Crowder	6
 UCds7RYRBhBORzsk5F5ZAkUw	Chad Howse	2
-UC5efErrEnb4krh7dwJdj3RA	Criticalbench	2
-UChDyKjO7PB_QuqTTFKKR9Iw	Game Scoop!	6
-UCG275E2gosKB-UPk-qCK8qw	Nintendo Voice Chat	6
-UCmajVTORW3vp5qM8r0myznA	Beyond!	6
-UCTqWN7lps75nnS07twBfVhw	Unlocked	6
-UCVtL1edhT8qqY-j2JIndMzg	CineFix	1
-UCJx5KP-pCUmL9eZUv-mIcNw	GameTrailers	5
-UCZfDHQE3mrZ7123Wl3iRhbg	FireteamChat	6
-UC2dIDJBf9W88PxGm-uHZPaQ	FX Networks	19
-UCGgeXlCDp4aEq6EoMgKxsOQ	It's Always Sunny in Philadelphia	16
-UClU9lFLcqBn80HV3s999-OA	Cake	15
+UC5efErrEnb4krh7dwJdj3RA	Criticalbench	10
+UChDyKjO7PB_QuqTTFKKR9Iw	Game Scoop!	10
+UCG275E2gosKB-UPk-qCK8qw	Nintendo Voice Chat	10
+UCmajVTORW3vp5qM8r0myznA	Beyond!	10
+UCTqWN7lps75nnS07twBfVhw	Unlocked	10
+UCVtL1edhT8qqY-j2JIndMzg	CineFix	7
+UCJx5KP-pCUmL9eZUv-mIcNw	GameTrailers	9
+UCZfDHQE3mrZ7123Wl3iRhbg	FireteamChat	10
+UC2dIDJBf9W88PxGm-uHZPaQ	FX Networks	29
+UCGgeXlCDp4aEq6EoMgKxsOQ	It's Always Sunny in Philadelphia	24
+UClU9lFLcqBn80HV3s999-OA	Cake	16
 UCB2wTfVsFMksfJ4YWiQCSVQ	Mayans M.C.	3
-UCw9l1DPgPBMVfdWC8VEdu4w	American Horror Story	19
+UCw9l1DPgPBMVfdWC8VEdu4w	American Horror Story	28
 UCo9gkSLZsItMNB9q4qUQYwQ	Better Things	7
 UCzGMOVuSQotFtAgnFb499Pg	What We Do In the Shadows	3
 UCjfIeE26lSrhaODTb5ak9gQ	Fosse/Verdon	3
-UCn0sG8t5wRnk4uTH99yBWRw	You're the Worst	17
-UCMMUVsoSPaiuFj0rMU1dX1A	Archer	17
-UCB0ard6OccLv0PekbMtwG_g	The Americans	19
+UCn0sG8t5wRnk4uTH99yBWRw	You're the Worst	25
+UCMMUVsoSPaiuFj0rMU1dX1A	Archer	26
+UCB0ard6OccLv0PekbMtwG_g	The Americans	28
 UCt6d0qwq5P0aphVOZVAcJ7w	Atlanta	11
 UCP9rQcLUTXGa5iDQkFMdUrw	Trust	8
 UCSb1eo1ZgiHjKQl550vHX1w	Baskets	12
-UCObPLzQr4-dfu9z7V4MlU-A	American Crime Story	10
+UCObPLzQr4-dfu9z7V4MlU-A	American Crime Story	11
 UCcqFE-t4uNN1BlosnV7rZEg	Legion	8
 UChhLje6JGiXxBPVa_KQL45Q	Pose	5
-UC_j2W7TnpAPKdg1wlJV6g2Q	Tyrant	15
-UCqbvq6jFDLf4S7s3JiXeVfQ	The Strain	18
-UCdtGvLefetURhWsuhAy6AUA	Fargo	18
-UCvO9Xk3bheuxEemvknCj72g	WhatCulture Gaming	6
-UCaEOfvyMhGEc1LrYC_JbJbA	WhatCulture Comics	5
+UC_j2W7TnpAPKdg1wlJV6g2Q	Tyrant	23
+UCqbvq6jFDLf4S7s3JiXeVfQ	The Strain	26
+UCdtGvLefetURhWsuhAy6AUA	Fargo	26
+UCvO9Xk3bheuxEemvknCj72g	WhatCulture Gaming	7
+UCaEOfvyMhGEc1LrYC_JbJbA	WhatCulture Comics	6
 UCG9Emv_7sdmBRmdevFSXCkg	WhatCulture Music	3
-UCq8jp0E99ELBvmBxjJ-JLgA	WhatCulture Wrestling	7
-UCAl6NLC0tnubiCMzYXawG3g	Defiant Wrestling	5
+UCq8jp0E99ELBvmBxjJ-JLgA	WhatCulture Wrestling	8
+UCAl6NLC0tnubiCMzYXawG3g	Defiant Wrestling	6
 UC9AzMqsR8dUWLHSwUPfHpig	WhatCulture Football	6
-UCf-Jr7xQXg13zGRTWDxLB-g	GoTCulture	1
+UCf-Jr7xQXg13zGRTWDxLB-g	GoTCulture	2
 UCQMbqH7xJu5aTAPQ9y_U7WQ	Fandom Entertainment	3
-UCf6J9yokPS0ys456jvjLBGQ	Fandom Games	2
-UCYfSN5GeI_UgoaA-KUfT1aA	EpicVoiceGuy	2
+UCf6J9yokPS0ys456jvjLBGQ	Fandom Games	4
+UCYfSN5GeI_UgoaA-KUfT1aA	EpicVoiceGuy	7
 UCurvu3r_s-yq-6f9WRs4TKA	TheRealBradNeely	1
-UC8a1LoVteQOycF9gHwcYYKg	Rug Burn	1
+UC8a1LoVteQOycF9gHwcYYKg	Rug Burn	6
 UC-SDiZLNHzanQ4xDtwoFkSA	Collider Live!	5
 UC5KD40UCDRUbR-od7sp9cuA	Collider Interviews	5
 UCQr18YrLQx93SagpYb4WQvw	Collider Games	5
 UCy4jH0oihi_cVz6jP0TJuTg	Collider Sports	5
 UCTo2-EqzsFhhUG5dRVePZFA	Pro Wrestling Sheet	5
-UCJ6nMHaJPZvsJ-HmUmj1SeA	Lionsgate Movies	4
-UCwqRqbRyqsFK7bcYY3Blbxw	Lionsgate at Home	4
-UCmWg2aswsWFGmvkYymVnl8A	The Divergent Series	3
+UCJ6nMHaJPZvsJ-HmUmj1SeA	Lionsgate Movies	7
+UCwqRqbRyqsFK7bcYY3Blbxw	Lionsgate at Home	5
+UCmWg2aswsWFGmvkYymVnl8A	The Divergent Series	4
 UCilIp91ZEYtKE7_gV07rrvA	The Twilight Saga	3
-UC8xib1EjaAbsstncxXSUNZg	Official World of Dance	1
-UCsZsDjpf2Ppv_cT2K6_q2cw	Refinery29	2
-UCRXiA3h1no_PFkb1JCP0yMA	Vogue	1
+UC8xib1EjaAbsstncxXSUNZg	Official World of Dance	3
+UCsZsDjpf2Ppv_cT2K6_q2cw	Refinery29	4
+UCRXiA3h1no_PFkb1JCP0yMA	Vogue	12
 UCkvK_5omS-42Ovgah8KRKtg	jeffreestar	2
 UCGzGbfhdFsjP1yfJUEpSvWg	KYLE HANAGAMI	1
-UCczFdwWpVEpoqb-eMm4c4dQ	Matt Steffanina	1
-UCw8ZhLPdQ0u_Y-TLKd61hGA	1MILLION Dance Studio	1
-UC2c6FqF4olAZ7LodVEUueNQ	stacyplays	6
-UCzTlXb7ivVzuFlugVCv3Kvg	LDShadowLady	10
-UC4IgEVgl6t18-89GPekZtAw	Strawburry17Plays	6
-UCxkbgf3doLf0XwmhIDTq28A	Yammy	6
-UCxucf8O8itcmkqu3d7yUavg	Dangthatsalongname	5
-UC24-XPATP4CeviFJ8SLiF8A	Graser	7
-UCZenRGLPfB_IwmDnYlIx6Qg	Kiingtong	5
-UC8-Th83bH_thdKZDJCrn88g	The Tonight Show Starring Jimmy Fallon	5
-UCVTyTA7-g9nopHeHbeuvpRA	Late Night with Seth Meyers	5
-UCqFzWxSCi39LnW1JKFR3efg	Saturday Night Live	4
+UCczFdwWpVEpoqb-eMm4c4dQ	Matt Steffanina	5
+UCw8ZhLPdQ0u_Y-TLKd61hGA	1MILLION Dance Studio	2
+UC2c6FqF4olAZ7LodVEUueNQ	stacyplays	11
+UCzTlXb7ivVzuFlugVCv3Kvg	LDShadowLady	19
+UC4IgEVgl6t18-89GPekZtAw	Strawburry17Plays	7
+UCxkbgf3doLf0XwmhIDTq28A	Yammy	12
+UCxucf8O8itcmkqu3d7yUavg	Dangthatsalongname	11
+UC24-XPATP4CeviFJ8SLiF8A	Graser	13
+UCZenRGLPfB_IwmDnYlIx6Qg	Kiingtong	9
+UC8-Th83bH_thdKZDJCrn88g	The Tonight Show Starring Jimmy Fallon	17
+UCVTyTA7-g9nopHeHbeuvpRA	Late Night with Seth Meyers	17
+UCqFzWxSCi39LnW1JKFR3efg	Saturday Night Live	38
 UCmSQ47G2NHhcjRAm9Px6R3g	The Kelly Clarkson Show	1
-UCccjdJEay2hpb5scz61zY6Q	NBC	5
-UCd_Y5L3nAJmkCjGMFmWtKNg	Nesting Story	2
-UCcY0n4OBfcsEeQSI3Hu_euQ	AmandaMuse	3
-UC9wJaWcJ6fNIKvyvkX_T3OA	Sharzad Kiadeh	2
-UCy_YiQx1t8oOgz74QIB4Jrw	Myka Stauffer	1
-UCFh_zdbAY2-c3YhgWg3V2Yw	Elle Lindquist	2
-UCMfXv2enRXepxG92VoxfrEg	WhatsUpMoms	2
+UCccjdJEay2hpb5scz61zY6Q	NBC	55
+UCd_Y5L3nAJmkCjGMFmWtKNg	Nesting Story	3
+UCcY0n4OBfcsEeQSI3Hu_euQ	AmandaMuse	9
+UC9wJaWcJ6fNIKvyvkX_T3OA	Sharzad Kiadeh	5
+UCy_YiQx1t8oOgz74QIB4Jrw	Myka Stauffer	6
+UCFh_zdbAY2-c3YhgWg3V2Yw	Elle Lindquist	5
+UCMfXv2enRXepxG92VoxfrEg	WhatsUpMoms	3
 UCTpwJfKOMcaGOrVdccjnbQQ	Tr\xc3\xa9 Melvin	2
 UCeNgRHpH7OHZetYjC5JZXGw	MilesJaiProductions	2
-UCvVuqRzGVqRlmZYlTf99M_w	Tyler Oakley	5
-UCXpFBxmCZ8CURtKW7fXkNtA	Nathan Zed	4
-UC3pC_1P11PhzYThH2SnKAcg	Akilah Obviously	4
+UCvVuqRzGVqRlmZYlTf99M_w	Tyler Oakley	9
+UCXpFBxmCZ8CURtKW7fXkNtA	Nathan Zed	5
+UC3pC_1P11PhzYThH2SnKAcg	Akilah Obviously	8
 UCRn1bCS4MnYXQkFTTHdNyMA	JADE FOX	4
 UCPvHfZ4tmjeBXo8cIpv60vg	Ari Fitz	2
 UCGJMWVRE5ypcQzjiBC2jcWQ	Tarek Ali	1
 UC3-HdcyKSJv6YqIuGxiY2Qw	LaurDIY2	1
-UCv-D6IpYrkgaYIcUp3pvHcw	Kin	1
+UCv-D6IpYrkgaYIcUp3pvHcw	Kin	2
 UCNdqe5zJ6k-i7XKoYWA4Z2g	Wassabi	2
 UCVc-eEHRZw7OhEvr8K8i7tg	RANDOM GUYS	1
-UCSAUGyc_xA8uYzaIVG6MESQ	nigahiga	10
-UCV-s8itWCK3yeCppmSYxtVA	MeganBatoon	2
+UCSAUGyc_xA8uYzaIVG6MESQ	nigahiga	11
+UCV-s8itWCK3yeCppmSYxtVA	MeganBatoon	3
 UCTXeJ33DzXI2veQpKfrvaYw	Julien Bam	1
-UCQIP6tGA4AQEIkABgb1AlhQ	chestersee	5
+UCQIP6tGA4AQEIkABgb1AlhQ	chestersee	6
 UC6issK8yf-L-sW-SZgU8vOA	Andrew Garcia	3
 UCnHe3m9lqUpXZlkTPaVf5vw	Lana McKissack	5
 UC_NecBigmC3GrDmiF4D0y_Q	PJTheKick	1
 UC5807TUCmfLgmz1mjqIIQiA	Cat Valdes	1
 UCyJTVTVccnAkll5xLFFmaQg	SprinkleofChatter	2
 UCkYKVXPYN2dFUJgxAPeAkGg	Emily Norris	2
-UC_YydHJ2xTRctvZgAq2YC1A	mariethatsme	3
+UC_YydHJ2xTRctvZgAq2YC1A	mariethatsme	7
 UCbhNxkjmpQcTJDrabiyzHUw	Carrie Hope Fletcher	1
-UCIBM8DAHoehmJ7_LSLDkB3A	Jordan Page, FunCheapOrFree	1
+UCIBM8DAHoehmJ7_LSLDkB3A	Jordan Page, FunCheapOrFree	3
 UCawSNY3jbIhXKHCwMxz5CSg	One Big Happy Life	1
 UC2Uf0Dg8lomwDocsUSuvXzg	ViolentElfDoomsday	1
 UCRutxRBx4rteBZBwtSoJATg	MIMEI LAND	2
 UCkV5L4ETD8I793xlNpEbcEQ	Gwyn Stowe	3
-UCUiKHzrI2CBqj2sUhpITehA	OzzyAwesome	2
+UCUiKHzrI2CBqj2sUhpITehA	OzzyAwesome	6
 UCvzmi_3sDXiIVs-dorwclqw	HaleyVlogs	1
 UCLw02LEhFf0S2Mnut_FF57Q	frigginboom	1
 UCH1R_bfDPZvGBqH3AMuuOXg	Sergybro	1
 UClOkCWhw6xldTJtUnn2Vhnw	JoCatofCatLand	1
 UCKtTALj1GbmgXSBn1p3wCDA	Never Ender	1
 UCygHlwHI__fabDWPsbhzxVw	ISAtv	1
-UCEY0yxj6QxG4RBVRSe5orig	Sugar Pine 7	1
-UCb4G6Wao_DeFr1dm8-a9zjg	Kinda Funny	1
+UCEY0yxj6QxG4RBVRSe5orig	Sugar Pine 7	2
+UCb4G6Wao_DeFr1dm8-a9zjg	Kinda Funny	4
 UCO2tRrbS1r3h6bFcN-pecCw	Craig Skitz	1
 UCEMArgthHuEtX-04qL_8puQ	Goodful	3
 UC67SGAcDCxdw4RwwZMgYfLQ	Kelsey Impicciche	1
@@ -1127,7 +1127,7 @@ UC9Ape6X3wiKxdH4TdSDcrZA	LiaMarieJohnson	1
 UCpKAsiQbkqcM7d6VM3eVjjg	Lauren Elizabeth	2
 UCuZ74rRFm1hJr0y7Wvv-GxQ	Hudson Luthringshausen	2
 UC9kKGt3ZuWWuk8HGWQHmrQQ	Alli Simpson	1
-UCsopuR4Uw3TSA1VPY0MyAfQ	Claudia Sulewski	1
+UCsopuR4Uw3TSA1VPY0MyAfQ	Claudia Sulewski	2
 UCXJh4n9Yv58p28iJ0fzVTjA	Payton & Mikahl Caci	1
 UCR9DulnCeveR0SUGPGC5GNQ	Jake 'n Logan	2
 UCBx1QhVlJOG3yuQTDDSfLUA	JestComedy	2
@@ -1139,42 +1139,42 @@ UCwaNuezahYT3BOjfXsne2mg	Chad Wild Clay	3
 UCmRY4NSGK52lP_Lz11CjdYw	Vy Qwaint	2
 UCyG_mUXBIWaoLkuiRnAWDvA	JustKiddingParty	2
 UCfPhyExfcaqJBKc3HO3cNBw	JustKiddingNews	2
-UCV9_KinVpV-snHe3C3n1hvA	shane	7
+UCV9_KinVpV-snHe3C3n1hvA	shane	8
 UCnxrGPpheLwCFpgM1MzQP1Q	Human Emoji	1
 UC9M60NiMsUnSrXg24-GXHCA	lisbug	4
 UCK4lZM1dC6jEDzEhwPYvqMw	mytoecold (Drew Monson)	2
-UC93GIFT8UG4HzyCBVdL8blA	Alexis G. Zall	3
-UCazMm3tOCkYrIGE_17j0mVg	Bart Baker	2
+UC93GIFT8UG4HzyCBVdL8blA	Alexis G. Zall	4
+UCazMm3tOCkYrIGE_17j0mVg	Bart Baker	3
 UC8WZHu0bmmJwS0775Sr_0aA	HeyItsMilly	1
 UC5VYrVnw-v9UPN75q6ckGIg	David Choi	5
 UC4qiXrmA-cSRQuRtnocZPnA	CyberToons	1
 UCLMLTE5R-LR26VKfnaDQtEA	Nuclear Family	1
 UCPIIFl0PF_2RaqLOHKJetpw	Brett and Craig	1
-UCrvUa8jWTdOeUYgisTZ7ZiQ	HUNANPENGUIN	3
-UCsn6cjffsvyOZCZxvGoJxGg	Corridor	7
-UCZC45sBWNdkqSQ9Bwtt5lfA	Anna Akana	2
+UCrvUa8jWTdOeUYgisTZ7ZiQ	HUNANPENGUIN	4
+UCsn6cjffsvyOZCZxvGoJxGg	Corridor	9
+UCZC45sBWNdkqSQ9Bwtt5lfA	Anna Akana	4
 UChVTBV42Ao5krVgPMz3R9ww	Megasteakman	3
 UCNgSkSyLpwJckPsCcpDc2Ow	Adi Shankar's Bootleg Universe	1
-UCyoM9uxRbTtYoORWJPYWYyg	Joe Penna / MysteryGuitarMan	6
-UC9gFih9rw0zNCK3ZtoKQQyA	JennaMarbles	4
+UCyoM9uxRbTtYoORWJPYWYyg	Joe Penna / MysteryGuitarMan	7
+UC9gFih9rw0zNCK3ZtoKQQyA	JennaMarbles	8
 UCN4ePW3uLGNC2Bhd0NAJ1Zw	Luba_DO	3
 UClR6oQ5khdu2qRB2nGgirrg	John Estanislau	2
 UCg-HvGLsfJ-7P_f9kUuWuiQ	Shubble	3
-UC5SCCTlzTrHOeNxGgFtkKjA	HBomb94	4
+UC5SCCTlzTrHOeNxGgFtkKjA	HBomb94	5
 UCFmjCLS5HukgC7EpULeJ4RQ	Charity Pants	1
 UCMiKkcTIdIcr2Arj83HpEIA	Local Adventurer	3
 UCJ24N4O0bP7LGLBDvye7oCA	Matt D'Avella	1
 UCGF7YEa3NyPEShA-s_0si6w	JAGMAC	1
-UCPcFg7aBbaVzXoIKSNqwaww	jacksfilms	3
+UCPcFg7aBbaVzXoIKSNqwaww	jacksfilms	4
 UC7Q-grTQpJms6aJrTVgMkDw	AllieWes	2
 UCZn8_RxsAEXcLMAcFHa1L2w	Charles Trippy	6
 UC9YjsMQl5x6CYz8Ddv6vszA	Trippy	4
 UCLFFdNaytZDDSR7JGXFnTiA	mel	3
-UCiw5OKX5E_GiwQrAkYBibtw	Mr. Arturo Trejo	2
+UCiw5OKX5E_GiwQrAkYBibtw	Mr. Arturo Trejo	4
 UCfRU6TVIzRaa_4gA8-_H7PA	TobyTurner	3
-UCgc00bfF_PvO_2AvqJZHXFg	Boyce Avenue	2
+UCgc00bfF_PvO_2AvqJZHXFg	Boyce Avenue	5
 UCAUTncHmFWaaNo91xg4As3g	FullMag	4
-UCKVV1b71dtciZ_APO0BqRcw	courtneypants	2
+UCKVV1b71dtciZ_APO0BqRcw	courtneypants	4
 UC40oNxpTGipCFSdiaweZWMA	SamMacaroni	3
 UCZhkUguiTBJVZrrdMSjLbsQ	OnisionSpeaks	4
 UCAF0RSs6-MqQuXrC9eXs69A	CoolGuyKai	4
@@ -1195,41 +1195,41 @@ UCxeEDO-fvv4LW5m3hdsbmeQ	chivalroustube	1
 UCzJ3Q292D9YTyByssGcWMIg	The Kloons	1
 UCPpZYlH7MyhcwWX8v0wDKwA	ProfessorPuppet	1
 UCjZefe4Su40hg7tMxbSRrRw	Farrah Abraham	1
-UCiSKnkKCKAQVxMUWpZQobuQ	Myuu	8
-UC-Awt2UIyTjw3WzF9gfcI9A	CreepyPastaJr	8
+UCiSKnkKCKAQVxMUWpZQobuQ	Myuu	9
+UC-Awt2UIyTjw3WzF9gfcI9A	CreepyPastaJr	9
 UCwbQhVjlsb-Soo1nJX-q60Q	Madame Macabre	4
-UCPzQwL5ZDvz8izaNQp3676Q	Creepy Raven	4
-UCFAKzWW5i73xMINHIkOFM1Q	LitterBot	3
+UCPzQwL5ZDvz8izaNQp3676Q	Creepy Raven	5
+UCFAKzWW5i73xMINHIkOFM1Q	LitterBot	4
 UCdk2aPPHsc3LgxEW4dJDgJw	WellHeyProductions	6
-UCeuXfjMWsECbeoqi-jxARKw	Kitten RH	2
+UCeuXfjMWsECbeoqi-jxARKw	Kitten RH	3
 UCy5AC5W4nDrVhvx6VRi_Cbw	CreepyRainbowPasta	4
 UCqKZHoC2iRA6CQA5cOL-crg	Paranormal Mango	3
-UCpHlXXIkbUlDJFpMbAiZLVw	Backlit Rabbit	2
+UCpHlXXIkbUlDJFpMbAiZLVw	Backlit Rabbit	3
 UCjXgGxaZ2NrwOdVhODyXLPQ	Zombie Doll	1
-UCeOY0JF2so8f67ZLyGeS6xQ	MissShadowLovely	5
+UCeOY0JF2so8f67ZLyGeS6xQ	MissShadowLovely	6
 UC8afTg46I49sPuCy4EjXopA	MeeZy StudioZ	1
 UCLCmJiSbIoa_ZFiBOBDf6ZA	TobyGames	3
-UCmuK_ntZEGCXOmnfZW_LWnw	Feast Of Fiction	3
-UCwq2U0M74JVfgqh9i7tYZ_w	RocketJump 2	2
+UCmuK_ntZEGCXOmnfZW_LWnw	Feast Of Fiction	4
+UCwq2U0M74JVfgqh9i7tYZ_w	RocketJump 2	3
 UCtTF3twiyiBWYOQ79CYM30A	Jimmy2	1
 UC-YYNJ1NkWHel_O-ydZz1_g	meghantonjes	3
 UCn-JT4kcfMTYc2-oDhLbU_Q	LifesizeBeauty	1
-UCuMoHhV567zxcMvFtWHGbBw	mikefalzone	7
+UCuMoHhV567zxcMvFtWHGbBw	mikefalzone	8
 UCvO1kdxWZtbr5mSZKtykdkQ	Daren Vongirdner	3
 UC1nz5SoN8ug8ym_7VfUaoOg	gunnarolla	2
-UCqnWki1ZxQDeMjd3r1964XQ	KeithWithoutACrew	1
+UCqnWki1ZxQDeMjd3r1964XQ	KeithWithoutACrew	2
 UCJ1DXJuVkrvdeCCJ87Bci3g	Colossal Is Crazy	1
 UCmMwQ1dpfAu4eYLWBiqF5lQ	HeyWatchYourMouth	1
 UChc-m3saf8K2oJHDSsnsj_A	Elvis The Alien	1
 UCKyCNNJMe7dqlHhA8TRbe2A	BionicPIG	1
-UCny_vGt2N7_QJ5qBOAHxlcw	maxmoefoe	2
+UCny_vGt2N7_QJ5qBOAHxlcw	maxmoefoe	3
 UCfbnTUxUech4P1XgYUwYuKA	Cold Ones	1
 UCw8oPQaO3lJB41wSqUZ3aVA	kaileemckenzie	1
 UC-8_sgAuwiihQ5lQfC3tewA	Tara E.	1
 UCfMiQTbT6JsDF7Cutn5fa-A	Sammi Quinn	1
 UCYSLahrFL9NwOjImstmnJqA	lindseyrem	1
 UCm-aiTyTykWKPYfSRmwMhIQ	Kristee Vetter	1
-UCyC-e_40wOJ1d63GAcjhcVw	StyleHaul	3
+UCyC-e_40wOJ1d63GAcjhcVw	StyleHaul	4
 UCuQKEUXq7cH4pLcKToFcR8A	thesegirlstheseries	2
 UCa-X6dvRBmrUSP3sRTqHj7Q	Nuno Media	2
 UCCeWWiegztMhL-DqyfG-FRg	Shira Lazar	1
@@ -1237,25 +1237,25 @@ UCYywZrVK-_L2ykii-rVeXzw	Andy Lalwani	1
 UC-0Urs9tifl-7DDE1RLbBHQ	scarlxrd	1
 UCzcHFgag255IsYnAIp7EbsQ	TXT Stories	1
 UCNmXRwlQMlyXtLj-L9x3hLQ	OlanRogers	4
-UCtTK007CgzZZXroYjY_UBRA	Arden Rose	2
-UCZp5j0LWQCT5cO_vhkrW6kA	Bertie Gilbert	4
+UCtTK007CgzZZXroYjY_UBRA	Arden Rose	3
+UCZp5j0LWQCT5cO_vhkrW6kA	Bertie Gilbert	5
 UCuInCtO3ampjhV_PYd1qJCA	Dom Fera	2
 UC78zXJFimlWORdNrBS5pqGw	Sammy Paul	2
 UCMzt_XP5b4vSU4IhgN2I-fg	Alexa Losey	1
 UC_IVogVfsQkoJtEqX6TwqTg	crabstickz	4
-UCV0Q5XoDann5uLJDkUjJ7Lw	Mary Doodles	2
-UCoWtLHuh40kYXl3kOIM3cxA	Mitchell Davis	5
-UC4ttjCkvhFDH5bYE4HZDEhA	Alli	1
+UCV0Q5XoDann5uLJDkUjJ7Lw	Mary Doodles	8
+UCoWtLHuh40kYXl3kOIM3cxA	Mitchell Davis	6
+UC4ttjCkvhFDH5bYE4HZDEhA	Alli	2
 UC_HzqiM0H4FM3-BMYKmjQ-w	DashieXP2	3
 UCjE_77z4vqO3AJLkwYUfq-Q	RyansAverageLife	1
-UCERUmrDh9hmqEXBsnYFNTIA	DashieGames	4
-UCJ38NG3elqiea113-WFwHXA	NightmareCinemas	2
-UCjkUsjn8wf7pMfj31_4YnWA	Tpindell	3
+UCERUmrDh9hmqEXBsnYFNTIA	DashieGames	5
+UCJ38NG3elqiea113-WFwHXA	NightmareCinemas	3
+UCjkUsjn8wf7pMfj31_4YnWA	Tpindell	4
 UCNfTbxFqaPTMs9-2X_LxeBg	Joey Engelman	1
-UCAaUVu8vYss8zCaC0WuA9jA	Caspar	2
+UCAaUVu8vYss8zCaC0WuA9jA	Caspar	3
 UCumWiQfmYoCPtnf_nAXpNYA	J.D. Witherspoon	1
 UCCqt6v910griyXnCYEh1XLg	TotallyTristan	2
-UC6cVnqiOWhv0MwzPqSI9PSA	Beatbox Hitman	1
+UC6cVnqiOWhv0MwzPqSI9PSA	Beatbox Hitman	2
 UCO-WnxCevYLBjlvdXEyqggw	Dennis Roady	4
 UCkreGa7A99rho2K1bKXO4YA	Dennis Roady Games	2
 UC1KPy3cAAj0i0RIFC_SzjMg	VitalyzdTv	4
@@ -1269,7 +1269,7 @@ UCOmvMNbx8mTjcy_xRn3oiZw	MabeInAmerica	2
 UCegEbxS54ee3fh19N56cG2A	JEROME JARRE	1
 UCm9AvxU_zDbAiF4a-4FuGYw	Original Gamer	2
 UCfDoPEgiYTMmraXj8HS7s4g	Kevin Smith	1
-UCJQL1Fai-9GlVunsbP4x8Pg	MyHarto	6
+UCJQL1Fai-9GlVunsbP4x8Pg	MyHarto	10
 UCspJ-h5Mw9_zeEhJDzMpkkA	Furious Pete	2
 UCUxc0iEpV8wZV4WLOui0RwQ	Gabriel Iglesias	1
 UCMgCvJ3_QahXgvwj6LjOd-w	Soldier Knows Best	3
@@ -1290,17 +1290,17 @@ UCTbC3hJmqKotBt4s2BGRjrA	Flula	1
 UCLrUJGWaxhMEgGaHWXUK4Jw	NFEN	2
 UCteaFmvcwIkppfVUHLJLmbA	vol1tion	1
 UCZ6wVXvWuFOIPnSXn7_JidQ	Mario and Tiffy	2
-UCyT6APaPTsFEwtEHu-oMqFA	TiffyQuake	3
+UCyT6APaPTsFEwtEHu-oMqFA	TiffyQuake	5
 UCRdMmSsi1jm-yjyOwcxOdoQ	redb15	2
-UCKf22lP04KAEQzb_ZMwlV6Q	cybernova games	3
+UCKf22lP04KAEQzb_ZMwlV6Q	cybernova games	4
 UCioP_1HEzgX525GZ7FoKJ6A	Mitty	1
 UC6IijBsVf2PlWo_uq6P9wQw	Gloom	2
-UCeBnbqt4VRhotq2TQjkIi2A	LaurenzSide	7
+UCeBnbqt4VRhotq2TQjkIi2A	LaurenzSide	14
 UCzYfz8uibvnB7Yc1LjePi4g	Aphmau	4
 UCLvgfPElEhJrOuMsSXNZ0Rw	Utorak	1
 UCGbuAbSys-10iPfvxtkcTCQ	ORIGIN PC	1
-UCVdtW2E4vwvf8yh4FY5us9A	SSoHPKC	2
-UC22TOQWJue006Lp6DB5QhDA	UberHaxorNova	3
+UCVdtW2E4vwvf8yh4FY5us9A	SSoHPKC	4
+UC22TOQWJue006Lp6DB5QhDA	UberHaxorNova	4
 UCHQESNIbXuQM-QUeMf7CFjQ	AllShamNoWow	1
 UCYySZ3PFI7wT4-ltCmndtLA	FranDaMan1	1
 UCoA6sve9kCsgyxpalxTiXRg	DoubleAyeeRon	1
@@ -1311,38 +1311,38 @@ UCUpckPU6HFyuccqtZvyG4Lg	JGuily	2
 UCBsPoD04EA89xOGRhJG9s5g	Meow Michelle	2
 UCY4i6hCbtKBt-T_vesg_MdA	MrTechnicalDifficult	2
 UCDXStxlb4KX2yKHH01sr9Ug	SilentDroidd	2
-UCM90gMiLPlVnhSLhrdF_MZA	SoCloseToToast	2
+UCM90gMiLPlVnhSLhrdF_MZA	SoCloseToToast	3
 UCAW-NpUFkMyCNrvRSSGIvDQ	Ninja	2
-UCrgTEmBuoObZiEXvZ6r3PQg	CouRage	3
+UCrgTEmBuoObZiEXvZ6r3PQg	CouRage	5
 UCXBE_QQSZueB8082ml5fslg	TimTheTatman	2
 UCS4RZ1dJRlDFPtdYpzrgclQ	Racingcatz	2
-UCdQWs2nw6w77Rw0t-37a4OA	CaRtOoNz	2
+UCdQWs2nw6w77Rw0t-37a4OA	CaRtOoNz	3
 UCObgw7K0mzkxaNroxQpKSDg	taltigolt	1
 UCq6VFHwMzcMXbuKyG7SQYIg	penguinz0	2
 UCSGAfZHrMDxHE31dFPlaTNw	SillyTavern	1
 UC-_VTaWqRsZ1nzZLHQIGwQA	ImAnderZEL	1
-UCUKMpHTtAG8bJY7bMSatNJg	MattShea	4
-UCD4INvKvy83OXwAkRjaQKtw	Sips	1
+UCUKMpHTtAG8bJY7bMSatNJg	MattShea	6
+UCD4INvKvy83OXwAkRjaQKtw	Sips	4
 UC6HFaHrumuF4Y1W6r0wZa7Q	Brozkii	1
 UCnWoZzXb5bAeWX-JJQOq9uw	Petard	1
 UCnGvDC6xz0XEseYW_SwToMg	Nexter's Lab	1
-UCEW4XZHEfIRIybIUIgCHrLg	BestAtNothing	1
+UCEW4XZHEfIRIybIUIgCHrLg	BestAtNothing	3
 UChRO9Cl5hkrXyPpb4FbBpeg	Abnormal Sloth	1
 UCpmu4uEZ8XcPjHdHh7_zFOg	ChilledChaosGAME	1
 UCNa1RhfGat2xFji4DLiWt5w	tehsmarty	6
 UCN-Klifn9C7kINwpIA0uOHw	GaLm	5
-UCTcc3KiX3RYXhi96vI_jJPA	TheRPGMinx	6
+UCTcc3KiX3RYXhi96vI_jJPA	TheRPGMinx	8
 UCeOUmAzHQi3xO7q7d92tA9g	Tomato's Trash	1
 UCNMSCL9rDJJez6mP5gSpAPQ	BedBananas	8
 UCNM3W16DLgPc6NR1xHs5xbw	Charborg	5
 UCSGo5rqplxK98nabjmkc2yA	GoatBate	3
-UCjaB_-YGGr1Dim_OWnehKMw	TearofGrace	2
+UCjaB_-YGGr1Dim_OWnehKMw	TearofGrace	3
 UCde26fO9oRBfNjyCs59mmvA	Zuthar13	2
 UC2P2-xPov0Adm5wHkXqfk0A	Zyke	3
 UCzXwjTI6c6mVn6oui_p6oiw	SMii7Y	4
 UCFn8xm9ydt3ZOyBECKmC79A	SattelizerGames	2
 UCi-QR0jFereBXjU9SBxcdeg	Kryoz	3
-UCOHBVUV8aDg4tQiHnUqi_QA	MathasGames	1
+UCOHBVUV8aDg4tQiHnUqi_QA	MathasGames	2
 UCUfF2SXdGNXmi1XcZoqj8oQ	Craig Thompson	2
 UC3YSK5WH8ZqimlIzc5iMc5Q	Mini Ladd Vault	2
 UCfSUheoljDlGDjerRylO4Nw	Vindsvept, fantasy music	1
@@ -1351,21 +1351,21 @@ UCs3GloeEzu5rDlQlSLGrr4A	Sparkles	2
 UCHLywIFGrNhgHxeI1dRpfOg	TrilluXe	2
 UCK3kaNXbB57CLcyhtccV_yw	Jerma985	2
 UCflF6tRIcBr4Q7E5-pq3VHw	Criken's Catalogue	1
-UCe0DNp0mKMqrYVaTundyr9w	VaatiVidya	2
-UCzORJV8l3FWY4cFO8ot-F2w	vinesauce	3
+UCe0DNp0mKMqrYVaTundyr9w	VaatiVidya	3
+UCzORJV8l3FWY4cFO8ot-F2w	vinesauce	4
 UCyWDmyZRjrGHeKF-ofFsT5Q	Internet Comment Etiquette with Erik	1
 UCSKFuxhXiJjF49nwQGZuROQ	Geek Bomb	1
-UClu2e7S8atp6tG2galK9hgg	BdoubleO100	4
+UClu2e7S8atp6tG2galK9hgg	BdoubleO100	5
 UCEXFSf2qoF4ZNZ5sSBsYIkw	JERICHO	4
 UCJTWU5K7kl9EE109HBeoldA	Generikb	4
-UCHcOgmlVc0Ua5RI4pGoNB0w	Pungence	4
+UCHcOgmlVc0Ua5RI4pGoNB0w	Pungence	5
 UCFYdCaiy3UqLDb9C_eCd__Q	skyzm	3
 UCKJFm7hOPvqXZxkcUFbe6mg	GoldGlove Let's Plays	1
-UC6oVY1-ogTqvXc1dlBw8oVg	Elgato Gaming	1
-UCAlkmDyqb7fNYcFM-FIV9Fg	EntoanThePack	5
-UCNwPE1qmvOcMvttpoRy1oRg	Tom Fawkes	3
-UCfGyvxAlTR4loVbkW15vrkw	Bryce Games - Bryce McQuaid	2
-UCd6WAfcm_fiRtTNlqSWGhqg	dlive22891	5
+UC6oVY1-ogTqvXc1dlBw8oVg	Elgato Gaming	2
+UCAlkmDyqb7fNYcFM-FIV9Fg	EntoanThePack	10
+UCNwPE1qmvOcMvttpoRy1oRg	Tom Fawkes	4
+UCfGyvxAlTR4loVbkW15vrkw	Bryce Games - Bryce McQuaid	3
+UCd6WAfcm_fiRtTNlqSWGhqg	dlive22891	9
 UCOishUlW3I83Ocp8rvJJTfQ	Starsnipe - Daily Videos	2
 UCfmY02dgATqlZWos26b6JGQ	Hauntsii	2
 UCgwS_Spogn3vlOFNUyTPIdw	Tejbz Spelar	1
@@ -1389,13 +1389,13 @@ UCtMIJUcooRO5DgyPd_168XA	Nature Middle East	2
 UCvCLdSgYdSTpWcOgEJgi-ng	Nature Research	1
 UCVrfgLHHqTXdgM6STZbXy0A	SpringerVideos	2
 UCNowWtw7oCZH3f0u2tF_wbw	BMC	2
-UCYeF244yNGuFefuFKqxIAXw	The Royal Institution	1
+UCYeF244yNGuFefuFKqxIAXw	The Royal Institution	2
 UC7G5gJazvls-s8rb3hEfPyA	BYTEthinks	2
-UCesjlAoEgN_Sz_cKTvKEmmw	Doktor Whatson	2
-UChpvPIndYSuv_uf1KC4Prwg	LetsDenk	1
-UCuo4TZpgNCAzEU2IAUFJBeg	RLScience	2
-UC5E9-r42JlymhLPnDv2wHuA	Terra X Lesch & Co	2
-UCzWQYUVCpZqtN93H8RR44Qw	Seeker	3
+UCesjlAoEgN_Sz_cKTvKEmmw	Doktor Whatson	3
+UChpvPIndYSuv_uf1KC4Prwg	LetsDenk	4
+UCuo4TZpgNCAzEU2IAUFJBeg	RLScience	3
+UC5E9-r42JlymhLPnDv2wHuA	Terra X Lesch & Co	5
+UCzWQYUVCpZqtN93H8RR44Qw	Seeker	7
 UCs4aHmggTfFrpkPcWSaBN9g	PBS Infinite Series	3
 UC4eYXhJI4-7wSWc8UNRwD4A	NPR Music	1
 UC7jxQ3qqvy-1tQoJ3ZRv0Aw	Masterpiece PBS	1
@@ -1405,47 +1405,47 @@ UCnDUknWztWaLs7motsqGwPg	Independent Lens	1
 UCcBp_9YPyma4c3HTadmRJ3Q	Nature on PBS	1
 UCrNnk0wFBnCS1awGjq_ijGQ	PBS KIDS	2
 UCiB8h9jD2Mlxx96ZFnGDSJw	Origin Of Everything	2
-UCsaEBhRsI6tmmz12fkSEYdw	Hot Mess	3
+UCsaEBhRsI6tmmz12fkSEYdw	Hot Mess	5
 UCnxGkOGNMqQEUMvroOWps6Q	JRE Clips	1
 UCEWrkBTDSYqJzQmp8gxQiMw	The Serfs	2
 UCMCioqY4zblWt7Uw0E0VTGA	The Benjamin Dixon Show	2
-UClt01z1wHHT7c5lKcU8pxRQ	hbomberguy	2
+UClt01z1wHHT7c5lKcU8pxRQ	hbomberguy	4
 UCQpltQMhYFvyeS5M6P0Zg-Q	Creationist Cat	1
 UCtlfyd1Xs9CtxfBNP9_IgAw	Cult of Dusty	1
 UC0pCsHlEEmCfxllZSlRB2Og	Status Coup	1
 UCrr7y8rEXb7_RiVniwvzk9w	Thought Slime	1
-UC2PA-AKmVpU6NKCGtZq_rKQ	Philosophy Tube	2
-UCxFWzKZa74SyAqpJyVlG5Ew	Kat Blaque	1
+UC2PA-AKmVpU6NKCGtZq_rKQ	Philosophy Tube	4
+UCxFWzKZa74SyAqpJyVlG5Ew	Kat Blaque	3
 UC8aIq_l3wnoWDVu3sasgoew	Let The Madness Begin	1
 UCTrecbx23AAYdmFHDkci0aQ	Undoomed	2
-UCgGgkVyadk0TdxmVzYcAM-Q	Hugo and Jake	1
-UCVtEytgcL5fZcSiKx-BjimQ	AlphaOmegaSin	2
+UCgGgkVyadk0TdxmVzYcAM-Q	Hugo and Jake	2
+UCVtEytgcL5fZcSiKx-BjimQ	AlphaOmegaSin	7
 UCcnwwOJqzBrQNqVmgWjEY_w	Highdeology	2
-UCiH828EtgQjTyNIMH6YiOSw	Channel Awesome	3
+UCiH828EtgQjTyNIMH6YiOSw	Channel Awesome	5
 UCHLvRrh35NGm1Bo1fcGIddQ	TJdoeslife	2
 UCQLC7lufnMRoxJkkkMAJEUQ	Hallcyon Bombadil	2
 UC4NpbPE75Cb1xkbDLWq8WuA	DEEP FAT FRIED	2
 UCdUdP5BeOsua_j3u-0ZbL5w	ThinkTank	10
-UCwTcFaOYFjIbxHjrmP0ptxw	What The Flick?!	11
+UCwTcFaOYFjIbxHjrmP0ptxw	What The Flick?!	12
 UCFLRxVeYcB1H7DbuYZQG-lg	The Laura Flanders Show	2
 UCjAjmgMNFoFsTAFwuZLnZNQ	Citizen Radio	1
 UCrIJiOyWmd4UAEDSnuc8FXA	breakroomlive	1
 UCyvaZ2RHEDrgKXz43gz7CbQ	Redacted Tonight	2
-UCaLfMkkHhSA_LaCta0BzyhQ	Munchies	15
-UC0iwHRFpv2_fpojZgQhElEQ	Noisey	14
-UC9ISPZsMaBi5mutsgX6LC1g	i-D	14
-UCfQDD-pbllOCXHYwiXxjJxA	Broadly	13
+UCaLfMkkHhSA_LaCta0BzyhQ	Munchies	16
+UC0iwHRFpv2_fpojZgQhElEQ	Noisey	15
+UC9ISPZsMaBi5mutsgX6LC1g	i-D	15
+UCfQDD-pbllOCXHYwiXxjJxA	Broadly	14
 UCWu9QuHF-dcakBmhullIH6w	Waypoint	9
-UCB6PV0cvJpzlcXRG7nz6PpQ	Motherboard	16
-UCWF0PiUvUi3Jma2oFgaiX2w	VICELAND	15
-UC8C8WuWSsFjWFaTHcUQeQxA	VICE Sports	14
+UCB6PV0cvJpzlcXRG7nz6PpQ	Motherboard	17
+UCWF0PiUvUi3Jma2oFgaiX2w	VICELAND	16
+UC8C8WuWSsFjWFaTHcUQeQxA	VICE Sports	15
 UC8ZyfGD_qP-v75DGCzYQw6g	VICE Asia	1
 UCYB6UxeSTHJyEMq-clobnrg	VICE en Espa\xc3\xb1ol	3
-UCiZCX1R1F3xYGbeXq1JscKA	VICE Japan	11
+UCiZCX1R1F3xYGbeXq1JscKA	VICE Japan	12
 UCIZ3xweMcx1XUlcwRESbmBw	VICE Arabia	1
-UCNDUud96oGK5xQ9gyg913vw	Desus & Mero	1
+UCNDUud96oGK5xQ9gyg913vw	Desus & Mero	2
 UCroeDtD1dtd1leuxUHDMTXQ	Tonic	4
-UCflb1gG-X1dy1Ru5JIk5sPw	Amuse	6
+UCflb1gG-X1dy1Ru5JIk5sPw	Amuse	7
 UCDgMtdrXgvKs06UTpwraz8A	David Doel	2
 UCC5rHuQiVcpElGAd9qHaQ5A	Eleven21 Productions	1
 UCsGONrYTksBI250Fbp6fR-g	Zoon Politikon	1
@@ -1458,11 +1458,11 @@ UCRDSOUdJqiP_e9dq0ayLPaA	Benjin	1
 UCRe0HBxBFF_B3qi_BBiYLrQ	Battles of the Ancients	1
 UCD1eu28G17Uabr9u2id7EYg	happycompy	1
 UCXS0JFk31LrJ_orjoOAYXrQ	STYX	1
-UC8XjmAEDVZSCQjI150cb4QA	Knowing Better	3
+UC8XjmAEDVZSCQjI150cb4QA	Knowing Better	4
 UC-JWw2juO3Ikj5C9VsNoGIw	M. Laser History	3
 UCaQzyr4MWn1b9W4TdpxxeKw	Jack Rackam	3
 UCO-8Osf4S3N0m7u1NivTfeg	Phrenotopia	2
-UCxTdWpLJurbGlFMWOwXWG_A	Step Back History	4
+UCxTdWpLJurbGlFMWOwXWG_A	Step Back History	5
 UCmYesELO6axBrCuSpf7S9DQ	Mr. Beat	3
 UCG6tBbWzY_ZR4_rd72vp6CA	Alliterative	1
 UCT3v6vL2H5HK4loLMc8pmCw	VisualPolitik EN	1
@@ -1473,7 +1473,7 @@ UCGp4u0WHLsK8OAxnvwiTyhA	British Path\xc3\xa9	1
 UClq1dvO44aNovUUy0SiSDOQ	C&Rsenal	1
 UCrfKGpvbEQXcbe68dzXgJuA	Forgotten Weapons	1
 UCK09g6gYGMvU-0x1VCF1hgA	Military History Visualized	5
-UChl-XKVVBAzoEVsnbOfpcqw	The Tank Museum	2
+UChl-XKVVBAzoEVsnbOfpcqw	The Tank Museum	3
 UCmpahmxWXajV0-tuMMzSzAg	Military Aviation History	2
 UC-aoMrWqVF09ZKKiWhLLReg	Invicta Gaming	1
 UCGUg3kP8pEPQu3b9gs0cisg	Geography Planet	1
@@ -1489,10 +1489,10 @@ UC4FYwBasJ4MTe9iV-Ofykeg	Drew Berquist	2
 UC3LmZTw9hHS5Nfd4JG-JUpA	Andrey Filatov	1
 UCittVh8imKanO_5KohzDbpg	Paul Joseph Watson	1
 UCL_f53ZEJxp8TtlOkHwMV9Q	Jordan B Peterson	1
-UCIveFvW-ARp_B_RckhweNJw	StevenCrowder	2
+UCIveFvW-ARp_B_RckhweNJw	StevenCrowder	3
 UCtj0dD4iL8Rn1pyL4ioLhOQ	Silicon Real	1
 UCaKZDEMDdQc8t6GzFj1_TDw	Be Inspired	1
-UCpmZQGTZXn9xd4nN59pbIWQ	Absolute Motivation	1
+UCpmZQGTZXn9xd4nN59pbIWQ	Absolute Motivation	2
 UCMNUBj9ZdoY_IFobkxvdLXQ	American Real	1
 UCYCUR_BNSrdC2GF3zB0ky9Q	New York Real	1
 UC1Aq3T1GmKcObLqo1YIU_Ww	Bulletproof	1
@@ -1534,12 +1534,1667 @@ UCIaAkrszD7vt2uht8glGR_A	WorldViewShow	2
 UC3XTzVzaHQEd30rQbuvCtTQ	LastWeekTonight	1
 UCswH8ovgUp5Bdg-0_JTYFNw	Russell Brand	2
 UC_70iWZ6ym2cglS_kv5YfmA	mediamatters4america	1
-UCswDowOOvJ-fkCgH9YAITjQ	Upworthy	1
+UCswDowOOvJ-fkCgH9YAITjQ	Upworthy	2
 UCX1QptigcsbBubVqtB1JK7g	ATTN:	1
 UCB6NqtCiy3ptrUCJ9w-wMlg	drcoolsex2	3
 UCdeg_m836H-3CP5L_nXrw6g	alexcharak	4
 UCKy3KYVHbPc0WoD67r8SMZQ	Dustin Drury	4
 UCJXgzXOqvUtDeGM5gfw4sCA	gregorymurtha	4
 UCDDqoN4fdQQzCgXCuHoRCAg	POYKPAC Comedy	1
-UCXnZEYmPwNz2oOBbsEoY_4A	digitsshow	2
+UCXnZEYmPwNz2oOBbsEoY_4A	digitsshow	5
 UCfQF-wBcQByClirClsr8-1w	DiGiTSDeclassified	2
+UCWMNcW6PfJsa_bqoGQ_leew	wedontgiveafrak	5
+UCRzJx2cKA-f2EPuZdIpPCPQ	LaFlairParkour	4
+UCB_T2YUO9bO7ORthVwq_t6g	musictriviachannel	3
+UCo6Mf-v_-IpaAn2lqXy8mEA	Tea	1
+UCog43Z4YSUdnOjQH6z-_wbQ	Gamer Reaction	2
+UCiHTqyILO4CRHeJRorlyhow	EngineerYourSpace	1
+UCaK8gjSOhVdRnFNl-28TKMg	ultrakawaii	1
+UC_zT-bfNfYEaWJ896sXGSJA	The Wing Girls	1
+UCKvvTLZppbz7As-RyG-ha-Q	HeyKayElle	2
+UCOC87AIBm2ul1metht5fY2A	averagebetty	3
+UCRIZtPl9nb9RiXc9btSTQNw	Food Wishes	5
+UCUsWpnxwioEkm1cpS1ewZXg	Me Gusta Cooking	3
+UC_RcZSC24mCba_J-Sgn2scw	Stupidly Simple Snacks	4
+UCSRrH-a-ohQ_ufrBJDX5xIA	Working Class Foodies	2
+UC9SI09HXE2yDLeiHKBVd1yw	hungryinbrooklyn	1
+UC947VkT3SVi42obniu_vPmw	BethInShow	5
+UCxmah7-J1KkRA0KkzrM0PkQ	Slacktory	2
+UC63THUk-yztNcTYSrP7z1gg	answerly	2
+UC36IXDyzBLj07Xz-OVLtBrg	okaynate	2
+UCflN-aE4_f6r7NafY9zbRnA	Younger Hollywood	9
+UC44vXSf8CWXSd90z8QAGZdg	Young Hollywood UNCUT	9
+UCZPyPxq-qxClc0MPWJuC8kQ	The Code Word	9
+UCxmZe2ccYmhGktnvnlGHlwg	Food Feed	9
+UC9j4kM1gRKGcfK24p9jcdng	Ampd Up	9
+UC-IQjw22PZjvqNrpfpgAlFw	The Fangirl Life	9
+UCnvz3noYGQNoFKiFtjG-MLg	The Social Stream	9
+UCymm28NEzQDrEK4LwpVCKcw	Young Hollywood Sports	9
+UC1jBM5OREaHadrwMhqVh2tw	Inside the Look	9
+UCFwaDSPzQZQIcF0vhyFmvug	Cue the Critic	1
+UCXCS6PE9MU14qwDZXmPUNGg	Saint Pablo	8
+UCHgFO2em7PQpvSKI0rCjcsg	Go With Dennis	8
+UCzztaOtjmaZoiLvWLagq7bg	Def Noodles	8
+UCdG-etRpO9AJRlMlHTPhunQ	Def Shorts	8
+UCh98Ak3phgiq1KxjR6k7DTg	Def D00D	8
+UCWSm2lp2V6-o56dIylZhxgA	Def Bro	8
+UCEPyWMI7ncvA2BQ4PLNRg1g	Def Nuggets	8
+UCfFmAhC2kkpoIfuToh_sHWA	Def Rolls	8
+UCflekwBtmeecY9bcAzPgPCQ	David Spates	3
+UCkRwfQRsQ4UK-iR8JsZRP9w	BLACK&SEXY.TV	2
+UC830MUucMmasC6CmgmpeW_g	Chris Starr	2
+UCrtNuDTtMzVbxdROsT_D4HQ	Issa Rae Presents	3
+UCOVEhNmuhRfgyUbZf46zqCQ	Matthew A. Cherry	1
+UCDe0xEmWeYUFPKNn6PHWFrA	Reckless Mike	1
+UCS9OXp1XZh5qv5nN11GHIzQ	MadameNoire	1
+UCyMbSEhV3uamzZNBp16Ykpg	DeStorm Power	6
+UCWnnHaUiRBbDSivGPQDTz0w	stephanieparrott	2
+UCks0RDF221OGe4j-sfvN15w	Aaron MIchael King Vlogs	1
+UCpZbG2OjSF3etyo8_sNBA9g	Anu Supreme	1
+UCtG8AG6TRdPfPZgvM8w_6dQ	olegvideo	2
+UCGGgzOm-iQAcPNGvIyWpoiQ	lonsiera2	1
+UCUCNyBJvI3-9n84pqMKKpYw	LonsieraGame	1
+UCPqM5ZloWYcSNo6A4IY_rfA	VF-STUNTMEN FILM	1
+UC9wSXESC2YOCOcZkr4RAS3w	Hidden Camera & Practical Jokes Community Channel	2
+UCvSWpue05ed6kDviZe4cNTQ	Jay Karl's Scary Snowman	6
+UCeBcHboVAgOE6TVw0TPeZDg	GDWorkbench	1
+UCV-bDec0e7fbZLOvlBNYTow	SEAN LONG	4
+UCsjIHm9OdgkdoPIMLA84jog	Jay Karl's Hidden Camera & Practical Jokes	3
+UCAXLYcPBW3AJ52ZAhinOyFQ	Ausfahrt.tv	1
+UCwuDqQjo53xnxWKRVfw_41w	Carfection	1
+UCNa6darq0bmZ6kLtsliiWiA	Road Test TV	2
+UCWeLPNowZvdzXwnCDxVyNEg	DragTimes	2
+UC5rBpVgv83gYPZ593XwQUsA	THE DRIVE	1
+UCNnbBA8Hxi0D-ys4sn55qPQ	FLDetours	1
+UCBBf76weOf-4p_cIzOd71hg	MilesPerHr	1
+UCeshOQloZqIw7rqtUebNbWQ	Young Survival Coalition	4
+UCEqbLnH9n1Ys0yajgtBkHQw	Metro Beauty Academy TV	3
+UCoWYks77cYi-Ch6od8hpDgw	House of Jai Yoga	4
+UCFdwWQp-UTxzQC9W-danP5g	EmpowerYourBody	5
+UCCsb7DHyoV28bG_Zq1NFnBw	Stupid Cancer	2
+UCP8sohkxkQNq_SZ5blJE2ag	YourMusicVideoTV	2
+UCkGvUEt8iQLmq3aJIMjT2qQ	EEVdiscover	1
+UCr-cm90DwFJC0W3f9jBs5jA	EEVblog2	2
+UCiqd3GLTluk2s_IBt7p_LjA	w2aew	5
+UCOTPsWDzNAosVd6vc3pCPHQ	mjlorton	2
+UCMLgHbpJ8qYqj3CkdbvC0Ww	Fran Blanche	4
+UCyFA2qeZGoHgUEi_rN9De-w	Alan Garfield	1
+UCVTg2WLM2oIvWORb5bLFSzw	The Generalist.	1
+UC75HTMhqVZs0sPOMTMQqI9g	SuperHouseTV	2
+UCFHMw64uu66VKPXq5gh29IQ	Brainiac75	1
+UCmb8hO2ilV9vRa8cilis88A	Thunderf00t	1
+UCDmxnPem-pPfJQATIkfgY2Q	Keith Fenner	3
+UCZomvsWDOp5bYKNfhGneA-g	shopdogsam	2
+UCzOubkcLi46kvtlfDCI1nTg	Online Course Creation with LFE	1
+UC6wPog0EFty3ld5afJi0HZw	trainman4602	1
+UCPAD3kFSwVNFlFsqW5jEnSw	Matthias talks YouTube	1
+UCjA8vRlL1c7BDixQRJ39-LQ	John Heisz - I Build It	3
+UCn7lavsPdVGV0qmEEBT6NyA	Marius Hornberger	2
+UCCsdIja21VT7AKkbVI5y8bQ	Alain Vaillancourt	2
+UC3_VCOJMaivgcGqPCTePLBA	frank howarth	5
+UCQ9e0JHba7ApNz_-HL-p_6A	GREENPOWERSCIENCE	3
+UCc4lFNN1eR5Qf1JMUgECaKg	Thomas Kim	3
+UCnC49J9P-2VJ6Ult7_wQoFg	Do It Yourself Gadgets	2
+UCIKzUKkh7XtnSYPW0AJb-9w	lasersaber	2
+UCotwjyJnb-4KW7bmsOoLfkg	Art of the Problem	1
+UC0UBzwD_F_l1VWBPt7LNHOQ	Rick Osgood	1
+UCXskbKF0uBSVtH8gActuVMg	CoolRiddles	1
+UCNILR1T-x7LvnDi0XqYg4Bg	Justin Daze	1
+UCPv6_GljwnFHvHWcsU074qQ	electronicsNmore	3
+UCfCKUsN2HmXfjiOJc7z7xBw	JohnnyQ90	7
+UCOJ6RAbky9AMPBrVzBl3jPQ	GoRepairs	2
+UC5eVAqIMYef7YQ9QrXKpfjA	Rulof Maker	3
+UCXfbQAimgtbk4RAUHtIAUww	The Lizzie Bennet Diaries	2
+UCuIyF_zW8-CRfWG_JjGCDrQ	Afrotechmods2	1
+UCV5vCi3jPJdURZwAOO_FNfQ	The Thought Emporium	4
+UCaEgw3321ct_PE4PJvdhXEQ	scanlime	2
+UCJ0-OtVpF0wOKEqT2Z1HEtA	ElectroBOOM	3
+UCLzGy8xSEod36lsWhHG6KxQ	HDXFH	8
+UCrgd8qJ7CE97PSaPJySR6wA	Electric Experiments Roobert33	5
+UC5osBrdtaRKkwnc7atoig5Q	BoomBoxDeluxe	2
+UC9Y7eDmStYYZjESE-7NA3Ng	Hvdragonproduction	1
+UCWEW3fKtRLBfpiQ1gxzUSRA	alex's randomness channel	4
+UCl9OJE9OpXui-gRsnWjSrlA	Photonicinduction	12
+UCahPXX_NxKaf2i67aYMaahA	Aussie50	11
+UCyrCDIkJlTQTVb20xBPsAVA	high1voltage1rules	6
+UCktDiBBaMFLwOpGNlr7Qg4Q	20kilovolt	2
+UCjW-IISzIFrw1bNFgSl1hYw	australianstig	2
+UCFh_U-ed1i-n6bKhZeg7lrA	bluesmokeproductions	2
+UCw2SbtOH0K9AjQTbIRI6cqA	shango066	2
+UCj6u35zbtLP80y4oh7BuRoA	FirestormMovement	2
+UCoNqsdWJDhvOYR9ANHtX29g	dirkk82	2
+UC-8cfvaQta4zW_0qR4VyRAA	ElectronHV	1
+UC-4MXKtWLteWNZg5ij-gnkA	Luiz Paulo Damaceno	1
+UCm_Fbx0tAqAOB3cA4d1GnXw	nuggetnoggin	1
+UCsN_XAQFdI35C9JFhGuZpSg	Phantasio Cinemas	1
+UCxGiVnL7P94cm36TU1IiokA	INTREPID	2
+UCs1wIf6guMyXjED-AY4W5sg	Triangle_DIY	1
+UCcDpEbrETwvQfJxnpqY6idw	AlumiTube	1
+UCj_XaV1ss-qdD-lPUtTEcXw	SV Seeker	3
+UCFOM5TvYMxeExoyxoUp8ipg	RCSuperPowers	1
+UCAMZOHjmiInGYjOplGhU38g	Team BlackSheep	1
+UChWv6Pn_zP0rI6lgGt3MyfA	AvE	9
+UCUeCRVgHHvOGzLD5B-MUSJw	TheQuantumFracture	1
+UCBQx7d41jTkjnsO4C_tui9w	Charly Labs	1
+UCYjyn7yoe0w8OcMu75kvXDQ	S\xc3\xa1bados Culturetas	1
+UCXwjsE04B3oXnteUD6GzGtg	El Pakozoico	2
+UC52YiF_-JnZN9sOurIBaCTg	S de Stendhal	2
+UCcgQKObwkjmg93KBYSDGJLg	Cogitare	1
+UCaVPhFg-Ax873wvhbNitsrQ	El Robot de Plat\xc3\xb3n	2
+UCQX_MZRCaluNKxkywkLEgfA	Date un Vlog	2
+UCa3DVlGH2_QhvwuWlPa6MDQ	Jaime Altozano	1
+UCGKzjVZGdJ0YmUqg42xfO5w	Antroporama	1
+UC-ihtKdODqNE7iPISJD3DnA	Lemniscata	1
+UCcm33l460hvUiKWztuMYHHg	WhatImDoingRightNow	1
+UCGAL9TcH76MBKR5hywFZ4CA	ForCriticalThinkers	1
+UCxO1tY8h1AhOz0T4ENwmpow	FullscreenMedia	2
+UC6iWKC08iw9K-R6Wh5pbZNQ	Hannah Witton	3
+UCc8hAiwjYf3WQpZFbknby_Q	elmify	2
+UCnCnrEWgIa5wincNJp_GKpA	T. Michael Martin	2
+UCpZ5qUqpW4hW4zdfuBxMSJA	Mental Floss	3
+UCLoj4Tgw6-QbDyyATAyZTlw	WheezyGamer	2
+UC21oqMslDhUvQ_HM8EtX03Q	TeamHypercube	2
+UCpo_DqbwM6THTXGGY4AsXOQ	Complexly	2
+UCdJ9oJ2GUF8Vmb-G63ldGWg	Reactions	2
+UC4K10PNjqgGLKA3lo5V8KdQ	Above The Noise	2
+UCR_faRupOZjPVB0rAg4sxRQ	Khan Academy India - Hindi medium	2
+UCprAWq_PzE2DDYV6Rfvpdog	KhanAcademyLanguages	2
+UCwljPMVrJs0kIt9g_i4Wo4g	Funda\xc3\xa7\xc3\xa3o Lemann	1
+UCuQ0v3Q5_UCLQkp8AwHDNAA	Danielle Th\xc3\xa9	1
+UCQALLeQPoZdZC4JNUboVEUg	Jabrils	4
+UCYLrBefhyp8YyI9VGPbghvw	Neuro Transmissions	2
+UCkJEpR7JmS36tajD34Gp4VA	Psych2Go	2
+UCKQaSdgFK01UyVdv6-Up1mg	The Mighty	1
+UCmHzqwSP0uEHwzCeDzomNsg	Bite Size Psych	1
+UCiefLm_nIz_gOH7XHbgpdCQ	BrainStuff - HowStuffWorks	1
+UCXLmouK0WTHnNWdw1w3HZnQ	Developmental Enthusiast	1
+UCir93b_ftqInEaDpsWYbo_g	Practical Psychology	1
+UCsvUzBAxu2t5e_qOEr6iczQ	Psych IRL	1
+UC1yk0FVuAQctI6yjRlqc1Eg	American Psychological Association	1
+UCe3tPdpxTF7wdBG8uV4hbew	Science Plus	1
+UCJUn6QmXuFV9CkuJB9T7F_w	GoldieBlox	2
+UCRix1GJvSBNDpEFY561eSzw	Laura Kampf	1
+UCiDJtJKMICpb9B1qf7qjEOA	Adam Savage\xe2\x80\x99s Tested	4
+UClT-fyp4Kgd76hESsuLbksA	MegaBots Inc	1
+UC_SvYP0k05UKiJ_2ndB02IA	blackpenredpen	2
+UCd0dc7kQA1FUpJ76o1EjLqQ	LeiosOS	1
+UCW6TXMZ5Pq6yL6_k5NZ2e0Q	Socratica	1
+UCpCSAcbqs-sjEVfk_hMfY9w	MajorPrep	1
+UCR4euGGs0mtP4BJ9KSB9XEQ	STEMinine	1
+UCtAIs1VCQrymlAnw3mGonhw	Flammable Maths	4
+UCRGXV1QlxZ8aucmE45tRx8w	NancyPi	2
+UCMpizQXRt817D0qpBQZ2TlA	singingbanana	2
+UCYO_jab_esuFRV4b17AJtAw	3Blue1Brown	7
+UCmQXOAse-VnzuXHebX5I77g	charlieissocoollike	2
+UCnFmWQbVW_YbqPQZGNuq8sA	Andrew Dotson	3
+UCSIvk78tK2TiviLQn4fSHaw	Up and Atom	6
+UCIUPBxtBMQvssqSbx73t8SQ	Fematika	2
+UCVpankR4HtoAVtYnFDUieYA	zefrank1	2
+UCc1Pn7FxieMohCZFPYEbs7w	Jake Wright	1
+UCLA_DiR1FfKNvjuUpBHmylQ	NASA	5
+UCR_kFbcwWy1cKLCkmcMf4lg	ABC Science	1
+UCak3NZxjNnWip327vYL8RLA	CSIRO	1
+UCHd62-u_v4DvJ8TCFtpi4GA	Washington Post	2
+UCYBARVyitZWkFKovnC2jf2g	Washington Post's Department of Satire	2
+UCZvXaNYIcapCEcaJe_2cP7A	California Academy of Sciences	1
+UC88WrCBH7BJi1je9q5AMf4Q	Aeon Video	1
+UCgh2q0g6I9wHCjDTmu4tnuA	Friends with Answers	1
+UC5UEdeW8wD2t2KQ32FtQL5w	Might Be Awesome	2
+UCo8bcnLyZH8tBIH9V1mLgqQ	TheOdd1sOut	2
+UCsKVP_4zQ877TEiH_Ih5yDQ	illymation	1
+UCfMJ2MchTSW2kWaT0kK94Yw	William Osman	1
+UCAuUUnT6oDeKwE6v1NGQxug	TED	10
+UCskU_g7t6b5ecsA1CTS3y9Q	TED-Ed Student Talks	2
+UC9k9wQAp0SrWYZVORZnPIlg	TED-Ed Educator Talks	1
+UCsT0YIqwnpJCM-mx7-gSA4Q	TEDx Talks	6
+UCBjBZmguQzn6WCYR7DQykLw	TED Fellow	5
+UCshVTOdmZLdLj8LTV1j_0uw	TED en Espa\xc3\xb1ol	2
+UCfPIM3eh4WPal8DaWSP6t8A	Carly but really BATMAN	1
+UC0BXjaWwEt2E-UnV52e7T4Q	idranktheseawater	1
+UCRrZsPPYrA8WwIW486WG_Jw	Mama Bee	1
+UCfFD3G-Mq3GfJ6-IAz-l4tw	DjamilaVEVO	1
+UCiLn5vlTihW4q2Blt4YGznQ	Micaela Braithwaite	1
+UCZ4mE7NPBZl0WTJQTMDlKdQ	Afternoon\xe3\x81\xae\xe6\x98\xbc\xe4\xb8\x8b\xe3\x81\x8c\xe3\x82\x8a	1
+UCu_I4sR9bwEZpOLQTzKcgAg	Yasmin	1
+UCuB69z3mMxDgpgkIjp_zQjw	Robert Buckert	1
+UCOP5XyGVxM-aF7Li7mUb73Q	Kim Hoang	1
+UCNoAT24-KuP5XinKIiL0yvQ	KingPost TimberWorks en Espa\xc3\xb1ol	2
+UC66STKtBH3HSENKBbq6Ponw	DIY Creators Latino	1
+UCGi_crMdUZnrcsvkCa8pt-g	Alltime10s	3
+UCYxrnDjNQZIs_aAcdhqSveg	Rob Gavagan	2
+UCGjJOXtT9nXYgjFFzRDdaTA	G3AR - 'GreekGadgetGuru'	3
+UCXhSCMRRPyxSoyLSPFxK7VA	Matthew Santoro	3
+UC0rDDvHM7u_7aWgAojSXl1Q	DaveHax	1
+UC6mIxFTvXkWQVEHPsEdflzQ	GreatScott!	2
+UCFwdmgEXDNlEX8AzDYWXQEg	Creative Channel	2
+UCDbWmfrwmzn1ZsGgrYRUxoA	The Post Apocalyptic Inventor	2
+UCL2dzTZZaiwPIv-xIOkxcag	ChappyShowcase	3
+UClsx9nMy6DMdOJpPAoYIxQw	GuideDogManiac	3
+UCYJkvQP2KN0xzgTJ5yh8Qtg	GrowingUpGuidePup	3
+UCjb6ridkcJPeifbHo90jlSw	Sam Heyn	2
+UC_qdzlIhCHuVR-3crU-IiFQ	Nextraker	1
+UCkw8Vuo5fbXi0lEb9Uri_dQ	GirlFilmsHollywood	1
+UCt-nN3VHy6m5k1ynsPe6H_A	AO KIDS	6
+UCRgAYD4knSdlI2LQg8RnLew	Pear	5
+UCkBFYqixUeHQWkPqioEHKCg	Grapefruit	1
+UC__aU0JELhFwY6bxk3ee23A	Grandpa Lemon	5
+UC3Q3L_5Z4KzkKKETZMbtQmQ	HyperdrivePics	1
+UCX79u08rYt9A7TYgRTInDTA	Screen Captain	4
+UCSxqXJj9btSS3nrmBg8GXdQ	TheGingerRunner	1
+UCX3gbbQKUetJIJOG7_cNoOw	SoCal Wood Shop	1
+UC8NjHgDV5nHEfQGj7JNfp9Q	RetroWeld	1
+UCVUSDq6-oSpWAAPUppHFtZQ	John Malecki	1
+UCOfOdBF3xf4w95iG1TmlZQw	Conor Coghlan	1
+UCtNIoi7VuApbYOPx-NjcVAA	Stanley "Dirt Monkey" Genadek	1
+UCHGwopmVJXvGO-7sYUYS1Vw	GAMEJENZ	1
+UC7zpdqRtNfjvw-qT-WWdhxA	wickedawesomefilms	3
+UCGbUE0VZaF8MSRbBf5B6SMA	kevinbrueck2	1
+UC6nwBfrqSpq_FpQWoD0xYxQ	Prank It FWD	1
+UCX9cOoiG3SfzXJlUaSVg5hg	Troll Munchies	1
+UC3KpzBeoM8lDvn85m4szzfA	RocketJump Film School	3
+UCE5mQnNl8Q4H2qcv4ikaXeA	Hulu	1
+UC42VsoDtra5hMiXZSsD6eGg	The Modern Rogue	3
+UCRI95a1fRD_8RTH1Wpz7P9A	Scam Stuff	2
+UCJI4nkgMe6han36wIiwqw5Q	Anthony Carboni	1
+UCba2uIYq75m6SNuK8TtmG9A	Disturb Reality	4
+UCIuScmttXWzLoXqs8kU3vWA	52Kards	3
+UCKeXa16clt79bbdVelLlqTg	Card Tricks	3
+UCgRvm1yLFoaQKhmaTqXk9SA	NowThis World	3
+UCSllp1lazwDuDRTK4VO21-g	Crazyncman	1
+UCpV7D0LoRbYhdx2G-whWyog	TAOW	1
+UCJR4gSIcqeRB46JeOQcJPBg	SimplyExplain	1
+UCYH-XXUE2QDaWKvABsWJh8w	Giaco Whatever	1
+UCuwq56vKPJhp0wEpTDzwFNg	Mahir Cave	1
+UCGCo75oFuO_g6dqxtLZwu7g	Rob's World	1
+UCQpKraoWSM_52UgdcNAvX_w	EXTRAS - Bored Shorts TV	1
+UCUbfKmppFRLhvLRn_x8LvAg	Cottage Life	1
+UC5DhEABQEFsIrUhNKNWuM9Q	Specific Love Creations	1
+UC6sWKVFVfuyTk0FTPY4c62Q	TheSpanglerEffect	2
+UCA_kqRHsoKxPZ22PPkaGwjA	SpanglerScienceTV	2
+UCTCR1GDtpN9D0AHQxgOV5qQ	Stitch Lich	1
+UCtjAhxsnkqA5O49D2mIwh3w	PCWizKids Tech Talk	1
+UCM8Y_V0jqqYS6dLwMoRO9FQ	The National Science Institute	1
+UCn5WfnJ8ixFKL4IMXW6Q2gg	UneX Designs	1
+UCxn3rxY2cZrhbW5wCfhBgSQ	crazyPT	1
+UCBWhJHVuxtxbeRp_PAdfn2w	LXG Design	2
+UCZn7PaewEW5Iq1EAGcK3mVA	spumwack	2
+UCBa659QWEk1AI4Tg--mrJ2A	Tom Scott	4
+UCLhtZqdkjshgq8TqwIjMdCQ	DarkMatter2525	4
+UCo1Oqh5yCpSJkXaCUzmfhEw	Sharkee	1
+UCFhXFikryT4aFcLkLw2LBLA	NileRed	2
+UCQU8KqIO2cVvTTJhG9MrIqg	Snocrash	1
+UCEeEMoldn_MytOY17kYhX_g	Ask Jeff Williams	1
+UCZFipeZtQM5CKUjx6grh54g	Isaac Arthur	5
+UCxzC4EngIsMrPmbm6Nxvb-A	Scott Manley	1
+UCtM5z2gkrGRuWd0JQMx76qA	bigclivedotcom	4
+UC1DTYW241WD64ah5BFWn4JA	Sam O'Nella Academy	1
+UCi5iiEyLwSLvlqnMi02u5gQ	Ask A Mortician	2
+UCKY00CSQo1MoC27bdGd-w_g	Zogg from Betelgeuse	2
+UCOs_jEnQF2ePJzjJTgRtunA	Draw Curiosity	5
+UCWFKCr40YwOZQx8FHU_ZqqQ	JerryRigEverything	2
+UCyFUl1BHR7rN6549LGa2e5Q	Science with Katie	1
+UC6vImVkvofpMUOlYt6LiRXA	Keystone Science	1
+UCeh-pJYRZTBJDXMNZeWSUVA	Artifexian	1
+UCY2--S73K_Ce6uvmN9UXvlw	Waterjet Channel	1
+UCJYJgj7rzsn0vdR7fkgjuIA	styropyro	2
+UCimiUgDLbi6P17BdaCZpVbg	exurb1a	1
+UCz3qvETKooktNgCvvheuQDw	Event Horizon	1
+UC-2YHgc363EdcusLIBbgxzg	Joe Scott	3
+UC1Un5592U9mFx5n6j2HyXow	kurtjmac	3
+UC726J5A0LLFRxQ0SZqr2mYQ	Curious Droid	2
+UCogrSQkBJn1KF0N9I4oM7eQ	Fraser Cain	4
+UCworsKCR-Sx6R6-BnIjS2MA	Clickspring	2
+UC9pgQfOXRsp4UKrI8q0zjXQ	Lindybeige	2
+UC9RM-iSvTu1uPJb8X5yp3EQ	Wendover Productions	2
+UCYNbYGl89UUowy8oXkipC-Q	Dr. Becky	1
+UChyNJxSsIXh2KyY3VvLnI2g	Anne Reburn	1
+UCgeV3tFiU2Xg0PD1dAQbBHA	Mr Atheist	1
+UCvNBXWGykQrWb7kPAn5eLUQ	Battlefield	7
+UCOsVSkmXD1tc6uiJ2hc0wYQ	EA Star Wars	6
+UCBGBXQmTRZ0uwfxvcCMfz_A	swtheoldrepublic	7
+UC-LDrQRCxSifhrqNwldwZ-A	Titanfall Official	4
+UCFXKLSrT-4-Mf5TRqv40rgw	The Sims	8
+UCXXBi6rvC-u8VDZRD23F7tw	Need for Speed	9
+UCPpddbTbOr_uWWQT9Pw1rbA	EA SPORTS	8
+UCAhqshVw3AKUK4t8CFGA2gw	EA Mobile Games	6
+UCoyaxd5LQSuP4ChkxK0pnZQ	EA SPORTS FIFA	6
+UCbx6pClCMGeTTWydbGR9zzA	TGN Squadron	3
+UCmxoTr1F2aeMyTQr-agB3nA	TGN Anime	1
+UCPUarEI7wLwo8aVbk9y1UZg	TGN Minecraft	2
+UCfHtlDGt-QF5AKfeqjmIPHQ	TGN en Espa\xc3\xb1ol	1
+UCdVrPfq-B9N5v01axUoDfLA	IGN Start	5
+UCfFXFJhLeuBtLcKdUoE5L4Q	Call of Duty IGN	3
+UCGXkLMldzqQEOafrjxqf8dg	BattlefieldIGN	1
+UCpSE38v5A5fA7xPGNcjzrSw	OldRepublicIGN	1
+UCIOTNMj5DiWEa5PfOOcZNng	GearsofWarIGN	1
+UCgaPRP68bbyHnfkPhWWBrNw	PC Gamer	7
+UCZobGlI_zsRCRW-xN5Ybm-g	OfficialPSMag	7
+UCYHAbfPRcXk_IVBoIM7pKMQ	Official Xbox Magazine	6
+UClOfA4Ty2uTthRgKuNnDTrg	edgemagonline	1
+UCeQ0qLc7qKSqbpgsI4lo72A	officialnintendomag	8
+UCk2ipH2l8RvLG0dr-rsBiZw	GamesRadar	10
+UCgH1T_Pnjg8FPHcYGbglBpw	Total Film	5
+UCkR7hgLu1x9jWRXuDTzjBxA	SFX	5
+UCAY_M9HyJb8oMKPV1utQQyA	TechRadar	8
+UCmM4IE2cAtGF2q8lqDcMWxg	T3	8
+UCGaBDBYQVvxItFKRL_YMtLA	No Filler Gaming	1
+UCpqXJOEqGS-TCnazcHCo0rA	theRadBrad	4
+UC9uju4QqW_dzKrBzb3qQbqg	Gyu	1
+UCMYgw5rY6QqqZJToNtMMhaA	carloportone	1
+UCkYtYDlK0O-NOhXtXYNME8g	By The Way Channel	1
+UCoDTIJsjwkNzFEGXhj07gwA	NerdCulturaEvents	1
+UCIPsK5xspHC3-ZFNPTx2X_w	yotobi	2
+UCZu2qZ05entuQ4HPkBz-eSw	il Tizio Qualunque	2
+UCv09Fw4uAfA2Rv9uCUm0sZA	ZeroDx - Canale Creativo	5
+UCT2BaxWcehjHeocWGNiKoQA	Signor Bumolo	1
+UCg8voSgQr0OkF3mMj7HmHGQ	RichardHTT	5
+UCuL6cg-3m-ile8KOd5Q_Rtw	Fraffrog	6
+UCn1haatN-HyJuuEzy6K-ADg	Francesco Ventrella	1
+UCEArja5slNmUXjN2rO7Z3RA	Orion - Web Dubbing	1
+UCwzB1rSN9OiiygVUDQnsHVw	Veronica Cuscusa	1
+UCKPTIyMduNQDb_PfgvUM0ng	Fancazzisti ANOnimi	1
+UCkynSe2EqnNWDLrG4TMoyDg	Giorgio Cappello Di Paglia	1
+UCMQWkdgYQfPq3qtpBnCaymw	IamPrettyOptimistic	1
+UCK3SAdbpJHiVTGo2Ug_i4SA	Cane Secco	2
+UC0rH5ejOAhVGUqLbDVp9C4Q	Giacomo Citro	2
+UC7ccXnaTyGMVOtrSFY_AL2Q	i Licaoni Videoproduzioni	4
+UCHmVW8vzmEDbvVOt5NmgfTw	Michelangelo Frisoni	1
+UCb9q1MAgwWHEbbidgRBnxkw	Giffoni Factory	1
+UCB9-VTcQkAh-J7FpcinYj2A	HumanSafari	2
+UCIoY1Rf7ZMyhJRJj7uC6zAg	Cooking with Ai	1
+UCp_RW49IudjKEw_yal7tfFw	MEGWIN TV\xe7\xa0\xb4\xe5\xa4\xa9\xe8\x8d\x92\xe6\x9c\x9f	2
+UCfCY70zRsvnnKzQ39mBq0rw	sasakiasahi	3
+UC5xAkS4828lDivq8cKFGSyw	ochikeron	2
+UC_Hc1r7yhvGqMtMD3lvJJdw	Marimo Marshmallow	1
+UCVPz_nauEJpqPxxvYiOpCHQ	\xe3\x82\xab\xe3\x82\xba\xe3\x83\x81\xe3\x83\xa3\xe3\x83\xb3\xe3\x83\x8d\xe3\x83\xab/Kazu Channel	1
+UC2zXd5Kq9Hu-_bwO1H7CD0g	MosoGourmet \xe5\xa6\x84\xe6\x83\xb3\xe3\x82\xb0\xe3\x83\xab\xe3\x83\xa1	1
+UCX1xppLvuj03ubLio8jslyA	HikakinGames	4
+UCZf__ehlCEBPop-_sldpBUQ	HikakinTV	6
+UCQMoeRP9SDaFipXDBIp3pFA	HikakinBlog	4
+UCg4nOl7_gtStrLwF0_xoV0A	SeikinTV	3
+UCzWygEC8zQKYpCp7nwX_M-A	PDSKabushikiGaisha	2
+UCQ4FyiI_1mWI2AtLS5ChdPQ	Boyinaband	5
+UCOK_RKB7ErNzkF3_DPfWUWQ	BEATBOX BATTLE\xc2\xae	4
+UCzgUc_EaBp2-u-zEvTC6P0g	Swissbeatbox	3
+UCPazI7LaLDkkx7P_3w0jLJA	Ibeatboxer	1
+UCkDbLiXbx6CIRZuyW9sZK1g	Taras Kul	2
+UCCmZiEC8Bq1Xn2s9UKTlvrA	Kul Farm	2
+UCIEv3lZ_tNXHzL3ox-_uUGQ	Gordon Ramsay	1
+UCLENJiWkNzvlYhzGpycjOaQ	stevescooking	1
+UCqf_rFCGLODeUcw3p_Abr-A	Tastemade	3
+UC600H5chBUZ9xYWXH8z-Sxw	\xe3\x83\x86\xe3\x82\xa4\xe3\x82\xb9\xe3\x83\x88\xe3\x83\xa1\xe3\x82\xa4\xe3\x83\x89 \xe3\x82\xb8\xe3\x83\xa3\xe3\x83\x91\xe3\x83\xb3	1
+UCfy4XIsYPJ3ubslsPwwIe-g	JackThammarat	1
+UCobsO9rddTO0vSBXQK4jlMQ	Root Says	2
+UCYiiyQyzoRwYJlMBxAhynuQ	berrysays	1
+UC6nJLzpsncQW4d88YrpZAsg	Legendary Shots	2
+UCoocMG5lMACNKgpvqKay2lg	TheTimTracker	1
+UCnQwfI4njA4lZPPs6CjX02g	yodanielcarter	1
+UCojjQ_5sVI0gy4zwVIZL0nA	ScottKinmartinTV	1
+UC1ygnsJbyKUVKshkThlT8iA	kentanakajapan	1
+UCnDDVHmaiCrII800qwAxeQQ	Hikosaemon	6
+UC1lD29zfwgGwbQQXhrnQfbw	overunderwear	1
+UCW9G5gdEQOA9GgtZefIbrZQ	cardtrickteacher	2
+UCrtfFfr0m2GtLuwHw4jJzvQ	FernandoP1 - Art Zone Productions	2
+UCT0NaRpeltGhi6kXtrmYjWA	MagieGratuit	1
+UC17WLWd5ocdHrZeqfQ3wVpg	ASMR Sounds of Japan	13
+UCNoZFPPkYCOpU_vX_gTQsCQ	Japanese For Morons	6
+UCFUMfLS4Y2Sz7wJZTmIYF-Q	gimmeabonedog	7
+UCVtd2ddkhNv8SYL_fU2xDtw	Victor	7
+UCJ-ywm1sBT_qRdeaSWMhmiQ	ActionTeacher	7
+UC3DZCPOEEGuxzrChE9hpBzg	japanesefoodchannel	6
+UC2dCq4mhSFO6JoBLM5bdVaA	partnerisland	3
+UCNxL4vQDSRrh1JXCO3zMEDg	ThingzThatSuck	3
+UCbyWXjB83yW-L0rY9cl_tUA	Opie	1
+UC5zpXTCaGCHi2Xa4038cCzg	tmk8558	3
+UC0s9FrCxDWLSwlLI1vNav9g	fulcher33	1
+UCcxMaw9DueEK2XO15Wh1ufA	Tony & Reina	1
+UCxNhujseAyj33V78QjPEQqw	meetang &co.	1
+UCurM-Tw83YoEivpu2lzCFDg	OGFurious	1
+UCiqPWIwK6YC-q5xUULrSWYw	caffinejedi	2
+UCyiTDtoqqafdnxknJyvpkVg	Simon \xe3\x81\xae\xe8\x8c\xb6\xe3\x81\xae\xe9\x96\x93	1
+UCTuslvwrGyHUrmjlPDeojKw	TkyoSam	1
+UCTG3nRPmRqVb5MIb3Dni7vA	RobertOlddude	1
+UCRjq9Fz2HXxUkvag1xmBH7g	THE NIGHTBREED	1
+UCWKxjLNySP_yvDLnG_rtHxQ	Edamus	1
+UCFM_mObf-0e_VtmU8iq081w	TabiEats Food Reviews	4
+UCZPSrbD9DuV-IwmH7NYS-uw	TabiEats Recipes	4
+UCk4ZZUUsv2le7QSeIjsLxhA	TabiEats Live	4
+UC1ks-XGF-UtCndVCU3Yw85A	I Will Always Travel for Food	4
+UCyPJAMJVUOKorZ0xrI6pMzg	Shinichi's World	3
+UCPB6LBfBV3Cf9BOXsu45yrA	KantanFood by Satoshi	2
+UCy2-8CoFS7eqgidVBiV4D2w	Riken's Life	1
+UCQ8bJ0GCE7aofpkrJvVresQ	deefizzy	2
+UCpsHnULJAkwwckxzdmspKDw	sawyerhartman	4
+UCzGuqFL0gdE6rqSDB5Wa23Q	Corey Vidal	4
+UCdYVjiqHCjpi2BR0PbTjmEg	MattG124	1
+UCVrvnobbNGGMsS5n2mJwfOg	FunForLouis	6
+UCUagSWAxKeXv41Cwm0QE-kA	Lindsay Hoffman	1
+UCXAQHsBY2k6BcDFINgTmokA	Alex Negrete	1
+UCI54LRkkDYc4r0xXb-zdH3w	CALIFOREIGNA	1
+UC0RO0RGDWZwRSMg_4AsUuYw	animeme	5
+UCBMvWaA97BAegvJ_Hz6Vwuw	Yo Mama	6
+UCrtZO4nmCBN4C9ySmi013oA	makemebad35	2
+UCaQAsYqswRfXRXXf2-3Y3LA	OBZ - Zack James	1
+UCqi_ijVB1rNTAp--G6wHP2A	ObviouslyBenHughes	1
+UC5lcEyNLCvQnD_WNhdKbsQw	RomanWayneHaviland	2
+UCQfr8g21tWxsVvHr6aiUA9Q	squeakiii333	3
+UCEdGfHKI6yfReQLYSlIpxxg	HavilandFitness	2
+UCcucmz1bc7ExJTIvnQjroSw	Liz Elias	1
+UCbIfDNoRFSoOdBNy2NAzjFw	SPLITBREEDTV	3
+UC35lmnsGO-taQ-2UzeB2JAw	JaseHaberOfficial	2
+UCNT38peI5ihu_QzBSjKpWKA	TheMeanKitty	4
+UCqEZdtqi4IlzmASqAjHGiHg	LiveEachDay	4
+UCEzq1frx-b3Rrd8xMvfGiFw	Just For Kids	3
+UC3xb-OOrMI9X9rNDTFuUlCg	MrSafety	2
+UCXO4hUm8zokrOvZGKVnXV9Q	Jase Haber	2
+UCZbhJtc6Ouc9OD-aDZx0INg	Taui Moe	1
+UCExCip1IK3Xi1YAw87asT9w	LegraaaBee	2
+UC9htvfKXX3FXWsX0duc09Bw	ceejt	2
+UC0KhRfP4PWrMvLNdklr4sbw	JeffreyFever	1
+UCMDDb8NYFqCPhxWAbp7nuxg	Sk3pn4	1
+UCFQKjDDR8b50k8GDiydfsUg	HelenaMariaTV	1
+UCwnnfYTfayoAoNLCL9OiLeQ	lukeconard	1
+UCXIeQ7acc-jS980r1PUssIQ	nottomcruise	1
+UC6l4d0WNuNscDVCCyKYuzNA	Maria Z	1
+UC9CoOnJkIBMdeijd9qYoT_g	Ariana Grande	3
+UC0C-w0YjGpqDXGB8IHb662A	Ed Sheeran	3
+UCqECaJ8Gagnn7YCbPEzWH6g	Taylor Swift	1
+UCNLYWcjPSuSrKDOmySRPWWg	Tori Kelly	2
+UCWACD_NdQo00BhutSXMKa-w	Leroy Sanchez	2
+UCTNNM-_uijaKVf51AZdD7og	Pat's Music Channel	1
+UCJrQZmPR8cURjVC_tjlQWcg	Razi	1
+UCpp82KBcVzQyttzWeG8BwRQ	RonaAlicia	1
+UCeFxsU-kPic39hEGaVKcpiA	ArtistLinkSUB	1
+UC37HdKU1DSPxhIcIIiR757A	livymusic	2
+UCSDLrgeGdH4UpmAy15XAXag	Drew Tabor	2
+UC1DjBGh-quDtWQNQktkxZvQ	LauraZocca	3
+UCdrC4jXddmLmUGxQKW5ZB4A	Just Trey	1
+UC0etTLNvo93t0S6skafdmMQ	Dapo Torimiro	1
+UCtwtZPP3Q1M2uuQwkeTHNgw	Christina Newman	1
+UCi3Du-zTsi-aFFbP1_kkUyg	GoboSpeaks	3
+UCKy3IKNAVVGk7-8Tyzkl9EA	JillHanner	3
+UCPcLDUNZb2h8PFTK678pi_Q	Bootstrap Business Broadcasting	2
+UCH3x1xWlS4yyvvm-7g05OKQ	AceNichols33	2
+UCR1O0gr0gKpCTTAuuBR36zw	meant2bkate	1
+UCjQEYy8YJc9eWjNUGk5p9ig	THE PROFESSIONALS	1
+UCH5V-f7mJH4ZRenVDeEUx1w	Michele Mahone	1
+UCEVv6DaruOdh5ruNk0Sm8cQ	BeanerLaRue	1
+UCKkNbsNGBT3kDKUMItmGaoA	Jonathan360	2
+UCnVIKC8ZrpsHmvS5cixXBSg	Joshua Johnson	2
+UCTHgaNeYGf8aj2pOwO3gBqA	Pause The Moment	3
+UCJZ7f6NQzGKZnFXzFW9y9UQ	SHAYTARDS	19
+UCvHstosuxG-K4AlRtLf8u1w	DeniseVlogs	2
+UC9m-qxco1XNevlxSvqyUouQ	The Platform	5
+UCU8fJPOQqMyLCprylcE5T0A	The Mom's View	10
+UC3bO1qGcFovPqFEa-mg4EyA	Timothy DeLaGhetto	11
+UC_fGtUvYTzYWXVQUwGXleDg	Nathan Barnatt	7
+UCxN2oCS-_NlWJtUSi-V9hVw	Peter Gilroy	3
+UCMu5gPmKp5av0QCAajKTMhw	ERB	10
+UC-xnVzifFeImBJZEmokXdFg	iBeShucks	6
+UCAkakCxfxYq254UciEazZxQ	ChoiceVlog	1
+UCc6W7efUSkd9YYoxOnctlFg	Bethany Mota	2
+UCgAxNLxJMtw6rce3cxHvKaQ	Pay Attention To Us	2
+UCYfCFyzWoAGdvIeni6xTcbA	hiimrawntoo	2
+UC9VBMHo-bMC7AXJr_eTMKeA	JacquieLongLegs	2
+UCpdZd0UkxqQSPwSAAw2MLRg	Raw Rawn!	5
+UCJVS73bXlCWOeztykjztHJQ	Mockstars	1
+UCkVj3yY58qOJa3K_ipk_67A	CarlieStylez	16
+UCgBTevPW8fsH4pQNrLufOsQ	Tone It Up	2
+UCIZxryh2P62utDN8BY47MWQ	KassemGtwo	3
+UCCuxi4g7nnN4hZhveiVmdEQ	TRIXIN CLOTHING	4
+UC5CRjdny6c8gDSPIyLbUd4w	WhenTheKidsGoToSleep	3
+UCSss9IQskc990Ach6Pcl0Cw	ShayLoss	6
+UC0dkD-xf-9ObLYOfhWv3eJQ	Colette Kati	15
+UCvN2kqDAGhH9M07gOohci4A	caseylavere	11
+UChtv5rS8KxRPYCrCZp8XowA	iphoneTARD	2
+UCjvSrwYwbozzW1XAPT9YX9A	LoganMckay55	7
+UCeE673Co7hqMVNgDsIG5lQw	Hushin	3
+UClQoHSsybhAWZhsQVY-d6Bg	Callie Crofts	3
+UCaut53cnrdipyo47R-a3tEw	ERB2	4
+UCMoTpNm75IhO0mtfpoh5LXw	nicepeterToo	3
+UCUdiuVBzkLAbNb-NdZZf4Ag	EpicLLOYD	8
+UCzHe0LBXccn74AD9n8mK1Xg	Give Me Motion	7
+UCOqq1fJJDMygdMBD8E26fqA	the jackpot golden boys	3
+UCKQCaDW4LqL3l1ai8yisvUw	20syl	1
+UCqMDNf3Pn5L7pcNkuSEeO3w	Madeon	1
+UCABwqCK6XMowQDwlIz00UFw	Brandon Havard	2
+UC8TB4X9nSCIdef-nufwxuWA	Vinh Dang	1
+UCNJP0oF6k62xA_qhCLfwI-Q	Tech of Tomorrow	1
+UCPUfqC93SzLDOK2FC_c7bEQ	Kevin Kenson	2
+UCiOL9ILdysVUICmNDRrTM3Q	Ralphy	1
+UCXv-co3EYHF7aOH4A93qAHQ	Lew Later	2
+UCtVGGeUqfVHOK4Q6nAwYO3g	LaterClips	2
+UCmY3dSr-0TOkJqy0btd2AJg	DetroitBORG	2
+UCyldrvqtDBsmBnATlwZ6yUw	LooneyTek	1
+UC0vBXGSyV14uvJ4hECDOl0Q	Techquickie	4
+UCeeFfhMcJa1kjtfZAGskOCA	TechLinked	3
+UCBZiUUYeLfS5rIj4TQvgSvA	Channel Super Fun	4
+UCFLFc8Lpbwt4jPtY1_Ai5yA	LMG Clips	1
+UCVrSYkR10_JxMM7S64ZVSMw	Hi-Fi Insider	1
+UC4h_zUXRvhua4mEqM9hh81g	Roxy Kay	1
+UCduHFvymlskFQKgJeLvF-kg	Corrado Coia	2
+UC2C_jYH9jhd7DG_zWG92lGQ	Samantha Fall	1
+UCAf-qy28WiIxavrbJP6H4Tw	JoelKSullivan	2
+UC8y_P0KZUfSI4Cdvbq5ZqlQ	InventorSeries	4
+UC1V5GSCfsL8C1kLO8F06-PQ	National Film Society	4
+UCYNlsJPY-IrNhZqCOeApbEw	THNKR	1
+UC_NaA2HkWDT6dliWVcvnkuQ	Creators	10
+UCxZpM39a6aPP62h95rdEo7A	Mike Likes Science	3
+UCImXOnPYnCgdMiGw0UE16jw	First Person	1
+UCHqlMF1EvvZNFDpS1UWdG7A	Indie Alaska	1
+UCnxQ8o9RpqxGF2oLHcCn9VQ	fantano	1
+UCodbH5mUeF-m_BsNueRDjcw	Overly Sarcastic Productions	2
+UCxO_ya-RmAXCXJCU54AxYFw	New Frame Plus	2
+UCqJ-Xo29CKyLTjn6z2XwYAw	Game Maker's Toolkit	5
+UCjKEjZEaG0HupT24hl_u8_Q	ModernComedian	3
+UC1ClkGKVrv2YDuU0zx8esKA	AMomentofSciencePBS	1
+UCfTn-dA3Y4IY367U06_ANFw	SoundTracksQH	2
+UCi8n36NkW2uCQSFZNiYtuMQ	Paralympic Games	1
+UCwNhhTBAXXePtgAz0Fs2flg	HeyKayli	16
+UCn4VSfrcSe6uTwQVGAMfJPA	Day Perez	1
+UCWRV5AVOlKJR1Flvgt310Cw	Zoella	6
+UCXwXB7a3cq9AERiWF4-dK9g	Ash Hardell	1
+UCnrX2_FoKieobtw19PiphDw	100 Thieves	2
+UCBHEr3fzHMr3iogH0MgBPPg	Nadeshot Plays	1
+UCN9HefuBlltILuDg7rNMZfw	100 Thieves Podcast Highlights	2
+UCWxlUwW9BgGISaakjGM37aw	Valkyrae	3
+UCGisihUQxb3_gE7Qzffyp4g	Rocky Kanaka	2
+UCnYMOamNKLGVlJgRUbamveA	Tom Bilyeu	2
+UC9kY3XQnQb4KdA07M6CGtsw	fashionoffitness	1
+UChy5Lo7vY7nOB68giID6WEQ	bubbiosity	4
+UCtEt-shvshHduBTAZju3kOQ	Bubzvlogz	3
+UCWzjcq8p4bzlkFmhOHEEN9w	RikehTube	2
+UCb2fKNBRtC06yz_NsUGbYgw	SoothingSista	6
+UCJyfryZQsoN_ttLFe6vYKmw	Claire Marshall	9
+UCiB8cQpQm8v1CjOi9VmAB_g	annaleeandjesse	3
+UCe9oofjVfJzapRyVlt57x8Q	Marzia	4
+UCzJIliq68IHSn-Kwgjeg2AQ	Jackie Aina	2
+UCVTO52u10nrlIXYP6uxyS6w	Kastor & Pollux	3
+UChnKIpHVGYVDfx8UGVrOpKA	Rachel Nguyen	4
+UCLhLyKIZYf4lCcilMujzXAA	Sophia Chang	3
+UCAakD8jDdAya5f59XRfiIuQ	ItsMyRayeRaye	3
+UCDVPcEbVLQgLZX0Rt6jo34A	Mr. Kate	3
+UCVb4bYl9TC8RG5KOdxRTSyQ	idressmyselff	3
+UC6EmI2r6XBGXBS70XFnyMhw	IAMKARENO	3
+UCxX-yglXCDdXK5-BGa0r-cg	Joellen Lu	2
+UCz5ppm1BYc7tgUYIel3EWJw	ilikeweylie	3
+UCuhVHgBfJKGB4WTr8_HlQ0g	ToThe9s	3
+UCV7p7Vhocr5rEF0vTL0NTVQ	AMY LEE	6
+UCK3w3VAr9p9LKYBtofXuF8Q	Guy Tang	1
+UCoziFm3M4sHDq1kkx0UwtRw	Glam&Gore	3
+UCGwPbAQdGA3_88WBuGtg9tw	grav3yardgirl	5
+UCeNfkWyfEXpZ8d1DmvwDt_w	JoshuaDTV	2
+UCfBpv6ahDMg7kEClQuMpzzw	Gabbie Hanna	1
+UCaLbu4y2DQtbBYYCQnyfx2w	Wendy's Lookbook 2	1
+UCjPsvugkwOr9oOk8D7icstQ	Halestorm	1
+UCzofNVHFCdD_4Jxs5dVqtAA	TEAMSUPERTRAMP	1
+UCZDj6Ig-gxkHWzZyQSdGq0Q	JK! Studios	1
+UCSrPuHtKbst7Zy8pyWn_3Cg	What's Inside?	3
+UCYq-iAOSZBvoUxvfzwKIZWA	Jacob + Katie Schwarz	2
+UCaXDyLT3Xs4p8B0B79GFZCQ	ScottDW	2
+UCRijo3ddMTht_IHyNSNXpNQ	Dude Perfect	2
+UCoK5NOxkZBLfI_5eqf8Es4Q	Shonduras	6
+UCixstNkzkK0aUzo6N9OVl6Q	Brodie Smith	3
+UCUJKz48gEbG58nVv6a0BlNA	OttoKnowsVEVO	1
+UC1SqP7_RfOC9Jf9L_GRHANg	AviciiOfficialVEVO	1
+UCJ_zXW1_UEg9HVTPaAKwYbQ	Sebastian Ingrosso	1
+UCeVVoVFUCj4C1MyQKqkInKg	Eppic Invasion	1
+UC4vT3qTr8fwVS7IsPgqaGCQ	Tyler Ward Music	8
+UChjOwTnWnBW8xtC8UKpdRMQ	SimplySpoons	3
+UChWmYNTHQpLmJdkScwNrgcA	Megan Nicole	5
+UCoZz9G7PyY9siwzOH8jFadg	Julia Sheer	1
+UCApAS50d5QIb2nW6zdaNxzw	Shaun Reynolds	1
+UCp09HHAYNT4joY1K_vr5dpA	thepianoguys2	1
+UCR-ENZ64WL1vB8KU4YzdmTQ	Tiffany Alvord	5
+UCrR9q7XWIqB5LhazlKYi-Og	Jarrod Radnich	1
+UCLRpI5yd10aJxSel3e6MlNw	gootmusic	7
+UCUD4yDVyM54QpfqGJX4S7ng	YouTube Nation	1
+UC6QWhGQqf0YDYdRb0n6ojWw	Brooklyn and Bailey	10
+UCQ2IqAJyjCkVMGCd5kAZ2ow	Kamri Noel	5
+UC3HlKrAmvpZItrX-tiITI4g	Millennial Moms	5
+UCnPg1XCi1ZY7TbL3Yru__FQ	Squared	4
+UC7TTtOQKMXTWWMtWQMIgVSA	Collins Key	2
+UCnrO0wqhKpMYUt_wSeaIasw	Bratayley	6
+UCneC60ueLDbk6NVzMHUUhKg	Carl & Jinger	5
+UCs6uJVO1UA6GqdWxe7gxQvA	Princess Hairstyles	2
+UCq59aGNsq9bbhwVTq1Utvgw	UniLand Kids	5
+UCNk8qWYDE33niA1ycBBtYaw	Evynne Hollens	1
+UCk40qSGYnVdFFBNXRjrvdpQ	Taylor Davis	2
+UCLJcVCVvcD802r80B9oaM3A	WATSKY!	3
+UCKlhpmbHGxBE6uw9B_uLeqQ	Sky Does Everything	1
+UCrY87RDPNIpXYnmNkjKoCSw	Alex G	2
+UCYEnCCeFBCbrlmuNVzs21LQ	Mike Tompkins	1
+UCMJOksbUeFSWjzw4AFI3tig	Kina Grannis	4
+UCZngDzzBpuvu5W-O8djbB3Q	RUNAGROUND	1
+UCS613EogLXE0lTsxyC1cWLA	Malukah	4
+UCwjbNUkqOWL71aOI0DzV1bg	Stuart Edge Vlogs	1
+UCRyfoSarsQorOGqc0gh5FNg	Bob and Mandy	1
+UC2S7CGceq5tsuhcVyACdA3g	CrankGameplays	7
+UC0SyhPy7VsMQCIYDszFaplQ	Austin Eruption	9
+UCQnS_BDaBDDZib7C_CIs30g	Jpw03	4
+UC8TMGMylVFeTenl2_dvWmmg	PatrckStatic	6
+UCxfi2bGhcCZ43OOJz8Ur97A	Garuku Bluemoon	6
+UCG3IS8mRWsd-xP1UzBlw4mw	ArtistIzzy	4
+UC34n5OYv8Z7PRP-mtkxkPwQ	BaronVonGamez	3
+UCO_wGnKlld2g3PeiXbBD_XA	Zombiemold	3
+UCzo12YMx9qRKlGcpf6yTTQA	LatinGoddessGame	3
+UCLZIT82Eh0wDw0to8nN73GQ	TheTeshTube	1
+UCneDwGLSclD-s7fRBnUIIcA	Yugioh Masters	1
+UCwGxMVwYEpFx1X-k01YRGYQ	AaroInTheKnee	3
+UCkVX2vzpZ7iAGb8b1xJdRAg	JessPlaysGames	1
+UCqH0Y0arlRonH2VilL8VQKw	Girbeagly	10
+UC4Wa6mgRXMalqTsdwgS0D0g	TheMasterOfDooM	9
+UC9ilc21NQTPdjkR64-nWWQA	Daddy Poro	1
+UCeSbO77NmWqu84714uVdJxw	Randymash	2
+UCLVBZjZ7hMjfqt11RQMP_JQ	LANDAN2006	2
+UCme1egAeIjdQeINX3XMraKg	LixianVG	1
+UCAQ0o3l-H3y_n56C3yJ9EHA	GrumpOut	1
+UCXq2nALoSbxLMehAvYTxt_A	The Grumps	1
+UC4MF_X1QIoQyaIRaAe9oQyg	TWRPtube	1
+UCHXgyt8HgbgmJ2XOobFZlZA	Super Guitar Bros	1
+UCaXZUkje800EISlsWkOFXQQ	Mortem3r	3
+UCraAcZqnBtDOKPOuQiBiNIw	Commander Holly	3
+UCZdACoR-FsQsCpPKGNy5Snw	high5toons	3
+UC-lHJZR3Gqxm24_Vd_AJ5Yw	PewDiePie	9
+UCYLHs-NR2le96KKqXofUOXg	Gab Smolders	2
+UCHsjBlPYou_k7FgMKLCo5JA	betapixl	2
+UCx42AsHSKnjEfPXk0YiGCyw	RETRO REPLAY	1
+UCluqnG4yYHGsfRuV-_wjHNw	Matthias	4
+UCGGlk1zXSXEeb_gP2ciY7Hg	Battle Universe	6
+UCJLFizUO3gCQnyiYKMYvUgg	Get Good Gaming	5
+UCETEqk3eDILFcu8p6YncjQw	REKT	3
+UC-6Ygz2yrPcPPhl4pAobqNQ	Fail Time!	2
+UCaRH3rDr3K3CEfhVqu5mgUQ	Team Edge	5
+UCj6EJAf-qGDdxhRNvpUpRMA	Amanda Faye	1
+UCX6dP7TzIjxm--oDTPVQ0LQ	MaryMakingIt	1
+UCR0_w50kjTiqQFE6J76l_mw	videooven	1
+UCk9gPdY4fbH0BRhyTio9XIg	Scott Jund	1
+UC3tNpTOHsTnkmbwztCs30sA	Northernlion	3
+UC0n9yiP-AD2DpuuYCDwlNxQ	Tasty	1
+UC6Bz9OXlcmtO0dAFEPOjACA	Traggey	1
+UC73Fbzm7QAYKGiDZMR50oVA	Gamerbomb	1
+UCy4earvTTlP5OUpNRvPI7TQ	wowcrendor	7
+UCFjufZRdwRt8u2w4PfBSoSw	Rachel Vlogs	2
+UCnly7EqUq7unVpf0G84BjLg	Rachel Ballinger	4
+UCsi7f6y5dH5uuye3MeCfojA	Ballinger Family	4
+UC7FhOuPmxz8spz_xvJf_xow	GloZell Green	5
+UCHCZGUHS320CJ3mHgCnZ8tg	Kory DeSoto	3
+UC0XWmgRsBL-6X-ZJ7tR3mEg	Mamrie Hart	5
+UCBxs6sUSOJ3UUATAi4rp30w	Ricky Dillon	1
+UC0VOyT2OCBKdQhF3BAbZ-1g	ArianaGrandeVevo	2
+UC4sRdUHV1pdo2vaXwZcNpkw	JauntyJuli	2
+UChbLEF49FP8HvmuaaFzfldA	Red Iguana	1
+UCTbptpuXI0zzuHr2u3U-i4Q	NailsByErin	1
+UC3OLj_X2xCHaSBrev8i0H4w	CharismaLifeTV	1
+UCxLz-V4V3TY-WCnapvg9odw	ICON Network	2
+UC2oGM-rxEOob46X6MvkquvA	SamanthaMariaVlogs	2
+UCzNFq_vehPRvcoEeHUxMsdg	Jason Davis	1
+UCsDOrT4R_jJ7m5x11Hxov_Q	Tasha Green	1
+UCvFyPrPVotqsTlqxUmAOYRw	Est\xc3\xa9e Lalonde	4
+UCfpvDwxlR_VeApVep4hhwUA	Tar Mar	1
+UCDl9AK32Xzr_2UOxjt03f6w	Camila Coelho English	2
+UCWn_y8vGmfZmQ15PIhAWLFQ	F*hits	1
+UCajXeitgFL-rb5-gXI-aG8Q	Great Big Story	1
+UCu-j5_nABlQGdK84hfP8smQ	Ask Vincent	1
+UCI7w8UvDDnGn1IjyxneUqaQ	Madeyewlook Twice	1
+UC5-8VMx6axaUnmlZNY3XPkA	Hitchariide	2
+UCnqFE2ofL5PhKhoMtl7V4CQ	goldiestarling	1
+UCdcqu8Tq6BvQJVuYMXTB1Qg	MakeDo Entertainment	2
+UCAWlwILydRAPX0TUJeEH1tw	Always Alyssa	7
+UC_lIqNT-IVNinV4aUQUOGlA	Twin Time	7
+UCEJpGxMVHCltUzIAMb8J4vQ	Dude it's David	7
+UCFkvaOM2Nc_8TtchHlH0ZBg	Michael's Magical Playhouse	7
+UCHWL2CqWMfRdYQ6tm8-MZvg	Owen Tells All	5
+UCxmpypOuk5jKeqemxURfh9A	Ground Travel	2
+UCubdIMc68yxOVuPHIrvNqyw	Laura'sLyricalLife	2
+UCJCErWQmtfZzwDYek1A_o-Q	Shots Studios	10
+UClxgF0TKWPi2xzvPQddd7gQ	Lil Shop	6
+UCEr55381WIqO1w_IzgcI5DQ	Anwar Jibawi	9
+UCQG4cX86zZ51IU2cerZgPSA	Awkward Puppets	9
+UCPrJ4KsuqBW771qTijv02WA	Delaney Glazer	9
+UCkS8bfIrm38QCSQeOqRxR4A	Hannah Stocking	10
+UCi9cDo6239RAzPpBZO9y5SA	Lele Pons	10
+UCgDf57PwDeZB6L8rf7xZoYA	Maia Mitchell	9
+UC5jkXpfnBhlDjqh0ir5FsIQ	Rudy Mancuso	9
+UC9trcENZCwj4ZKIH1lm-WuQ	kurt	1
+UC5H2oyT7MpKVzauc96NBsjg	Macy Kate	1
+UCA1sXU0FZhQ0yFiyltmSgaw	Victoria Justice	1
+UCeydyhvy1mkrFbAV3ArJ-7g	MAMAs b0y	1
+UCduKuJToxWPizJ7I2E6n1kA	BroScienceLife	2
+UCckIJbG_MpYWWwlB6QfDKXg	Joe Santagato	2
+UCPvyOQD9hxY8433PN9QalIg	Moretoki	1
+UCLRmIdRJgLfmdpJufmBhBuA	LOL Network	1
+UCeQm6W5t3zj4lRwcqE3tEjA	David Hasselhoff	1
+UCxMAbVFmxKUVGAll0WVGpFw	Cardi B	1
+UCwppdrjsBPAZg5_cUwQjfMQ	Charlie Puth	1
+UCGWpjrgMylyGVRIKQdazrPA	Warner Music Group	5
+UCe4LM_eKc9ywRmVuBm5pjQg	Atlantic Records	5
+UC0Ty-yT4nCL8jBNpq2mt2Uw	WheezyNews	2
+UCyDZai57BfE_N0SaBkKQyXg	Rob Scallon	4
+UC4aeJZVnRkArODElK_VZ6tA	pineappleboyfilms	2
+UCgMFZtGpFKeFKb4UjTBbe7Q	AdamKTrailers	1
+UC1KCpRDci29cyiI1rXL5Gew	retrotowers.co.uk	1
+UCWfTTqZNNacHUZKyL5hoNCA	Shenmue Fans	2
+UCrX_f8yyCj1Uy26fXiHKAGg	SaraPickles	1
+UCkNU8Tnp51mU70G-OfOQMNA	hdRGB	1
+UCKZ2p-Xh1VnFBnXdyoeVc0w	ConalCochran	1
+UCBIqQAjDVonDdDf0Ei4PJag	BinkieMcFartnuggets	1
+UCESHKkmLewJ_DCQHIJa8vCA	Silvermania	5
+UCOvK0O2n4YwSkYOwTfUtHog	Thee Evolution	1
+UCisyB6oavfEboBWYkYh1V7Q	E U P H O R I A	1
+UCUhpoJIXe3H9zPsIk8EppOg	EpicVideoGameMaster	1
+UC8af5lpj4ulvArH5TvG0ehQ	Hitchhike the World	1
+UCa4k3xU1HWXXWe8qdbi8Hqw	SoBroRadio	1
+UCy_tLZuGAkzplthal95Zftw	DruoxTheShredder	3
+UCQZWbiK4j-0JQBClR_wFvGg	PrimatePunk	2
+UCVDawi6apomvx864ZIOEOJQ	Rocket Dog Shawn	2
+UCxkdpIWAKJjYcKK7QCoSUew	TabascoSauceBoss	1
+UCb1VX81qT3E5txGS9rd07xA	Michael Potok	2
+UCzXadTbmZDjxarKEB10QFoA	Joe Boisits	2
+UCSBWqjo-A4yMLwBM9NzaLYw	JDExists	1
+UC4RzyQJswXNxdcELnf5_n7A	New Age Creators	3
+UCjw_WLqc3y1yEAkjuChVqlg	Josh Holliday	1
+UCN8ANWPWH_fV7LHs5wcAPkg	There She Goes	2
+UCWqf8HHjzn9Pl28uWRIOqYA	grimbleism	2
+UCPEmnPom9rXFnikVpp-SIeQ	Unoriginality	2
+UCY-5pmlQfNe6Nqb4R3i3j1Q	N.T. Jordan	1
+UCKbI6hvDKyxmWr-mT6jzyaA	Chase vs Everything	3
+UCOEqvdNDqAJanYeOgsPHTHQ	SeeKaysee	1
+UCsVLW595FLr8-OuapJYcNyQ	Duty Free Critic by M.Dee	1
+UCpSgg_ECBj25s9moCDfSTsA	Jamie Oliver	5
+UCzI73MXvMNesn7TlnQo8IgA	River Cottage	1
+UCU-9aBTeP3pJVutFppAr4Ng	Gennaro Contaldo	3
+UCPzFLpOblZEaIx2lpym1l1A	Alex	4
+UCAz17eZxF5tD7vNOEVgegKg	zentouro	2
+UCw8neN02mV6o4ue9IJOJIRA	Happen Films	1
+UCrdWRLq10OHuy7HmSckV3Vg	Nathaniel Drew	1
+UC6tWRonu6NsZkjeAgYD_jIw	Nicholas Lent	1
+UCptNOWTizPKjnHYLydzUWbw	HaloFollower	1
+UCptai1iBo23-bC2XgDjF4Cw	Jonathan	1
+UCRs2Ic_D0GVGlRttKxjfzFw	The Nether Region	2
+UCNn5fI5paiOOy4LIzLiPwmg	GnarlyMode	1
+UCUBq8oBRVTsMpjWiHfjJpDw	Music Video Sins	5
+UC-tOak37G5g2Xd1Ag-EKEnQ	CinemaSins Jeremy	3
+UCOZcxtwy_YYe7KKky8DCLGQ	Couch T.	2
+UCukikJBwQoBIIhRTw6gV2-A	Made In Network	4
+UC5Nxj5dpHf2p7cN9qdUVEzA	SinCast	1
+UC4_bwov47DseacR1-ttTdOg	boogie2988	2
+UC4CLKtIIo0LnL6IdDG06Z-w	DBGames	1
+UCSfoxYTlCPFfglckBLrjpsA	miracleofsound	3
+UCH-_hzb2ILSCo9ftVSnrCIQ	YOGSCAST Lewis & Simon	4
+UCdcemy56JtVTrsFIOoqvV8g	ANDREW HUANG	5
+UC5HXHBQGn_LCMvDImau2vYw	VEELA	2
+UCdX70xNEfBhP9Aiz9oGk3KA	nonelikejoshuamusic	1
+UC5Bf4e-33HpwfRypwoLk0lw	BrySi - Video Game Songs	1
+UCwNUvFnzaSFzJJy6YnvgKwQ	Outconsumer	2
+UCw7FkXsC00lH2v2yB5LQoYA	jackfrags	2
+UC-9C9d1qDDzA2jdH53vSIuA	AtheneWins	1
+UCL3QmvKyz0cQ7e6Z7i8iUtw	crewealexboy	1
+UC0B9mlVoZtsFV4RPOGDYQXw	SpecialEffect	1
+UC_W5rRdHNyi1sv_d9QjCA5w	Sir Ayme	1
+UCHu2KNu6TtJ0p4hpSW7Yv7Q	Jazza	3
+UCQSskW1S07KnC3m91hEgFOw	Jesse J. Jones	2
+UCj03KIKZKm2sky9TmJyUb7Q	IMP Studio	1
+UCDNjIxx3Z-h5X0CB1XwdZwg	KimiOmega	1
+UCOj1279n5mk5tH-BQuFN-2w	Hypercore Ripper	1
+UCZgk7kZIX7cXh65XFIsO3Jw	OwnMcKendry	1
+UCUvz06pT0pKL-9P8hXbE6Pg	RiskRim	1
+UCZa1qyo5Ny_cT6XHub3cl-g	Caddy Plays	1
+UC5qrE62e0455xvZ_QYfBYSA	Scarfulhu	7
+UCJcK_CBW0M6TwtpUl99psxg	go to sleep house	3
+UC9XJTgiunZKkqLu2O7o7_wA	Professor Juice	4
+UCg83RGdRpwfvoFEuE2zWKZA	SomecallmeJohnny	4
+UCp-XZhyQLcJ8X65eT1T3XyQ	AntDude	5
+UCfiIhdy7hncZvdBDbZqSIZg	DaveControl	1
+UCbWcXB0PoqOsAvAdfzWMf0w	Fredrik Knudsen	1
+UCwq9JpB9EEyXG7JouLQLuIg	gillythekid	4
+UCVUirFtaSpWupdfDnaErhuQ	Haedox	2
+UCRbOPaGDB_xOQkVM8Rnn62Q	I Hate Everything	1
+UCDXOwJQgD65oJOM1IHmtskw	Indeimaus	1
+UCYoCLXCNl3SxdvAQoLPxMVQ	ItsaDogandGame	3
+UCpjhI-0FBMao7jSuafXuEjA	Jack and Dean	5
+UCOAdX6ibxsKI9GyuKSYkZwA	Jradgex	2
+UCGs4VyW3mWgN-CD0M3YFFDA	Kiwimcmc	1
+UCVO0pUVsRmQ78bVffNpV1dw	Joyless	1
+UClbMfKpEkCBw6I16VovkoMg	Olly Ross	1
+UCCTNXqhWPba9Xh8gx0EKOtQ	PushingUpRoses	15
+UCVGo3S_AANY-UQdJ6VLwGXw	rabbidluigi	1
+UCD_Z3R_lQIfS08pPVt4gWPA	SnoopingTurtle	1
+UCGpj1WDRMPy-jf7w_ZGFBmQ	Tennings	1
+UCLmzk98n_v2doN2Y20S-Zog	TheGamingBritShow	2
+UCYA0mAC_-cBCySX_M5yYqrQ	Todd Schlickbernd	4
+UCSc16oMxxlcJSb9SXkjwMjA	YourMovieSucksDOTorg	5
+UC7dyZTzjrzKAboRHDKADT6Q	Zurachi	8
+UCV5wuGZmg_FGQp25uzKKDaw	OneyNG	7
+UC2e0bNZ6CzT-Xvr070VaGsw	ProJared	4
+UCSvQyDawUyfXzrSq4dTVraQ	This is Polaris	5
+UCS4_hcviJUA6beVsXb0xakQ	PBGGameplay	6
+UCbISRENThXbX1uCN4s3b77A	Peebs	2
+UCcK72Xs5DAM3mnGpyImg63Q	Chadtronic	7
+UCLx053rWZxCiYWsBETgdKrQ	LGR	12
+UCGg-1aA0ISuDm_7QhRv2X0g	WalterMB	1
+UCRoAxBvyr4BL2H3tE7tQl8A	Continued!	2
+UCRm4aR7o61_n_TsWSft58HQ	Pretend Friends	1
+UChA7AsJaUDt9uNRAYxeUxyQ	Goosebuds	2
+UCvJ6C8vQfi_HAF4CxPg5vMw	Cinephilia Anonymous	1
+UCnX9ICBUU8WZgMhrZUcRyuw	Ricepirate	6
+UCLEjjG12meCLTU4eLta8bVw	StamperTV	6
+UCd6Tp3QcHhagsbSpyxmlzpg	moose2	4
+UCTiCMDl01wLOCGXFst90CzQ	Hammy	3
+UCjzWSePFAGMM8jGfXDOV5Tw	Barley	1
+UC3NFbXe8b4WuEFnf_m6XSnA	Balrog's Gameplay Room!	1
+UCUNYWmlvdPYcFlrs3a1EfPg	Tails' Channel	1
+UCqjVY0Wyhh3oLdOSiujkVsw	SirGiggles	2
+UCSYWM0xIYEWlhgYFQB7pDAg	Garrett Williamson	2
+UCk1Fo1TfTOFWRhffJGvDSUg	Proton Jon	5
+UCiP_FwGyJQ_6P8k5ON5mncQ	Matt McMuscles	4
+UCyOJzQzyDGihKpTO3-zyhYg	WoolieVersus	3
+UCpmNJI_KhjkpXw1UPmtC3-Q	Pat Stares At	3
+UC0PaoSxEK2nEmO-Mtk2vGWA	PlagueOfGripes	4
+UCOgaIuQYGr6ow_jbote4BKA	Maximilian Dood	2
+UCFNJrEtaD4fDe_cH6WQE9sg	2Snacks	3
+UCyfG7-7lPhf6EIC6igUOfzw	TFS Gaming	2
+UC25-_5i19rPlLosl_h7G9Ow	Cinemassacre Plays	6
+UCRC4bcpS2y1hh-Rabs0-vkQ	Hat-Loving Gamer	2
+UCNN_mnwGijW1g45zx5sBwKA	Pixalmated	1
+UCCYoMmYgjielHDoHBcRO95w	It's A3	1
+UCNK813T2BNBwcfDPDTPeMPA	Level UP	2
+UCKhvrZFbsNN_1tFN-X3iENg	The Imaginary Axis	1
+UCNLVMi2om5f3mMPn7gbvigw	Auram's Corner!	1
+UCrIiCib2JW805v9W7k79TXg	Rick Nazden	1
+UCcHBw_Rs56RFcisYAOlFfmQ	Billiam	2
+UCwMq5C1KWzl1vCbtylgUt1w	TheGeckoNinja	3
+UCgCc8QoFgoOBUywlYxdwBhw	AllochiiGingertea	2
+UC103IUfx8ImU5-iJ1XkBudw	ChaseFace	3
+UCKf4Mh9NFyA-ANrMmocobYg	Rabbit Plays Games	2
+UCItnkaVIsF_Uqpq3K7IvJzQ	SupaNintendoGirl	2
+UCcbxiTFPzR1ULs3UaSoaEEA	Marshall Griffith	1
+UC-J8t-ejECG7Zjh42YtV0cA	SpellingPhailerMusic	1
+UCSMpnI56rm5Iu-lKEas-fKQ	I'm Aki	1
+UC3ETCazlHenpXEsrEJH-k5A	The Anime Man	13
+UCPsZ_0SkFdi551iYTG04R2g	CDawgVA	2
+UCm6yYwhAaKF-S1X1yS2KzSw	Misty Chronexia	6
+UCW6yxVCJhq5TcPjs5woaaDg	Sebastiano Serafini	1
+UCbTjXk-rplm3mYJhJI82How	SouL Animation	4
+UCj0bzpn7Pvp2VuI3sXkDnww	HoodiePanda	6
+UCVBJjXFbba-vaz_DwZz16hA	TheRyDesigns	2
+UCBBmhMPaX-EmtJAopcQLCQQ	Mr. Pockets	1
+UCYTspO3jUG-LbwOI1qtC-KQ	Reina Scully	6
+UCLfbmGhvu7xTHXktmMWdfvw	Sharla in Japan	4
+UC4yqcgz49APdbgj0OMv7jpA	Rachel and Jun	3
+UC7dF9qfBMXrSlaaFFDvV_Yg	Gigguk	4
+UC2UB1ffj-JxRnf1kSofc1Vg	LoveLyzKelly	2
+UCxUTiYnNvosVFRUZM5IQ6aA	Sam In Tokyo	1
+UCbHWBh2s3nRzquz8rAoJk8Q	KemushiChan \xe3\x83\xad\xe3\x83\xac\xe3\x83\x83\xe3\x82\xbf	2
+UCgR3SrM8T6GCFUTuxSFlR7A	Anime Balls Deep	1
+UCEG3ulBltfrvOE8baBogJ0g	ZONE TOONS	3
+UCzen_5NiIRsC_f97HVaB7bA	Otaku-Vs	1
+UCqHM_TAF4q_toLXJ0heSlmg	Nowagotta	1
+UC8q7uZVkoeMm_cyTL24GAoA	BennettTheSage	2
+UCsGKrLHOxr2113efbnkp5MA	Lost Pause	2
+UCNRFAB4ffkPODZd_PZQvgrw	Dj CUTMAN	3
+UCxozhG4joH3_TntboJ4k-yQ	Chiptunes = WIN	3
+UCsmOBiq-N3gJBFk-Xtfg2HQ	This Week in Chiptune	3
+UCJzlQxeUT4CojdwacALbVeg	Lanipator	1
+UC1-owQLWVKOIRzr8iXfYVqw	takahata101	1
+UCLKkPZZ-LW1_DHCP_5ADtxg	MasakoX	1
+UCJgm3POpRDrWR-VL2pVbVcA	Megami33	3
+UCH8A0tBodub5ZNg8BbDCecA	Stephan Krosecz	1
+UCcROEQoAWOmcppZ6RTTLx6w	Super Couch Fighters	1
+UC-FktoHVJQXoxSaKmEvj-kQ	SuperScopeShow	2
+UC9ebZduHDCCAx-NZnyJ4cAw	Sundercade	1
+UCgDWxTQa-plO-pm2CpPwq0A	WittzLife	1
+UCNOJh-R1C9OBC4TqNwEAMMg	Renae	2
+UCs7J5ya8VIVAfiQ4QPZAiFQ	The Top Cut	1
+UCCBuCjSIg4gFFUSoqlLQViQ	The Game Station	4
+UCtCXgl-TY2yJLZraM91L5gw	iwantobeahacker	1
+UCUJOS59EpFKPZWqCHEPeYeA	Trickywi	2
+UCrkGn5IhQH_AXkxiTQzYQgw	CandyEvie	1
+UCe2yn-ptTl529JPheQgzm_A	Marriland	3
+UC-lmdv0OTb4uQQSzwbzhLsg	GlitchxCity	2
+UCS4d3C_e8lmHXT1zltSNzcg	lucahjin	4
+UC7Z1-Z4Em93QhqcJgJYUv6Q	Tamashii Hiroka	1
+UCOpHnp46ORZwdrpoXuhzYMg	Beyond the Screenplay	1
+UCveZqqGewoyPiacooywP5Ig	Alt Shift X	2
+UCG1h-Wqjtwz7uUANw6gazRw	Lindsay Ellis	7
+UCWTFGPpNQ0Ms6afXhaWDiRw	Now You See It	2
+UCjFqcJQXGZ6T6sxyFB-5i6A	Every Frame a Painting	6
+UCLXo7UDZvByw2ixzpQCufnA	Vox	2
+UCO_XmNLTsemq7Qn0yVQKfag	BIGQUINT INDEED	1
+UC5ffrmC3Ifx4q3VBZp5HUmw	Tesla Life	1
+UCcEPmwpXKrKzZahqjwpIAsQ	WonderWhy	1
+UCaDVcGDMkvcRb4qGARkWlyg	SoulPancake	3
+UClYb9NpXnRemxYoWbcYANsA	Jason Silva: Shots of Awe	2
+UC55OV4HSSKJEthG4ulsKkyw	Good Blood	2
+UCE8aa83wFg-VE1zcaVCZdIA	Moviefone	2
+UCP6T93Fe7qKYlvb_5Cs8Z4g	AlltimeMovies	2
+UC7GV-3hrA9kDKrren0QMKMg	CinemaTyler	2
+UCIKlsX1qfGqKPt4KAW-JOZg	Star Wars Explained	1
+UCEA0LA7k6hwZM-xocspYQjQ	Inverse	1
+UCF1fG3gT44nGTPU2sVLoFWg	Patrick (H) Willems	3
+UCEtB-nx5ngoNJWEzYa-yXBg	FilmJoy	6
+UCHiwtz2tCEfS17N9A-WoSSw	Pop Culture Detective	1
+UCFytMWyB3hjfc7u5UFDnCeg	Cox n' Crendor	2
+UCqg5FCR7NrpvlBWMXdt-5Vg	Escapist	4
+UCF-yHlkJqChTGGcUyh08Glg	The Jovenshire	4
+UC4yOq3vxWGQeVe9rw1O02Nw	Sohinki	4
+UCgQxsZL5tQBNtWFlmd4Wl0w	Lasercorn	5
+UC90ThxjTNaHaqyPVtfyZ4hw	Strippin	4
+UC7vTnphDtaU-mDI0nmzfqog	HappiLeeErin	4
+UCy1Ms_5qBTawC-k7PVjHXKQ	TotalBiscuit	7
+UCQM7jYPAdBAcFnsg0unhU0Q	Octopimp	1
+UCiRzqNmmadBruhqQve2INPQ	Angi Viper	1
+UCsHOSre3JBfgOkgEvana8vA	jumblejunkiemusic	1
+UC0zwTpEMt8IsETC7mv9Tt3g	John's Arcade Game Reviews & Tech	4
+UChw1WdPMwlu2QLjFCVthsCA	Joe Senigaglia	2
+UCbYJqkZGCYdpVpU5o26RS9A	arcadeimpossible	1
+UCwkD35uVXkOeMjAl3UPUXLg	Tighe Lory	2
+UCENO-EfKMIJxQlmyd6x6c7A	Arcade Hunters	2
+UC01kI882FtuOsnpzmC9NoPQ	DlNKYDANA	1
+UCofvNfGzpTwqbfHGY_xdjYQ	sinistermoon	4
+UCcskeMk_xEGMD2zDECpCPzg	doginmylense	3
+UCf6xM_rLVkmFfKSGzD13LdA	operationkillscreen	1
+UCgzMEY6DT85rdQAtKwMp89w	OKeijiDragon	1
+UCwKkLApeClMpi44fd8vJdDA	N64 Glenn Plant	2
+UCtByt51SvEuImGDC2bAiC6g	Beta64	2
+UChQcap_4Iam2oR2DHzYj_Jg	Gekigemu	1
+UCxUtER6_KH80ZxE-WFWRBZg	ProjectFalconPunch	2
+UCkQp10NNi-L2A3UE81J96Iw	PFP Dan	2
+UCS2EY3XJCvXi5QGTN6mxUtA	TheRunawayGuys	3
+UCKrFXqpQj3gM98LF22Yq8Kg	NintendoCapriSun	5
+UCjt_KgZ6rREkub3YW73KVoA	MasaeAnela	4
+UCSi5T6T7XgnxhkG7N3jmH1A	StephenPlays	3
+UCKHzytNEp13BwAdxwxvrLTw	CodyDaviesTV	1
+UC6FwRO2_a4nrqWJNN32M-Dg	Creeps Plays	2
+UCMrpSfN_8goYVsU2csaxDbQ	The Full Package	2
+UCfBv7JxTbcsOX_thB-yzZ2w	Audionic Music	2
+UCy0jX480O3Rn5954GD5jAMQ	Barnabas Deimos	2
+UCoxSGpW1YLvSjioonRaLbBg	DeadJosey	4
+UCBWqA4UUZrEo3WbZnwu4WZA	CreepyChu	1
+UCbVuKnzsxNzmyVNDbiGZVFg	Kwife's Gaming Life	2
+UCQMbf4NfHCJO0WP8NpSqgCA	kwingsletsplays	3
+UCDCXjm5YgCCjm5zOO45wilw	wiiviewr	1
+UCaPIeijHpTC4J3wJFmD7MEg	FOXSOLPLAYS	2
+UCQdAf18tIrv2uF9AbkWIzJQ	Guru Larry Gaming	2
+UC-BaCwG4XVoRAnp9xeQTUnA	The Video Game Reviewer Archive	2
+UCdMWnD7qCz4Y7FbbbfyDq5g	Digitiser2000	1
+UC4zKSynEH_sLA1TC8_kU0gQ	Oliver Harper	2
+UCxt9Pvye-9x_AIcb1UtmF1Q	ashens	8
+UC455p7ts9lh8IWi5zuf_8tQ	Daniel Ibbertson	6
+UC9ZWVL1Elyt2cdiQYjxS_1w	Kim Justice	5
+UCSS7ic97Y_dGiRCIpzTXSCw	TheGebs24	2
+UCir4goG7LBQCh5rc3frkHuA	Harry Partridge	7
+UC55CSZ6fSB4ohfNIbb6ydSA	FunStockRetro.co.uk	1
+UCIjefVgdLH4p6uXENJnz7Jg	Face Destroyer Inc.	1
+UCIEBQL2A540gEBaOXT18qWQ	HeadphonesUK	1
+UCybEUq0euWxtsu7JZ8JhNqw	Reckless Reels	1
+UCB1aV9l1bH6pyiG7aecZRaA	TheWorstChannelintheMultiverse	3
+UCTNU7S4VqqSrx0OLjtpuyUA	ITSMYYARD	3
+UCfAK0IN2RmdFgnXNv_KEEDg	AqualungGameReviews	1
+UCwK6hu9UL4R0HvxdT8JV4XQ	ImmortalHD	5
+UC5DRS1AfES0hVY8eBRUqlrA	kootra	2
+UCQVit9QMtq4TgdmQbGaDvmA	Danz Newz	3
+UC5cu-LHzsXr6iBf2n9mswjg	Yabaecip	1
+UCO6Kitcl4bDOG3GdVhMZRTQ	The Creature Hub Streams	1
+UCT6QFE3peNry9PdO5uGj96g	Kinda Funny Games	2
+UCrMP902UUilI0dvkHUFXDcg	The Geek Easy Podcast	2
+UCnbvPS_rXp4PC21PG2k1UVg	Gaming Historian	16
+UCjoe3Qo_DymYyBR6X9VxFjQ	Toy Galaxy	1
+UC5Xeb9-FhZXgvw340n7PsCQ	Stop Skeletons From Fighting	4
+UChe9i_1QOu0izWI2l_CveKw	Weird Paul	2
+UC7880BTjn6RJpknzcVmxpeg	SEO Toy Review	4
+UCyhQ_pScW09gRuH1YS90l4w	BoardTheShow	2
+UC0iZTlaEznSlCTJ1tD67y-w	Pixel Dan Vlogs	1
+UCBL_Hyhx1krxKzKsND3BW-w	Daniel Benedict	1
+UCy_ZSp7W-PXFEEgrLhQ62Mw	ShartimusPrime	4
+UCxb0-EpQUuda7GyDRcY5TSA	ToyWorldOrder	3
+UCZn2JQsQd3MXH07aI9TDI3g	DemonTomatoDave	1
+UCLqUNih1gJ4Ms-MQNCbjQtg	Daniel Tidwell	1
+UCXrqdGL4wIIfBVrrjQuu6jw	Mike Matei	3
+UCXhETv5GWs2qfJ6D2vEEJDg	Erin Plays	6
+UCpPLyh0FP4xss6mOHH1yNOA	KIER-TOONS	3
+UCjlEQZhPjiLc6bN--4_Jqeg	Justin Silverman	2
+UCrRdNg4DiJJosJdwG_-_zJw	HACK THE MOVIES	3
+UC4rqhyiTs7XyuODcECvuiiQ	Scott The Woz	1
+UCT6LaAC9VckZYJUzutUW3PQ	Game Sack	8
+UCLGfWGkOAj6N5Ciipak8s3A	Billy	1
+UCYr9Zo0sl3S_k_G8UEjQhBw	The Shady Jay Show	2
+UCSxLDHfK2yzL7jhCJWG7EPg	8-Bit Eric	6
+UCJKE87wqkVvbP2hUJcAKJNw	Jordan Fringe	5
+UCuJyaxv7V-HK4_qQzNK_BXQ	BeatEmUps	6
+UCoFpRCAsKfWAshvLE1bYzdw	Rerez	13
+UC2vUKoTGIwNYq4LO0YWKPIg	HappyConsoleGamer	8
+UCUbZumHRWF7l8cN4nXcJ2vA	Bad GraFx Gamers	1
+UCEeuSJaNA3WsdEkCnb-fhDg	ClanOfTheGrayWolf	3
+UC9BJp-UoWgEqeP9LbTXdZJg	JewWario	1
+UCR1wZbGg4syb9-lsQs-t3dA	LaserFrog	3
+UCAviYTZDiU0ohvJwO-4nAWw	RinryGameGame	1
+UCiAjLa31UB5H1AcByYydFiA	Davetona	3
+UC9QRxKYhHhKjm7LW0hiNvCg	On Being Human	3
+UC_SKOrBxI87BRFXAztbQT8g	PortsCenter	4
+UCj4v0IU9lTPzpfm0T3NF1hQ	Epic Game Music	4
+UCyvXPXuyhsivj4fycB8mOhg	Screenwave Media	6
+UCS7ePNsNq4PrXGoiZKcrw8Q	Indie Games Searchlight	4
+UCtt_NEKZ4MoH4O7BT3SbXTA	strafefox	2
+UCx1h5tUU2qnz7ove4Fsfrfw	Mixed Nuts Productions	2
+UCqAC23rU6GhUVY-1pY3aD6A	VideoGameTakeOut	1
+UCIF9KJ-IwP3P5iFslsWgU7w	SpaceKappa	2
+UCpvtp7mH0Cdq8FQUxcjDq0Q	My Life in Gaming	8
+UC5-umfrfqPvDvWCYHJGYtpA	BG Ollie	1
+UCstcX0ykfSFxzpNm4B0-eiw	DigiWax	1
+UCppifd6qgT-5akRcNXeL2rw	Blunty	2
+UC_GvMVffgctSISDkeWlKhXQ	dope2111	2
+UCpv6DxsfsPpE3PIMWV3PKeA	AtomicMari	3
+UCIA9jUDnKVMYc4SmqTxcwqg	Cartoon Hangover	5
+UCxLpKibphYqXrXpxAnR8MfA	MondoMedia	5
+UCgxEvoi1xuAL8laKzf9dKXg	SoloPatrick	1
+UCM6uDL18SitN0suKEV1VJlQ	Taylar	2
+UCY5OdZxsyKxw67Rb1Ye0ETQ	Screen Team France	1
+UCsoMNUy0dPoFRAPcOjvdLTQ	Anthony Padilla 2	1
+UCmA4QMyFcrx9z8FqCCwVABQ	miel	1
+UCL1iIm1I6hTgyPPJqLa1NDQ	Film Riot Extras	1
+UCnUGxFrW_GA2PVGtR5GDvjA	VFX Productions	1
+UCGZ0LgTmAJn9Banetdr_ZFg	Indy Mogul	5
+UCc0D1yh3TGE8dJSLm9VmEdg	Aputure	2
+UCSpFnDQr88xCZ80N-X7t0nQ	Corridor Crew	4
+UC4kjDjhexSVuC8JWk4ZanFw	Variant Comics	2
+UCIMX7KaXAFkJG7uPsQBepfA	FXhome	1
+UCnw2-4hXY26-W2w9Ja9GBvw	Cinematography Database	2
+UCkC5jMJh1UXEt36FfzxPxbA	RampantMedia	1
+UCaDZLsDEEBBJESXmmi-9m5w	Premiere Gal	1
+UCs8o1mdWAfefJkdBg632_tg	Film Courage	1
+UCzQ1L-wzA_1qmLf49ey9iTQ	DSLRguide	2
+UCMmA0XxraDP7ZVbv4eY3Omg	DSLR Video Shooter	4
+UCx5KB2QDUDH-o8PFnF3yJCQ	Kevin - The Basic Filmmaker	2
+UC9Tyxi96fEu0ho4mlxOEdOQ	Curtis Judd	3
+UCGgg29ssaxEpqfEanVdjGpg	Little Engineers	1
+UCrnhaiBJ-siPaJ3a1svt5AQ	Sandaroo Stories	4
+UCax-4TdDh3oetlyh-GoL7UA	TRT TV	12
+UCLF-kfM8ZxHQ9lW_lpu_thw	Toy Trains 4u	10
+UCLhO_QqMBdKOrV_nf8UwzlA	Toy Reviews For You	4
+UCeV2O_6QmFaaKBZHY3bJgsA	Its JoJo Siwa	1
+UC1xvP0LqUviUOxvchL5goSw	AllToyCollector	10
+UCwjoPtSoNLAoX2sLBaKLYng	Toys And Funny Kids Play Doh Cartoons	3
+UCkDbxGSyvOgR8UJj3m0GC6Q	JeffMara	8
+UCyEobXxpYV2yOEmQAa6J4VQ	Lucky Penny Shop	7
+UC47-m4pjg8JUOGGTDTE286Q	Lightning	5
+UCDc03e_BJ18qrG_Y4plC4pA	jlouvier	5
+UCC8_YRJ7psy7uL1cTu1fPTQ	Toy Time TV	4
+UCm1Y9KswNdv-D2eZ0Jjx_aw	SBARTSTV News Entertainment Tech	1
+UCu74EMFbgw23Dl-6WNCiD2g	Tots Toy Collector	2
+UCF7-Aao1JmBnfS5vMFFpWFg	Toy Kingdom	5
+UCGnpzsWir-GBQ3GDmjMoJaQ	Alaska Toy Box	1
+UCQMFJQrFdtsYuJvCRQj1zDA	TheChildhoodLife Kids and Toys	4
+UCc2_j9TZ1UU9nCedF3UsuFQ	Kiddyzuzaa - WildBrain	2
+UCcBcxQjGny3FBsBy434iDhg	CottonCandyCorner	9
+UCmUJ2usJiEz1FA1WhgVg6lA	BirthdayCandyLand Art	4
+UCXT-4F-HgaZHURm5eVdEJlA	MiniToyCollector	2
+UCiND1uo3qhV7peJCkGeDumQ	Jazzy Puppet	2
+UCdaD_4xnYelegmtYUgHhKyw	Mommy's World	13
+UCjT72pRa8g5xarzlp3UGJMw	Ruby Roo - Kids Videos	1
+UCbA3EjrdDfInPURQJKZ-epA	Casa Magica de Juguetes	1
+UCqH9Km6-6rA4SyrFf3_tWeA	The Toy Bunker	3
+UCcj4TuaP3w6gQ9-mCuhVlpA	TTPM Toy Reviews	1
+UCMzXMHZXsQa9GIy81pSioeA	Happy Lion Learning	1
+UC-s_hG_sI02u_4k0-sOdt-w	Toy Review TV	3
+UCuyWn_kqtoK9gx3PhYPpjtQ	Toy Pals TV	1
+UCzMGiI_wY3wkQQVCW-N76vg	JayBrandon	1
+UCVE91qOw9Ke8EsK95lMuF2Q	Fluffy Jet Toys	8
+UCM9dI-Hq_IHx9nl0qnBFZcw	Jay Squared	6
+UC4ZIXyovOGVIGkzH0cgt4BA	Juniors Toons	3
+UCqxKavbK7Sx-daJqZBLsgog	MBM Crafts	2
+UC1R3uROUkpqg3fYuA0C2_RA	FastFoodToyReviews	3
+UCI_DrjoooGWVxAPt7N3Ybag	DOLLASTIC \xe2\x98\x85	5
+UCvgSPHCJfTX0w1prUZy3JUw	ToyPitStop	5
+UC0xJ3GLO2qTmPNDxKaexKQg	Kalebs ToyBox	2
+UCCXyLN2CaDUyuEulSCvqb2w	KidCity	1
+UCiS4C2QgTFoCZlVs7DQThNg	Superhero FAMILY	2
+UCu5DbclzL5L_RCoi5YkTOrA	Laughing Moms	2
+UCCHxRvxlGJe48ddWm2YVR8w	Amelia's Crafty Corner	2
+UC23U4jpP2BAw8uxaH4Zwh8g	SuperSorrell	1
+UCA4QQRuGU_0u1b-UWMh7E5g	Little LaVignes	2
+UCWY9I9Ath8tJi4cviocDspw	COOLection TV	1
+UCbZ7UmC7qFvlGlN54t2zG0Q	HeyThatsMike	7
+UCBk_eYDohB8hxTwKVEKAzew	SuperHeroKidsClub	1
+UCMeqTdg5ea34TR5kHj31hIQ	Epic Kool Kids	1
+UC5mMf2NE17_MiTL94ihRN2w	New Sky Kids	1
+UCAbinsttOjP3NpPCn2G4Row	Arcadius Kul	4
+UCzUrN5e1gNR1XPi8D5z0T_A	12th Art Group	2
+UCIfW1WUAOwBiU3Fn5SVV43A	Il Pupazzo Fuzzy	9
+UCsyWBUyyYMPvwtC_afVsiXw	Fantoche Fuzzy	9
+UCbt63GNsB5wet6NO3dmhssA	Busy Beavers - Kids Learn ABCs 123s & More	1
+UCAsMIu8JRvINkUa09iyS2Cw	All4TubeVLOGS	3
+UCej8z9NGaA9Hdd8k5hueXKw	Mega Kids Tv	1
+UCEAXqGOrT6uqN6XqlItD6vA	kiddies tv	2
+UChX7HqySx0W-7Pvy-ynGuUg	Toy Station Kids Channel | Toys, Surprise Eggs, Play-Doh	1
+UCRLUKeSTYSM6KSY5-KiQr0w	didadu	1
+UCOYUFFxT50nvDaRj5Mn5XNg	Lullaby World Official	1
+UCvbbmA0B_gpi4rb-uRWGztg	Dream Candy Club	1
+UClM95NZgD8WGaskpyresMzw	Tickets to Toy Time	3
+UCHKbFGZuCUXgyaEXEOlvOJw	Marioneta Fuzzy	9
+UCpkDd7o9xFcHnX7apV7xOGA	\xe6\xb3\x95\xe8\xa5\xbf\xe5\xb8\x83\xe5\x81\xb6\xe7\xa7\x80	8
+UCRKfLyQKpsDyrtGUtkF8fiA	\xed\x8d\xbc\xec\xa7\x80	9
+UCOtxKh2_ABQ-1agjxq69E_g	\xd8\xb9\xd8\xb1\xd8\xb6 \xd9\x81\xd8\xa7\xd8\xb2\xd9\x8a	7
+UC4q1CdWB__w7OPRLk8jp6Kw	\xe0\xa4\xab\xe0\xa4\x9c\xe0\xa5\x80 \xe0\xa4\x95\xe0\xa4\xa0\xe0\xa4\xaa\xe0\xa5\x81\xe0\xa4\xa4\xe0\xa4\xb2\xe0\xa5\x80	9
+UCRdt-Ir15lPLmxttIWSjIdA	Marionnette Fuzzy	9
+UC_mYHfqzCwF-J2fsPFMEdLA	\xe0\xb8\xab\xe0\xb8\xb8\xe0\xb9\x88\xe0\xb8\x99\xe0\xb9\x84\xe0\xb8\xa1\xe0\xb9\x88\xe0\xb8\x8a\xe0\xb8\xb1\xe0\xb8\x94\xe0\xb9\x80\xe0\xb8\x88\xe0\xb8\x99	9
+UC_GIy4IHw-LShuhcjJ6n9jg	WDTechToys	1
+UCpN2kLQMrJJ_-164XeIYrNQ	CoCosToy Cartoons and Fairy tales	1
+UCm8rRaorq6Xvth3e-zV1Fug	Eggs and Toys TV	3
+UCzWrhkg9eK5I8Bm3HfV-unA	Supertronic	1
+UCHBoTCYv3TxBdBJNDXTM-WQ	PressPlayPictureHouse	1
+UCow9XxDENBQ_to9IDihPgYA	New Toy Surprise	1
+UCt4jjySqel-EfX8ADAiMdAQ	Trackmaster Toy Train Village	2
+UCAcOXuC3lkUjWkfBxvFX89w	Disney Cars Barbie Toys	2
+UCW2XJjak0jLtSAA2fNqnjWg	Kids Toys and Crafts	1
+UCplTh7UXTKHPkahcpin2yOg	SuperFunReviews	5
+UC33e-8wymNDlwBmZhvcD69g	JUGUETES Y SORPRESAS	2
+UCKycQUJNiKdZp_fdxX4Fu6w	Trabajos, Carros y Rentas todos los EEUU	2
+UC61YzFVCvX9Nw0bE2gM7MUA	Dan Surprise	5
+UCGhuGD-LE45GLqSMaxN3Hsw	Black Moussiba	1
+UCF-Emja8PaCXFxe-YeftGqQ	Moriah Naomi	1
+UCiVI2-9s4PMhoNOD7G2p4zQ	laurentayy26	2
+UCSRy3XyVm8Bj7XitXAecWuQ	Happlesful	2
+UCGt7X90Au6BV8rf49BiM6Dg	Ray	2
+UCrrhBw0LpA5mNMgYPMqny5Q	districtlines	1
+UCfFs2iOpRSt3y6TFUyNxHgg	Mike Penny	1
+UCTHqRFoaR_B2pXjM1xjDowQ	Joe Raciti	2
+UCaBf1a-dpIsw8OxqH4ki2Kg	Geek & Sundry	6
+UCbVweePZlI0oDtBKu6I725Q	Team Tiger Awesome	2
+UCWXCrItCF6ZgXrdozUS-Idw	ExplosmEntertainment	4
+UCVtt6C8Qu_ia7g2l80sY2kQ	SMBC Theater	2
+UCLzVDq-tl9I5EYDC34t4U9A	ThoseArentMuskets	2
+UCvG04Y09q0HExnIjdgaqcDQ	Because Science	3
+UCAVadSTSh382kte-fQHqMNw	Legendary	2
+UCDiFRMQWpcp8_KD4vwIVicw	Emergency Awesome	1
+UCc4jbVPThJ8CKiligww4w5Q	Doctor Puppet	1
+UCzfC0gLAUq4UTShtfjTmw1A	Live From WZRD - VRV	2
+UChyxmgLSpbwFj_MueAJZMqQ	Shannon Coffey	3
+UCoGjf_GM9MjBNMx5YDdbVlg	HANK Comedy	2
+UC19WR_h7ME7rIbq6XBgvYfA	StarWipe	2
+UCqq3PZwp8Ob8_jN0esCunIw	Just For Laughs	3
+UCl-pWe4vpuGyDLXMgsP8g0Q	Juste pour rire les gags	7
+UC6iniX9nuuuwacoo_um3H_g	Juste pour rire	3
+UCaAZ2O-1wvipTqdbFv2cJJQ	Just Kidding Pranks	7
+UCmBvQYdo2Y_yAhIe_gBwAww	Hidden Camera Classics	6
+UCi8FFfKYNNNZz2XjkbWdcpw	Las Mejores Bromas	7
+UCX28B_w6gHJnOT2HEj681QA	Just For Labs	4
+UCHcIcCNAULM4qWs6-9Iy-Tw	Bustle	2
+UCTbn-TimU-oVSQV0B-5pJ8w	The Zoe Report	2
+UCgCudMsK-kxYxB2RgiS3bzQ	TBS	2
+UCW2pj23DDP-uJrGSqLdWldQ	AskMen Dating & Sex	1
+UCvgfXK4nTYKudb0rFR6noLA	UFC - Ultimate Fighting Championship	1
+UCorWnGJoJI-FuMXmd-rusbw	adamraycomedy	1
+UCNFR_CwjlRce66lcQODXkdQ	Zenn Films	1
+UCG359oyqJPermNYWuVfz2Aw	Day Care Comedy	1
+UC_ag6gxED88ncH94eUmSoiA	Keith Saltojanes	1
+UCaU7p18wPjUb4gJD6mjgM1A	THE MIDNIGHT SHOW	3
+UCa8TRweaqhDuZScBzYQb2Zw	THE MIDNIGHT SHOW: LIVE!	2
+UChT-l10Pm5m-xOeYOl_37Xw	BriTANicK	4
+UCURh3ia3U-kRbWQit7y3MqQ	Tim and Eric	2
+UCpQqWN1m827seyTCw9-gU9w	PoliSub	1
+UC-PSqn2HmFzAzaFWoQ9h-og	Local Empire	1
+UC8bTQzxgvKkXDAaWkeuUlkg	Trevor Noah	1
+UCFvub3YrEUoXl8aPHZBbHqw	The Jim Jefferies Show	2
+UCqSllZ7UUq0giIkkPfVYujg	The Secret Life Of Scientists	1
+UC1Y7onDsPyfP-lu--SXF-ew	Quarks	2
+UC146qqkUMTrn4nfSSOTNwiA	musstewissen Chemie	8
+UCLoWcRy-ZjA-Erh0p_VDLjQ	Y-Kollektiv	7
+UCFBapHA35loZ3KZwT_z3BsQ	Game Two	6
+UC6zXbTQEujMO-5CzyywlVDQ	Bohemian Browser Ballett	6
+UCOgPGtSnFR6GM-AkzCnxqMQ	funk	8
+UCkBoq9BF-2fIdU4qWeZ5ogg	WUMMS	5
+UCDIDXF4WM1qQzerrxeEfSdA	coldmirror	4
+UC28vN_rPD_FOS3Wf7qwHyLw	alwaysxcaro	2
+UCTKVG28p-LoX5q2Vp0KOb8g	Koch ma!	3
+UCa_MF1hIC-oCTsEJDegmaIQ	Fynn Kliemann	2
+UCnmLEDLAhktj4IKDce64N_w	Fynn Kliemann Musik	2
+UCzRKYvYix3EsCJsxb40Dyzw	mathisox	1
+UCwOvSO2kf7sm_ZQyi6_DL4w	Wishlist	4
+UCISU64nGvougXKjzaigDlag	BongoBoulevard	5
+UCfa7jJFYnn3P5LdJXsFkrjw	STRG_F	4
+UCFlqsKkyRi4nptSrdbkwdSA	aWish	2
+UCA3mpqm67CpJ13YfA8qAnow	Terra X Natur & Geschichte	3
+UCfb7LAYCeJJiT3gyquv7V5Q	DIE DA OBEN!	4
+UCHnmeuSOn1Hscizw6otqWrA	Scobel	2
+UCySxeQ0avHLwZhys1J4J7Zw	Die Klugscheisserin	2
+UCIbgVi8Fld5Rla-Vh13ci-g	Einfachso	1
+UCp_AVgbmJ4o3A8qzkEz1eVw	Tim Schreder	1
+UCYUZr-O3UdDdm_mF4XA_TbA	explainity \xc2\xae Erkl\xc3\xa4rvideos	2
+UC-ry8ngUIJHTMBWeoARZGmA	zeitzeugen-portal	1
+UCSzAsgKDpNkch1eRA9w5nww	Talerbox Invest Smart	2
+UC05_iIGvXue0sR01JNpRHzw	Mathe - simpleclub	2
+UCMI9UhY1ehLGfOP5KNIKIaQ	Doktor Allwissend	2
+UC6LmdgrKs6WRVCYxBm-_MvQ	Lerntippsammlung.de	2
+UCSa4RnmvfBbLgkEwqCUNGXQ	Sommers Weltliteratur to go	2
+UCPtUzxTfdaxAmr4ie9bXZVA	Mathe by Daniel Jung	2
+UCXmk7Qkdikk5m1Aeyf0ttMA	MJ Education	1
+UCc7GA9GoXhPk5EC0NQg9lsQ	Werther Blog	1
+UCjJGkumY_MJ_NJ_iA839RKA	StudyHelpTV	2
+UChdQSSTnaVUe8u_IEg3w46w	STUFF - Wissenschaft	1
+UCAXAtQN3WqV9Tir_xlgGIyw	MusikTraining	1
+UCK4_g0Kj1822YFlWXITpuDg	Paul Vollmers	2
+UCg8kB1Mpoogs23Dv5gg78dg	WissensWerte Erkl\xc3\xa4rfilme	2
+UC5l7NKwekr3uXFXRhtSi7_Q	YTNewsGermany	1
+UCDkSqY_k49wdOSPvoWhn1Bg	EuropeanState	1
+UCtk6_muWLwKKKpOKKyIfXZA	Marten Ronneburg	1
+UCHd7ejE5EtagNpWaOdLqX0w	Valentastisch	2
+UCeARcCUiZg79SQQ-2_XNlXQ	Finanzfluss	2
+UCzOHLoNwbebvEkn7y6x-EWA	musstewissen Deutsch	7
+UCaxX8488TqU6bZdcKpxPVvQ	musstewissen Mathe	6
+UC9RSWjfMU3qMixhigyHjEgw	musstewissen Physik	6
+UCWoRrCI80gxj2W7QL2-Y5QA	Bikesport News	1
+UChzleIVlmc-3qwnG-_KjBwQ	Nia's Nest	3
+UC9aqW6OlorVtyROa2zBRVMw	Live well, Jess	4
+UCtj2DotyJ7s1Fo4SRSpYqvA	JAIMIE KIGHT	6
+UCSyAvW_sGdc76assU7Ob2iA	brittanynull	1
+UCZIlQPXQ9GkyHHcZb2H8MOw	Dan Schmoyer	1
+UCY0OcOebhtuaNUBItAZ4kmw	Jamie Daily	1
+UCxL7KXCV5YW0KdPRV583VJQ	Missy Lanning	4
+UCkG0mk8MzPJmdHrKqS6vAFw	HeyThatsHolly	5
+UCQhSPLuO3N3Bxi_dgOPAU5Q	TheMomof6Boys	2
+UCjJAwqQ-vloaf33zUZ6P-Tw	dreamflight6000	3
+UCWOMW5Qol3eSg7RBxQ5x8Zw	Mom Stuff	1
+UChSXF-E4H9YEllJg-A3Jmjw	J House Law	1
+UCtNBFUsxj2YVbEc5HquzFqg	Carter Sharer	2
+UCoh0iC03xsDvmqWir2wh5ag	Angela Braniff	1
+UCopNpXKBx_M48AiJjn20dhg	Jess and Gabriel	1
+UCNSzfesc7IgWZwg4n6uXr1A	Tucker Budzyn	1
+UCVNYw6ZGvK1_OhF8OG1OrKA	The Edwards Family	1
+UCpED6pXvZVQyWZ3H1je-3gg	Cody & Lexy	1
+UC3fgv-ejI64Gw3FzastFIpw	Kristin Johns	1
+UCfH4d0Sd7zyQE7Y7VJH8mCQ	Aussie Dave Adamson	1
+UCK2ACorzpH-igxuHZ2ObCEA	itsJudysLife	7
+UC1wpYTu2dLT6U2kxqOWQeew	AprilJustinTV	1
+UCxJrnvfqSSvly5hiq2Fe68g	SACCONEJOLYs	2
+UCc4yillQaNo6a-iG2PYbbrA	Jefferson Bethke	1
+UCMIjEnXruVHtvgSVf6TgfUg	Wranglerstar	1
+UCFQFap1uLYvj6AR-56bdrDA	KatieOnTheFlipSide	1
+UCkWBwoJxfGuunFGKBc1kZmg	the JK today	1
+UChbKYCOnUtou3RPtFXeT73w	the johnson fam	2
+UCLPyjp5kxGEr8odmEsVb6Sg	Bonnie Hoellein	6
+UCah5-HV5ektOuCByZJcN6fg	THE WEISS GIRLS	3
+UCaGkVbFGD9JfRfppLbKR9mA	Melissa Weiss	2
+UCSLH3SFScL5W1o-ORoyJzPA	Jeffrey Weiss	2
+UC_g3TD1LEhCSgTI4gbQpmPA	Bryan Lanning	2
+UC9NrAXNrB-i1T1i0e4cUn0A	SoCassie	2
+UCyCuOpIFfSTAllF3BNMX2bg	Kyle's Toys & Games	2
+UCKXpOndr-nzBHjufPcvf8VQ	Shari Franke	1
+UCt_P3xPrrnOkYT5UQQ4vUIg	Deru Crew Vlogs	5
+UCin0rC2A402RiQxlpq-3-Eg	A Griffiths Life	5
+UCBzZ9lJmcsPRbiyHPbLYvOA	Zade	1
+UChikza6yUVgrs7L879pzZyw	Davey Orgill	2
+UClmOPX1ARMs193sXE13f5mA	Momma O	1
+UCo0LVAoq-v44oStngiVkQjg	Hair 101 with April	2
+UCdZRXtcgEnmSJqv08cPo82Q	Heather McCarthy	4
+UC-qTfV9uGirQ8S6dkwcFTIA	Hello Mama	3
+UCMjIXT-e_0vJE4zvObOTNLg	The James Gang	3
+UCI_akSquglVN_VK7dYAlK_w	Life Made Simple	2
+UCYvYLFiZt25hmpZ7o_jxBsg	The Chick's Life - RV Travel	4
+UC1e8lWb9zfX3k7hq7E_oJFA	Randy and Anna	2
+UCg8voYFJDappfsZURhvGQlQ	alittleaboutalot	3
+UCBLkcYTt5IskAMa-laL8ZAA	DavyCrew	2
+UCHJEKRd0WCPgBNFY09V6x_A	heidikimTV	1
+UCHsdfBKbJmIT-Ygu-vTTHUQ	It's Us.	3
+UCQmijkgT8ZFhojoukzdWPVw	itsmekassidee	1
+UC4cYelq2Wu91g752N2FnqjQ	ShayleeDAILY	2
+UCxueoCGKdUAio5qhUPj4xEQ	Jared Mecham	1
+UCEQCRBIIhbtLbYF5DQ6MJDQ	Bollie	2
+UC5J78rr3mI8VAQ1jGrIlohw	Matt and Em Vlog	2
+UCxjZe0qTFXh6jGm54LFWEDw	Aspyn and Parker	1
+UCR23Qy4uSW0m3gfIUmtdJKg	The Reid Bunch	1
+UCVMDedHLHVWqKBLYftrnd9Q	Dinora Walcott	2
+UCx0_Z4RFF-cQC9B6GRaChTQ	TheKarjacksons	2
+UC1S_L-lKUAue2TgxpklPbNQ	Does This Baby Make Me Look Fat?	1
+UCD75vb2w7k-bD1Zz1nz0OZQ	The Mom's View Too	4
+UCYA0YhcjzzKb-S6cPkjHcIA	ReneeJRoss	3
+UCVHWmfKzcqQJylyEEFA2p-Q	Refreshing Motherhood	1
+UCTAO2fxGGdtnSPvyYENGNsA	Bumps to Bundles	1
+UCvMAR1tFICOvHcREUXLKqjg	The Maltbie Bunch	4
+UCFY4bEGqtw6RCgU_mtOK9yw	ClintusGames	5
+UCYhs3Mxz9p7W_dTDM1KEWmA	ClintusNow	1
+UCh0FeC66TvDkGa1_xfs9gZg	SierraCreates	3
+UCf2596It0RH3GwnCOMbfMOQ	TheBevos	3
+UCHE9-evJBlpjVxgsORxo36g	The Swags	2
+UCwScB6pyEdEb0NAosBUBQXg	A Ticket Anywhere	1
+UCd0z28bM_w3YpfJSYOac0MA	ErikTV365	2
+UCOB4_WJoxaqb_yRMZsunnRA	Ralph and Lou	2
+UCd3jVOqiNsHvBM1lrj6wwuA	The Travel Vlog Family	1
+UCm078A-Rr5bMmEJEbykgG_g	MykAndAndie	1
+UCHcZZf9yUWc-xBkp5Qi-GFw	KittiesMamaGaming	2
+UC_fl8KGVzgyQSxb8Q1p2iwg	KittiesMamaVlogs	2
+UCA_AyIHWPUT8IHFQsTFHmMg	WookieWarrior23	2
+UCOcE8WdQOSeqFczVxGatGKg	Lamarr Wilson	4
+UCe6cUT0pyr287kMgFrOpGaA	RadioJH Audrey	5
+UCHa-hWHrTt4hqh-WiHry3Lw	EvanTubeHD	4
+UCx95RSyGUWKYWpuSxu7XHsA	Chad Alan	4
+UC6-X3epFE06GDWRHLQG_YMA	Robeson Design - Kinwoven	2
+UCh-sQC1L3J7xicFO1Bo5DeQ	leokimvideo	2
+UCqdGW_m8Rim4FeMM29keDEg	FunToys Collector Disney Toys Review	5
+UCdYlEm7h4mOc0H-7Mo8rB6w	Gabe and Garrett	2
+UCunMHIBUflebXAvRjZs10bQ	TheHappyNarwhals	1
+UCsDl6A77CrbkSJLtxQFVDGw	Jack Vale Films	4
+UCIz5OTnOcyx-8iZjT4sNthg	Madysyn Rose	2
+UCiUW0yKfM2ONT_CDY--fyeg	LuLaRoe Epoddle	1
+UC0OSkcHb6z585t_q2foxm6w	Epoddle Nails	2
+UCZ5AKoqQ7utkIncqFg3DFVQ	BabyLeague	3
+UCljCteS_0g-b_-KyqIE2-pA	Epic 10 List	3
+UCTSroY_m6sDF-oVgvlDirXg	HOW TOs and Reviews	2
+UCn2EumivM5fVGXzJ-sfApOQ	Our Little Planet	3
+UClrcCN-PAhGjlD_A5C_ogHw	FamiLeague	3
+UCJNp22aMMuDuWB35ZFUSgLQ	Cohen Is Trying	1
+UCX6OQ3DkcsbYNE6H8uQQuVA	MrBeast	3
+UCsZXuHKonP9utl5q2hFCkgA	Studio C	3
+UCqSzPNU7nVq4WL7kUhMZDqQ	Redhead Express	1
+UCt8lRYpzb-sSrKFb4DT2ECw	American Enterprise Institute	1
+UCblfuW_4rakIf2h6aqANefA	Red Bull	2
+UC-bcS96io6KqnSXJpYICkVQ	BYUtv	2
+UC5_SBQbLA9Kg7Jh5GpXoP3g	Adobe	1
+UCBSaHU7p2B7vrDxT_X96oeQ	Matthew Elwell	1
+UCYZdLdZxfZh0KMpcLPAXsnQ	Touchstone Education	1
+UCZfmTuRFlH8PqOI_SM0IbQg	Ryan Pinnick	1
+UCfQoS9jq5nRWAek4dhWZvSQ	Dee Nimmin	3
+UCZbvKhLl-I7UomMugaO24fw	Brian G Johnson TV	6
+UCO4Nw0vUpxgb0zsziJ1SaMg	Justin Brown - Primal Video	3
+UCo33niDKpTpgwZ_dohqvylg	TubeBuddy	3
+UCcVLpfBiN3J6V3o9XsiABlw	Little Monster Media Co.	1
+UCKmkpoEqg1sOMGEiIysP8Tw	Evan Carmichael	2
+UCB7ZX3piXOfyu1N9ho2ULIw	Deadbeat Super Affiliate	2
+UC8jkbVLPvztz8TuE98OYo8Q	FRONT PAGE TECH	2
+UCTd08bYLVmO6sMR0ftRltuQ	NothingButTech	1
+UC0IqRM2Mwybj7XV9YPnJn1Q	CJKnowsTECH	1
+UCOEMEjL1GBJ41uCWur5VXWQ	GaryVee TV	5
+UCW-UKjTGRYo8hQjZfU5tMOA	Curse Free GaryVee	2
+UCR-kvGIeOhSP9R0pXPypVuQ	GaryVee Espa\xc3\xb1ol	2
+UC6r_QhqdpBaLoHo_Prbp6Yg	\xd8\xba\xd8\xa7\xd8\xb1\xd9\x8a \xd9\x81\xd9\x8a\xd8\xa7\xd9\x86\xd9\x8a\xd8\xb1\xd8\xaa\xd8\xb4\xd9\x88\xd9\x83	2
+UC4zK9RvWs60PdgbNRF3L26Q	GaryVee Brazil	2
+UCKBnlTTgEnhIXv_c4LvvyMQ	OWN	2
+UCDgUAAHgsV2fFZQm2fIWBnA	Prince Ea	1
+UCMKC0QF4WrVIXdotkh6HG6w	Detail Therapy Podcast with Amy Landino	1
+UCFnufqozOUKFG5QKcy2CsmA	Schmenzo	1
+UConwS2bRuKXCSgdlPv8h9pQ	Vincenzo Landino	2
+UCnE_vx0f2y5iGpv3eopfZNA	That Creative Life	2
+UCEvzv3C8BR8d6r2VRqqsA_A	John Hill	2
+UCqHuGF2axS8Yf89r1tUVS_A	The Futur Academy	2
+UCWqGiF72rubTwZLNoKT9Y1A	Chris Do	3
+UCSLeoz5odIGS2GdlbHbCAUg	Matthew Encina	4
+UCLriEmvXmu03-mlBu3yGcOw	MrBenBurns	2
+UCkiC21kJxYO_eUEJ5GgFLnw	CreativeLive	1
+UCKsP3v2JeT2hWI_HzkxWiMA	Lewis Howes	2
+UCNFGSWVOdVWEe9XJNnfTdyQ	Entrepreneur	1
+UCWUGGwfTfJ0-2jUS3dZqOJA	femke	1
+UCO3ZMhc3RHWyyNupkmbAnBg	Hollie Arnett Design	2
+UCS8iR4o5fcYAo3TKiRa5e3A	Nathan Barry	1
+UCN7dywl5wDxTu1RM3eJ_h9Q	Flux	2
+UCJXz-QU2_KU7pSuWr12XTHA	Levi Allen	2
+UCfWZwsP8trUy5uHJg8gcGIQ	Mackenzie Child	2
+UC0FK_3h0Ec2iBKJ_Ah2su7A	itsjudytime	4
+UCyAWMp750sj3BjTMjm945Xw	AdventuresWithAJ	1
+UCAVLPtPUbcRM33jRVPXvOYw	THiNK International	2
+UCzZOLNNVcuwKhgIK2uiPnwg	Urgo's Clips	3
+UCtUxhy5gIKBYrY97ZMhX8NQ	Film in a Year	1
+UCbitmu4-SsxKkvRSx5Z49Mg	Urgo's Game	2
+UCLg-DEYIaObQommBxEM_rqw	ItemSea	2
+UCfElIzUhblCpbueMgf16yFg	theytOrbit	3
+UClIb3M8hbYOIE4JnZUOw7wQ	The Urgo's	1
+UCro42I06RdL0FORSbuKb4Qg	Ryan Craddock	1
+UCZLDAVKRnvBdzUP55gEw0Dg	Jaymee's Journey	1
+UC67f6whPY0ZzudUZaY2AymA	AmericanAuthorsVEVO	1
+UCwQIPsdr-FATQqJkXgQGNKw	MisterWivesVEVO	1
+UCY14-R0pMrQzLne7lbTqRvA	Vevo UK	10
+UC-7BJPPk_oQGTED1XQA_DTw	Vevo DSCVR	9
+UC_x8HoD18XJkILQBreVENUQ	DJ Snake	1
+UChuZAo1RKL85gev3Eal9_zg	AfrojackVEVO	3
+UCHKsIBnhOfusZtsjFyKpX8w	DillonFrancisVEVO	3
+UCSXT1otf3mrMBEM02m9QARQ	AltIndieOnVEVO	2
+UCjjC1Jk_1o1VWpLalgo21XQ	GEazyMusicVEVO	1
+UCX1fmvrecx_W3u0Ikks353w	NoDoubtVEVO	1
+UCf3cbfAXgPFL6OywH7JwOzA	MeghanTrainorVEVO	1
+UCdI8MAC5HoPJSJ4zrgDDI-Q	Tame Impala	1
+UCtQMmwBJGvINGU0lZ_GrZKQ	PharrellWilliamsVEVO	1
+UCYBK1kjJet6mAPBbc5Qx-0g	NnekaVEVO	1
+UC2TdeJmXTI34g5U13mxMsLA	Vevo Italia	3
+UClGZNNSnYzavv32-PptUTAA	VEVOEspana	4
+UC-Eb73KoiLmtXnxkz6XLk-g	VEVONederland	2
+UC9Pbo1KXq5LRSV8yNTW6jtw	Vevo Polska	4
+UC0t9HSnAFStdSrlHs5K7raA	Vevo France	4
+UCnzJFckvQBA5nn9lMu08LWQ	JColeVEVO	1
+UCCFs35_Ey5FXLh5L8eN08hg	TheGameVEVO	1
+UCAOOGnUiwzWs-p_TQbzdUEw	Vevo Deutschland	2
+UCPZ-rkkRqY6OnjNBFs0LAJA	VevoBrasil	1
+UC-1dnd5sdAQXHLCfDFTsFKg	Struggle Jennings	6
+UCneIsfX5BQ75w9qeyKyRBqQ	Bezz Believe Music	2
+UC87iZ03xDe8csLCjWyV2E0A	Strange Music Inc	2
+UCTNLwcbFKE8EviV2WCwDAhQ	Moonshine Bandits	4
+UCxGH_iZMj-78Ot6tr-F4F7Q	OmniaFlow	1
+UCWTxj1E6hEWGAWgwolGpOLw	Dirt Rock Empire	4
+UClLcuHzoYWo8r1EVhhVLTyQ	rehabmusic	3
+UCEjZPeHi44BbX_g9hfJUlHQ	ONErpm	3
+UCzlxR3vPgvb6dJj6b_W83lg	CultRecordsNYC	2
+UCdQUGy9-yIubtxfecnBUAYw	Katelyn Tarver	1
+UCdAFbocCSvZy46rh0bUEDIg	Doobie	2
+UCg50LwwyyYVeDAGzCdB1bPg	OSHUN	2
+UCfS3r8LG74YZ8-dMgldFs_A	Lera Lynn	1
+UCQnBPAuZuTw9OYMybAWsqMQ	SPiN	1
+UC8_Tr1rMAUG_dTr5hKpDq-g	The Stone Foxes	1
+UCnepnju2KQeqYRnNa0Yv44Q	OverTime	2
+UClJMqrWQJ8OYWJ4ZdfqZdeQ	Brass Against	2
+UCYnoBdR1vAP7sJ24tYjWwiw	TRALA	1
+UCbiZSIlPKFDj4lNNtm6NAAg	Fandango FrontRunners	12
+UCAUO8EhsSTz02stvKDupChQ	MTV News	14
+UCrkzfc2yf-7q6pd7EtzgNaQ	Wild 'N Out	13
+UCalcFcqOC_UdfxQAPHhwOqg	Jersey Shore	2
+UCCnWpQ_d4Y0xBHQZpEIdFcA	MTV Catfish	7
+UCttaiawOR1n05CJqmaf0uPw	MTV's Teen Mom	7
+UC5hk6O61heulo6Ld-ZNP6WA	MTV's Ridiculousness	6
+UC1Ho_JaEn_gg230Qs14YUPQ	MTV's The Challenge	6
+UC-PLqRoj7_eSUIg_qkj5HfA	MTV's The Hills	6
+UC2MUlfEvfikfJrhoexq3Kow	MTV's Making the Band	1
+UCRLbrE3FKPGDZNLtCVNLnQg	MTV's True Life	2
+UCPsLq0LqvMOk9Zc1rQvtMkw	TRL	5
+UCmuccm2PUMlyIyvD6EOh_qA	MTV Decoded	2
+UCStBfpQeA4imrUzPJoTXoFA	CMT	5
+UCuwUfM8E79h2sqp34Fut6kw	MTV International	1
+UCgChUBhjz676-JXJNF_yjig	SPIKE	2
+UCjzEF5kUZypUftfHD1MKuCg	Lip Sync Battle	4
+UCzrh2s9Vu9wUBf2Y2iIYcgA	Ink Master	2
+UCGgPV91EI-3Inz7NJ0Hx-mQ	Soul Train	2
+UCoRPneJymvaGJZAFSg8vDlg	BET Her	2
+UCzawsz7oUZX6fl27AjNiwLQ	Black Coffee	1
+UCF9imwPMSGz4Vq1NiTWCC7g	Paramount Pictures	1
+UCx27Pkk8plpiosF14qXq-VA	SpongeBob SquarePants Official	3
+UC6UzskfVDPkJ5aSe755ZGgQ	All That Official	3
+UCOWUNZA1AijnF_uTcEt1GVA	NickRewind	3
+UCHiceVclOIFCgAcveITRLLw	Nickelodeon UK	1
+UCQU3PO2g_rmqbmr8VJWvrsA	Nickelodeon Deutschland	2
+UCeGvSi1Tb8OV78ue3_tux1A	Nickelodeon France	2
+UCNG2KUXB5WaEWUW02VBK6Bg	Sparta Strength	2
+UC1KbedtKa3d5dleFR6OjQMg	alpha m.	9
+UChNN7VBxPTiNrqjUaQd9bxA	Teachingmensfashion	4
+UCm0f2zUj2eSEKfH8IpyHV3Q	Beardbrand	3
+UCEgoThiTZG6wbTVA6B1Ksaw	Gentleman's Gazette	4
+UC1AWSR85lMh68j7u_Ukzwcw	Ryan Magin	3
+UCaaApS4TMI3KueyAkIQv1XQ	AWxInc	1
+UCHfnqyD8fb_rzkRmZSo0Wng	Tanner Guzy	3
+UCPb7_GpH4DdpMzmkmZdPi8Q	Real Men Real Style Russian	1
+UCG-KntY7aVnIGXYEBQvmBAQ	Thomas Frank	4
+UClbfoD1o7sV0VxErpxTCpyw	The Modest Man	4
+UCj7w3eTgExiIwLXp-Q6ZZCQ	Gent's Lounge	2
+UCZyCposXwcyopaACep44maQ	Alex Costa	2
+UC0zYuwJf9-i3ROZ1F30gV4w	Robin James	2
+UCPxMZIFE856tbTfdkdjzTSQ	BeerBiceps	1
+UC1PkRYud11ogYDqgdqd23Zw	Based Zeus	1
+UCrEFCdOOfJHZi5tvnS0jLlA	Sangiev	1
+UCbq8_4_mFAx_rzDF5VT7MJw	BluMaan	3
+UCU_W0oE_ock8bWKjALiGs8Q	Charisma on Command	2
+UC1e1zwANstVjpT9Grstaa1w	Poster Boys	1
+UClwxxBWgcQPLNTpySVNvirQ	Makeshift Moviemakers	3
+UCvrkkzvIlJG0R1r4lXpMATQ	thewingmentv	3
+UCgoqMnVfirMBrtRr9Xf6vCg	BendAndBreakFilm	1
+UCVfBMkJIuxRVtgXjGj3KGDg	Lacy Prince	2
+UCtgeHZc9t4m9LuwV_ocrCUA	Marshall Rimmer	3
+UCPTVYxUoYWhNa8J7GzIGnyQ	Zach Anner	7
+UCpJ9pYMzlivLy-kFAJCV8pg	Tanya Brisby	2
+UCa6vGFO9ty8v5KZJXQxdhaw	Jimmy Kimmel Live	1
+UCLrI-dOLyDbRnPyUeWadsOg	Elliott Hulse	1
+UC7X7hPOLaoNylKJYPRgEnFA	Critical Bench Compound	1
+UCwher3o4YKb85XUztEh53Eg	Total Fitness Bodybuilding	3
+UCwxklfO1LBHPdkcUkzY9duQ	Live Lean TV	1
+UCM4GEVa1Qi1CTdJg0ljdoow	overtimeathletes	1
+UCJpQ2TzpaoYPp1Y5U1Z7beg	synergyfitnessteam	1
+UCDtY8hk_XN1N5mfvEAHEpPw	Get Lean After 40	2
+UCvJmk4PTNkXEEbb7JXha3IA	Nick Nilsson - the Mad Scientist of Muscle	3
+UCedmzK8pHrU57erP9_oYNJg	IGN News	10
+UCLQ22KZD2OE4tFjc7NfWWRg	IGN Anime Club	2
+UC4LKeEyIBI7kyntQMFXTh0Q	IGN Walkthroughs	11
+UCcoGampOoeZW-BWTL8SesyQ	Prepare To Try	8
+UCL8Nxsa1LB9DrMTHtt3IKiw	Mashable	2
+UCBUPMYbDqh_wlk4BLVuA7NQ	SundanceTV	2
+UCtHwCi9Em8nWcpyF4z3aTNw	IndieWire	1
+UC5sP0cx_Ez-LhQxOp6Mk3Tg	Snowfall	7
+UCRIaH0g_AQpJ6gcqaz6UpRw	Sex&Drugs&Rock&Roll	5
+UCP_hBVxXmuYSVTjRmNXgckA	Taboo FX	6
+UCF8T5lzOFLNtIEUBUum0O_Q	The Bastard Executioner	3
+UCuSa3BiYnXGJ6kYWsvBc6Lg	The League	15
+UCp-GayvReDdlgE5zOx06LQg	Married	16
+UCqTO078gTGti2t5mOT_Lmpw	Sons of Anarchy	22
+UC2vSheBUtuY8ucZpVrzg9zA	Ali G: Rezurection	13
+UChSV1P_ltAnxkN42XGRvfNg	Justified	15
+UCAKa99FLYFioRF9_iki3Atg	Anger Management	13
+UCcS_na3ugBLZWwdRdIFmDOQ	WhatCulture Gaming Podcasts	1
+UCABL3iLvEC6XRRz3y8w1fOg	ReignOfGaming	1
+UC7foeIw1ZW7BaqHAUfFgRzg	TheAngryHoneyBadger	2
+UC_FoXwVjRM9qgMvNeh92b0g	Dash Star	1
+UCPWEBSv_6Fk8ADjejQs7EKA	Oppai Senpai	1
+UCHCph-_jLba_9atyCZJPLQQ	How It Should Have Ended	2
+UCYbrF2-PsN4_vAkRdYjRwNQ	AOK	2
+UCkQExMyUlOQHcXE2f9DHR1g	Ravage Insult	2
+UCx7ErH9Mxg9WiwU75377GXw	kids3pnt0	2
+UCO7fujFV_MuxTM0TuZrnE6Q	Felix Colgrave	4
+UC_2D-PRNWZhawboGn3YFINA	FATFINGER	2
+UCLNx637ltD8sjW-45ZtlYxA	toonhole	3
+UCp1aSRSpzr7JZ0BVqTnyKsA	theweekendpilots	1
+UClLFG4uDxke_oBkZ78ktEog	Machinima Happy Hour	1
+UCumX61u3NGG7HcBTnnWmzRg	BravestWarriors	1
+UC-pE29OUR43BqqBxIeyo_GA	ChannelFrederator	7
+UCeEzfNaT966HcGimjbMIDpA	Dangerbird Records	1
+UCFR6sruqEq52xEqjE84tq4A	Summit Screening Room	1
+UCl0dDlnsHaWtviWyncxEwWg	LionsgateTV	3
+UCD0nBMLdq_KbIK9u-mzpNkA	BeFiT	2
+UCgjZhV055WHIYwrmIrvtFQg	Lionsgate Music	2
+UCDOD-ri1hWsZGkGWAgA_bOg	Dirty 30 Movie	1
+UC09LxsuMW6nwwX0mE4s744g	World of Dance Championship Series	2
+UC5PH6ASQ7UDbzY4Q9Wp7OWQ	World of Dance Records	2
+UCOiUKJ6lMU3yHbVNtNXJyfw	NBC World of Dance	19
+UC2-vrGETGeMRsOp26ASqMCA	Lucie Fink	1
+UCgeyxLoM9JcIP1t5kdCdVHg	RIOT	1
+UCzXtkiRsRbGvzO73XL3UGhQ	Meghal and Natasha	1
+UC7duzDwGoGU6S51Qyask0kA	Iris	11
+UCB_TGajnJymiSmu6zWkjW2Q	W magazine	11
+UCk1IXTn78FtPm8p6ytbvwog	Style.com	11
+UCIsbLox_y9dCIMLd8tdC6qg	Vanity Fair	12
+UCsD-Qms-AkXDrsU962OicLw	The New Yorker	10
+UC0k238zFx-Z8xFH0sxCrPJg	Architectural Digest	9
+UCbpMy0Fg74eXXkvxJrtEn3w	Bon App\xc3\xa9tit	10
+UCsEukrAd64fqA7FjwkmZ_Dw	GQ	11
+UC3TIRH4PPSDde66Hg5wGh-w	Cond\xc3\xa9 Nast Traveler	9
+UCY9eEaH19ulZmdusctU1ejA	Glamour	12
+UCftwRNsjfRo08xYE31tkiyw	WIRED	11
+UCaNV51NgkCnEXWcrR8Utv0A	Lucky Magazine	11
+UCr7ZFxNlDvb3waeoTN1_3mA	Teen Vogue	10
+UCTUPsBBQA4Am8k23BYETRJg	The Warner Sound	2
+UCcG6zooS9BlSgiT0_ICuD0A	MattSteffanina 2	3
+UC8LaBH9v0bSEcEFck0RAfeg	DANCE TUTORIALS	3
+UCyIWR5t_fCbvhLdO4vlAsMQ	DNCR	2
+UC0QDWoGLsvglvQ2seGZp-PA	Copper Chef	1
+UCo_WdRp46MOCYZCDijlCDlA	Lia Kim	1
+UCup_8TVTXnU0_itUcsrnYYg	stacyvlogs	2
+UCDIDkQcYsg2Is6s3aywcxfQ	lil' stacyplays	1
+UCj5i58mCkAREDqFWlhaQbOw	stampylonghead	1
+UCmKnJ1mLbnHNXS-fPNWO0OA	Sqaishey Quack	3
+UCXkQVG6OdyB2ct4xOOZjmPQ	Amy Lee	1
+UCp6BQBSXnB1yXTnl0D0NAbg	Walschaerts	1
+UCo1EeBExY-7dtu3BlikS3Fw	More LDShadowLady	2
+UC4qdHN4zHhd4VvNy3zNgXPA	SmallishBeans	6
+UCQne7qUlo887f3ryu5nMqaA	TheOrionSound	7
+UC1bBWXv1KWqNmEXJAhMfXSQ	Vixella	5
+UCc5h7Pz308KNjOunkmw0GOA	SeaPeeKay	4
+UCzNhowpzT4AwyIW7Unk_B5Q	ZackScottGames	4
+UCUx6WuAq3TqY07efxs4MQwA	Miss Yammy	2
+UCGUmDohfMwaqdkWwOMxyGRw	koil1990	3
+UChQ6Xk8iWHcU-4OJOcNCxOA	Tay Official	1
+UC2LEZSdNrbedzmqh9YnSTAA	BBPaws	6
+UCJKbTvbmmmUnj816plSC6og	Phoenixgg2	3
+UCnU15IGX3RHDoEKSrR1-FCw	Marielitai Gaming	5
+UCvbHueVpe8wDKKIlF9vN51A	GraserPlays	1
+UCezGfcAJ_YWL5B6xIhR-25w	EmOrSomething	1
+UCAyFmGhTVmeSmGvx4ycr09A	Grapeapplesauce	3
+UCEuN0IauvXNTn6KhP9AVJVw	xNestorio	1
+UCETZ7OiW7-wqwb-6hsz3C4w	Bionic	3
+UCBGp_XPj3Oudk207UNw_tAg	Doni Bobes	3
+UCT2X19JJaJGUN7mrYuImANQ	America's Got Talent	18
+UCpdK1NLHxEUGXc1gq2NxkTw	The Voice	18
+UCc1oUaI2fYj9PdcH70KFLCA	This Is Us	21
+UCUG6rn3QMETve9cjGLtDLxw	Last Comic Standing	1
+UC084FSD0cO4ZOS5SonULRCQ	Parks and Recreation	13
+UChDKyKQ59fYz3JO2fl0Z6sg	TODAY	1
+UCSUSlzRr_tOotEhjkNrzbXw	The Good Place	12
+UC1i7d7ZYO2QnNh__holyQpg	Superstore	12
+UC44nZ0anWb9ph19XpZsh5nA	New Amsterdam	20
+UC1TXbXEwxru6_ceL-WJZk4g	Law & Order: Special Victims Unit	20
+UCw6sbdbTWFDnjC-9Vi4g1eg	The Office	12
+UCs2lmykYFJS5uhcE9ThA6zg	Chicago Fire	20
+UCtRa82x1BwQdnpHf0Es4gcQ	Brooklyn Nine-Nine	12
+UCOkUSiCUJQRSkzRBTOnNdCw	30 Rock	12
+UCsno_kP7z6nQpkZS9P2-Fpg	Abby's	1
+UC0PEAMcRK7Mnn2G1bCBXOWQ	American Ninja Warrior	16
+UCzEzPOi-esLKSUATKP7N82g	A.P. Bio	1
+UCqfhoZOoNt2ZpsDBnLAAW4Q	Better Late Than Never	1
+UCCN6kWMEirfSf2B9eYKV1mg	Blindspot	20
+UCgemMPExPP4umODbiFtqw_w	Bluff City Law	20
+UC8m0c5CWRhKjlMMBdLC4HMw	Bring The Funny	16
+UC4z2NxFslCoE_XaOQcBas6w	Chicago Med	20
+UCx07PjBM8PCwUmEs1CUe0IQ	Chicago P.D.	20
+UC7JnRXnxWwSTYe0jRGSae8A	Days of our Lives	20
+UCuQeltlW6VGpbpu6TFo4K7A	Ellen's Game of Games	16
+UC5KNbPkLknTAineC8Yx2otA	Genius Junior	16
+UCF6IwXZuRSAuzx92CBfbY2w	Good Girls	20
+UCN5J9yMe98lz6mcYKpSddjg	Grimm	1
+UCpBkBMO8IbYAMdtYNaMxKgQ	Hollywood Game Night	16
+UCoJ2pA5NsB1blI4cFst3WfQ	I Feel Bad	1
+UCQMELFlXQL38KPm8kM-4Adg	Jay Leno's Garage	16
+UC03uDwvT6Jy2YjYJAsU4J7g	Little Big Shots	16
+UCnD5lTlF3_tMTs5br5LjXXg	Making It	16
+UC5ERTsrnLJQp9xDmxuC1cNA	Manifest	20
+UCHec0SQGbWtMK3fqu1mdtnA	Midnight, Texas	1
+UCCSst3UZB3JtdceFBd-Y9Gg	Perfect Harmony	12
+UCVGlMLdxmdaGeol43GNmNmw	Reverie	1
+UCSWFDPbP9oTmowV4A1CiBjw	Shades of Blue	1
+UCn-n9rB_JINCyukqH8aflcg	Songland	16
+UCdde4i_fVDuGnFC0Q4854NQ	Sunnyside	1
+UC8HNw6aXRBQDV8enurAF-CA	The Blacklist	20
+UC6SkhTpdUl39nPsDOxYpxDg	The Enemy Within	1
+UCPmzHPcUCbrZwlvCQALgwzQ	The InBetween	20
+UC8F-JB5ucgmXBEiSpurWb3w	Titan Games	16
+UCCJboGJ_wkcZ5Y68EBQRd_A	The Village	1
+UCqvEXxPyPRTUdEE_AXBe-tA	The Wall	16
+UCy3pjbxMckWpQI5Wz-OqLbg	Timeless	1
+UCLem9J0NkphqGbIYX5_uZBw	Will & Grace	12
+UC1vdkc3ZkMObNzchoky3nLg	Kelly Bourne	2
+UCgSh5D_JvBacEOKrMB8BODQ	It's me, Melis	2
+UCmKjarjqpt95tNyTpICe11Q	Jessi Sanfilippo	3
+UCx-S6eBuL9SlwNZTHI6P9Bg	Lauren Toyota	2
+UCsYKIvIclfPX29mSvVwU3PQ	Amy Bellgardt	1
+UCgxiDADHpeXZr6VJbqRq8rA	Jacq Court	1
+UCpAoDaXW7Q9-D-KuZl5OmLw	Stowed Stuff Daily Vlogs	1
+UCZB32syI0FFtThd6xkPTRrg	HealthNut Nutrition	1
+UCudzojQxnLAI7uQPVYJy_oQ	hot for food	2
+UC1DYSFZqjIW2JeLOdWsjOQw	MamaKatTV	6
+UCOtoxvHLKrIlWbt4MRBWfbQ	RawBeautyKristi	3
+UC28FD2v19VZFryIjpvGIFLw	Mixed Makeup	3
+UCaWL6viM6hlATTXrkMBqF-g	For All Moms	2
+UCBCmamMhN7Yxh6MzCpcYcTg	Susan Yara	3
+UCldf9Ol5G0hMn_XwUeVtETw	The Stauffer Life	3
+UC6f1N1Cg__5Ex0aWBUZeYGg	Stauffer Garage	2
+UC0uHB4d6u0jIJSgPC3WzBFw	Brianna K	1
+UCS_HNa9IsACKWPxudUKsOWA	Beauty & The Beastons	2
