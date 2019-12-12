@@ -1,0 +1,54 @@
+Predict subscribers by inbound connections
+Score: 0.052622914674233516
+Coefficient: [97060.17953618]
+Intercept: 489391.0026475057
+
+Predict subscribers by outbound connections
+Score: 5.89936640771338e-05
+Coefficient: [3898.23761755]
+Intercept: 1266166.9983860815
+
+Predict subscribers by inbound connections, outbound connections
+Score: 0.07088574423248739
+Coefficient: [133006.37914492 -81015.81903177]
+Intercept: 795392.1839317868
+
+Predict subscribers by view count and video count
+Score: 0.5953531143741033
+Coefficient: [ 2.08456066e-03 -2.12420407e+01]
+Intercept: 531288.58704905
+
+Predict subscribers by inbound connections, outbound connections, view count, and video count
+Score: 0.6069117420657879
+Coefficient: [ 5.38508303e+04 -4.55996867e+04  2.02984687e-03 -2.76527476e+01]
+Intercept: 450349.84282017243
+
+Predicting views by inbound connections
+Score: 0.04126453532030128
+Coefficient: [32043217.56008953]
+Intercept: 109071080.406562664
+
+Predicting views by outbound connections
+Score: 0.0016709856523732247
+Coefficient: [7734744.66050097]
+Intercept: 317407725.2183698
+
+Predicting views by inbound connections, outbound connections
+Score: 0.0475719802943143
+Coefficient: [ 39918926.94282407 -17750333.91689455]
+Intercept: 176115062.82473925
+
+Predict views by subscriber count, view count
+Score: 0.6091495766786508
+Coefficient: [  279.85748002 40484.73724196]
+Intercept: -21654880.544976234
+
+Predict views by inbound connections, outbound connections, subscriber count, and video count
+Score: 0.610087824096972
+Coefficient: [-2.11010458e+04  5.81318937e+06  2.79851733e+02  4.01113866e+04]
+Intercept: -64527713.090049624
+
+Predict inbound connections by outbound connections
+Score: 0.28326327575348365
+Coefficient: [0.63842093]
+Intercept: 3.539490492718019

@@ -20,9 +20,9 @@ def main():
         pass
         for channel in all_channels.keys():
             print(channel)
-            #if 'statistics' in all_channels[channel]:
-            #    print(f'Skipping {all_channels[channel]["name"]}')
-            #    continue
+            if 'statistics' in all_channels[channel]:
+                print(f'Skipping {all_channels[channel]["name"]}')
+                continue
         
             request = youtube.channels().list(
                 part="statistics",
@@ -41,6 +41,8 @@ def main():
             
     except googleapiclient.errors.HttpError:
         print('Quota exceeded')
+    except Exception:
+        print('Some other thing happened')
         
     # Save everything
     with open('all_channels.json', 'w') as f:
